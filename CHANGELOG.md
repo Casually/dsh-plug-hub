@@ -2,67 +2,67 @@
 
 > 由 dsh-plug-hub 同步自动生成（GitHub Actions，每 4 小时）。
 
-_生成时间：2026-08-16 08:43 UTC_
+_生成时间：2026-08-16 12:44 UTC_
 
 | 时间 (UTC) | 事件 | 仓库 | 说明 |
 |---|---|---|---|
-| 2026-08-16 08:43 | 👻 消失 | `86thAuspiciousVerse/dsh-manager` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:43 | 👻 消失 | `zjl1989-li/dsh-harness-zh` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:43 | 👻 消失 | `NeverToEver/dsh-usage-cost-dashboard` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:43 | 👻 消失 | `LvsH13/dsh-desktop` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:43 | 🆕 新增 | `qq1376868542-lang/dsh-tools` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:43 | 🆕 新增 | `CyanoOrg/dsh-norm-spec` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:43 | 🆕 新增 | `aitingtingya/mv-superds` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:43 | 🆕 新增 | `FuncWei/dsh-wechat-mp-studio` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:43 | 🆕 新增 | `icekale/dsh-provider-auto` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:43 | 🆕 新增 | `fengling375/dsh-nyan-context-progress` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:43 | 🆕 新增 | `misterbig5222-oss/dsh-highlighter` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:43 | 🆕 新增 | `hkkz9522/dsh-session-manager` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:43 | 🆕 新增 | `Vladimir-Human/ru-marketplace-mcp` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:36 | 👻 消失 | `86thAuspiciousVerse/dsh-manager` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:36 | 👻 消失 | `zjl1989-li/dsh-harness-zh` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:36 | 👻 消失 | `NeverToEver/dsh-usage-cost-dashboard` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:36 | 👻 消失 | `LvsH13/dsh-desktop` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:36 | 🆕 新增 | `loonai321/dsh-humanized-deepseek-maid` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:36 | 🆕 新增 | `flluhaoran/dsh-plugin-account-balance` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:36 | 🆕 新增 | `lninghaha/dsh-coding-subscription-oauth` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:36 | 🆕 新增 | `zp-home/dsh-dev-sandbox` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:36 | 🆕 新增 | `Cyning12/dsh-coding-kit` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:36 | 🆕 新增 | `tatuke/Asian-Parents_agent-style` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:31 | 👻 消失 | `cnskycn/pview-panel` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `dd2673/dsh-wending-ssh-manager` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `Olalaye/dsh-layered-memory` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `CH3SH-LC/dsh-plugins-CH3SH` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `86thAuspiciousVerse/dsh-manager` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `TheCrazyLab/crazy-lab` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `zjl1989-li/dsh-harness-zh` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `sweven-tears/dsh-ghCLI-manager` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `NeverToEver/dsh-usage-cost-dashboard` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `liguanyu/dsh_PromptRecall` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `Modole/dsh-plugin-mcp-manager-laoboshi` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `guo-ziao/dsh-interrupt-button` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `johnwick128-ship/dsh-opencode-subscription` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `WSGsety/dsh-plugin-manager` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `hongyue0721/dsh-kimicode-swarm` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `LvsH13/dsh-desktop` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `qldth/dsh-minimal-pro` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `AtropinolTT/dsh-auto-review` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `keke050/dsh-wallpaper` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `seekerwxy/dsh-aurora-theme` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `YuanyuanMa03/cot-lint` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `MkaliezZ/dsh-docs` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `ZhijiangTang/dsh-plugin-template` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `V-dev-388/dsh-plugin-hello` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `MkaliezZ/dsh-context-pack` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `EtbyStudio/dsh-commands` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `wangxiang0605qvq/dsh-minimal-win` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `secret-tangyuan/openclaw-weixin-dsh` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `ShiXiangYu2/dsh-translate-pro` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `zoahdev/dsh-plugin-template` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `Hyna-hla/dsh-desktop` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `gushiaoke/dsh-qq-bot` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `zhaoyilun/dsh-preset-flash-director` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `xuanyinmu/DshWebSearch` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `dmsobtl/dsh-skill-evolve` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 👻 消失 | `2436238575/dsh-turn-diff` | 本次快照未命中（可能删除、转私有或取消 topic） |
-| 2026-08-16 08:31 | 🆕 新增 | `Alphazer01214/dsh-usage-dashboard` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 👻 消失 | `asd13006/dsh-zh-tw-ui` | 本次快照未命中（可能删除、转私有或取消 topic） |
+| 2026-08-16 12:44 | 👻 消失 | `86thAuspiciousVerse/dsh-manager` | 本次快照未命中（可能删除、转私有或取消 topic） |
+| 2026-08-16 12:44 | 👻 消失 | `zjl1989-li/dsh-harness-zh` | 本次快照未命中（可能删除、转私有或取消 topic） |
+| 2026-08-16 12:44 | 👻 消失 | `wang-jie-git/dsh-memory` | 本次快照未命中（可能删除、转私有或取消 topic） |
+| 2026-08-16 12:44 | 👻 消失 | `NeverToEver/dsh-usage-cost-dashboard` | 本次快照未命中（可能删除、转私有或取消 topic） |
+| 2026-08-16 12:44 | 👻 消失 | `GUOZIJAN/dsh-project-intake` | 本次快照未命中（可能删除、转私有或取消 topic） |
+| 2026-08-16 12:44 | 👻 消失 | `Miiiuser/dsh-browser-agent` | 本次快照未命中（可能删除、转私有或取消 topic） |
+| 2026-08-16 12:44 | 🆕 新增 | `crwsr124/dsh-mobile-layout` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `zerosloney/dsh-cbx-orch` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `iamsee123/dsh-web-terminal` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `Rinsonlaw/law-dsh-plugin` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `Chhlafiu4312/dsh-mcp-bridge` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `dove-a/dsh-plugin-registry` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `qwased/DSH-deleted-and-history-button` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `1473382/dsh-popper` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `jiekesu967/dsh-plugin-opencode-usage` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `omdsh-plugins/omdsh-shortcuts` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `lgYanami/dph-unarchive-sessions` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `xulelenlp/dsh-web-artifact-designer` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `CsBpRd/dsh-workspace-only-plugin` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `Max-Null/dsh-guardian` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `linzhuoliSOC/dsh-skin-study` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `Vast-Unhurried/dsh-toolkit` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `mmyhj/dsh-tool-hermes-web` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `SipengXie2024/dsh-rewind` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | ✏️ 更名 | `tmpdot/troublemaker` | wonderfulcode1/troublemaker → tmpdot/troublemaker |
+| 2026-08-16 12:44 | 🆕 新增 | `Breeze136/kb-rag` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `xianyu-ya/dsh-plugin-overview` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `ChrisZhangWG/dsh-codex-meter` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `JohnXu22786/pty-runner` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `JohnXu22786/safety-net` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `fzs356113-oss/dsh-workflow-symphony` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `fzs356113-oss/dsh-knowledge-forge` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `LarryE135/WSL-for-DSH` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `hezhongtang/dsh-capability-optimizer` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `JohnXu22786/command-scout` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `uckkk/dsh-db-migration` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `omdsh-plugins/omdsh-desktop` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `Yunnalab/dsh-latex-ocr` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `Hakunm/dsh-approve-for-me` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `lovejavacore/dsh-minecraft-pet` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `12362566/dsh-exit-bash` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `guobinmengxiang-rgb/dsh-xhs-note` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `omdsh-plugins/omdsh-remctrl` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `penguin-oo/dsh-delegate-router` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `Vorpal-poem/dsh-doubao-voice` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `wanshichenguang/dsh-tool-vision` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `YJLZSL/dsh-furrhaven-toolbox` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `kirkchinese/DSH-Session-Move` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `YiGeSama/dsh-preset-run` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `SummerSec/dsh-web-auth` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `305037991x-pixel/dsh-opencode-go` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `king-bcolor/dsh-multi-tenant-projects` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `chouyong/dsh-fork-diff` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `Wine-Cupable/dsh-plugin-marketplace` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `GUOZIJAN/dsh-tech-stack-survey` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `AngelosZou/dsh-python-tempfile-shim` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `dshplugin-me/dsh-precedent` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `houlain/dsh-workspace-studio` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 12:44 | 🆕 新增 | `AHiNLs/dsh-chrome-samples` | 首次进入 dsh-plugin 主题快照 |
