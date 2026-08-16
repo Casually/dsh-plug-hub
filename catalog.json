@@ -1,0 +1,355 @@
+{
+ "generated_at": "2026-08-16T07:58:09Z",
+ "source": "dsh-plug-hub",
+ "topic": "dsh-plugin",
+ "total": 7,
+ "categories": [
+  {
+   "id": 1,
+   "slug": "web-ui",
+   "name_zh": "Web UI 增强",
+   "name_en": "Web UI Enhancement"
+  },
+  {
+   "id": 2,
+   "slug": "agent",
+   "name_zh": "Agent 能力",
+   "name_en": "Agent Capabilities"
+  },
+  {
+   "id": 3,
+   "slug": "coding",
+   "name_zh": "编码开发",
+   "name_en": "Coding & Development"
+  },
+  {
+   "id": 4,
+   "slug": "messaging",
+   "name_zh": "消息通讯",
+   "name_en": "Messaging & Communication"
+  },
+  {
+   "id": 5,
+   "slug": "vision-multimodal",
+   "name_zh": "视觉与多模态",
+   "name_en": "Vision & Multimodal"
+  },
+  {
+   "id": 6,
+   "slug": "theme-fun",
+   "name_zh": "皮肤与娱乐",
+   "name_en": "Themes & Fun"
+  },
+  {
+   "id": 7,
+   "slug": "distro",
+   "name_zh": "合集与发行版",
+   "name_en": "Collections & Distros"
+  },
+  {
+   "id": 8,
+   "slug": "data-storage",
+   "name_zh": "数据与存储",
+   "name_en": "Data & Storage"
+  },
+  {
+   "id": 9,
+   "slug": "devops",
+   "name_zh": "运维与部署",
+   "name_en": "DevOps & Deployment"
+  },
+  {
+   "id": 10,
+   "slug": "audio-voice",
+   "name_zh": "音频与语音",
+   "name_en": "Audio & Voice"
+  },
+  {
+   "id": 11,
+   "slug": "utility",
+   "name_zh": "工具与效率",
+   "name_en": "Utilities & Productivity"
+  }
+ ],
+ "activity_levels": [
+  {
+   "level": "active",
+   "label_zh": "活跃",
+   "label_en": "Active"
+  },
+  {
+   "level": "watch",
+   "label_zh": "关注",
+   "label_en": "Watch"
+  },
+  {
+   "level": "slowing",
+   "label_zh": "放缓",
+   "label_en": "Slowing"
+  },
+  {
+   "level": "stalled",
+   "label_zh": "停更",
+   "label_en": "Stalled"
+  }
+ ],
+ "plugins": [
+  {
+   "name": "dsh-better-sidebar",
+   "full_name": "omdsh-dev/DSH-better-sidebar",
+   "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
+   "category": {
+    "slug": "web-ui",
+    "name_zh": "Web UI 增强",
+    "name_en": "Web UI Enhancement"
+   },
+   "summary_zh": "重做 DeepSeek Harness 侧边栏：会话分组、置顶、批量管理，体验全面升级",
+   "summary_en": "A rebuilt DSH sidebar with session groups, pinning and bulk management",
+   "tags": [
+    "sidebar",
+    "ui",
+    "session"
+   ],
+   "install": {
+    "npm": "dsh-better-sidebar",
+    "github": "github:omdsh-dev/DSH-better-sidebar",
+    "command": "dsh plugin --profile web add -w dsh-better-sidebar"
+   },
+   "stats": {
+    "stars": 1415,
+    "forks": 88,
+    "license": "MIT",
+    "language": "TypeScript",
+    "pushed_at": "2026-08-15T15:37:06Z"
+   },
+   "activity": {
+    "level": "active",
+    "label_zh": "活跃",
+    "label_en": "Active",
+    "max_days": 30,
+    "days_since": 0
+   },
+   "archived": false
+  },
+  {
+   "name": "deepseek-harness-desktop",
+   "full_name": "anywhere-labs/deepseek-harness-desktop",
+   "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+   "category": {
+    "slug": "web-ui",
+    "name_zh": "Web UI 增强",
+    "name_en": "Web UI Enhancement"
+   },
+   "summary_zh": "为 DSH 插件生态打造的现代化桌面客户端，开箱即用",
+   "summary_en": "A modern desktop client for the DSH plugin ecosystem, ready out of the box",
+   "tags": [
+    "desktop",
+    "client"
+   ],
+   "install": {
+    "npm": null,
+    "github": "github:anywhere-labs/deepseek-harness-desktop",
+    "command": "dsh plugin --profile web add -w github:anywhere-labs/deepseek-harness-desktop"
+   },
+   "stats": {
+    "stars": 7233,
+    "forks": 313,
+    "license": "MIT",
+    "language": "TypeScript",
+    "pushed_at": "2026-08-16T07:35:47Z"
+   },
+   "activity": {
+    "level": "active",
+    "label_zh": "活跃",
+    "label_en": "Active",
+    "max_days": 30,
+    "days_since": 0
+   },
+   "archived": false
+  },
+  {
+   "name": "dsh-at-file",
+   "full_name": "omdsh-dev/dsh-at-file",
+   "url": "https://github.com/omdsh-dev/dsh-at-file",
+   "category": {
+    "slug": "agent",
+    "name_zh": "Agent 能力",
+    "name_en": "Agent Capabilities"
+   },
+   "summary_zh": "在对话里用 @文件名 直接把文件内容喂给 Agent，告别复制粘贴",
+   "summary_en": "Reference files inline with @filename to feed content to agents — no copy-paste",
+   "tags": [
+    "file",
+    "agent",
+    "workflow"
+   ],
+   "install": {
+    "npm": "dsh-at-file",
+    "github": "github:omdsh-dev/dsh-at-file",
+    "command": "dsh plugin --profile web add -w dsh-at-file"
+   },
+   "stats": {
+    "stars": 239,
+    "forks": 9,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-14T16:15:06Z"
+   },
+   "activity": {
+    "level": "active",
+    "label_zh": "活跃",
+    "label_en": "Active",
+    "max_days": 30,
+    "days_since": 1
+   },
+   "archived": false
+  },
+  {
+   "name": "agent-vision-toolkit",
+   "full_name": "Anionex/agent-vision-toolkit",
+   "url": "https://github.com/Anionex/agent-vision-toolkit",
+   "category": {
+    "slug": "vision-multimodal",
+    "name_zh": "视觉与多模态",
+    "name_en": "Vision & Multimodal"
+   },
+   "summary_zh": "给 Agent 装上视觉能力：截图、OCR、界面元素识别，驱动多模态自动化",
+   "summary_en": "Give agents vision: screenshots, OCR and UI element recognition for multimodal automation",
+   "tags": [
+    "vision",
+    "ocr",
+    "multimodal"
+   ],
+   "install": {
+    "npm": "agent-vision-toolkit",
+    "github": "github:Anionex/agent-vision-toolkit",
+    "command": "dsh plugin --profile web add -w agent-vision-toolkit"
+   },
+   "stats": {
+    "stars": 921,
+    "forks": 33,
+    "license": "MIT",
+    "language": "Python",
+    "pushed_at": "2026-08-14T19:21:11Z"
+   },
+   "activity": {
+    "level": "active",
+    "label_zh": "活跃",
+    "label_en": "Active",
+    "max_days": 30,
+    "days_since": 1
+   },
+   "archived": false
+  },
+  {
+   "name": "whale-girl",
+   "full_name": "vlln/whale-girl",
+   "url": "https://github.com/vlln/whale-girl",
+   "category": {
+    "slug": "theme-fun",
+    "name_zh": "皮肤与娱乐",
+    "name_en": "Themes & Fun"
+   },
+   "summary_zh": "鲸鱼娘主题：可爱的看板娘皮肤，陪伴你的每一次对话",
+   "summary_en": "Whale-girl theme: a cute mascot skin that keeps you company in every chat",
+   "tags": [
+    "theme",
+    "mascot",
+    "fun"
+   ],
+   "install": {
+    "npm": "whale-girl",
+    "github": "github:vlln/whale-girl",
+    "command": "dsh plugin --profile web add -w whale-girl"
+   },
+   "stats": {
+    "stars": 181,
+    "forks": 8,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-15T15:15:20Z"
+   },
+   "activity": {
+    "level": "active",
+    "label_zh": "活跃",
+    "label_en": "Active",
+    "max_days": 30,
+    "days_since": 0
+   },
+   "archived": false
+  },
+  {
+   "name": "dsh-deep-whale",
+   "full_name": "Small-tailqwq/dsh-deep-whale",
+   "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
+   "category": {
+    "slug": "theme-fun",
+    "name_zh": "皮肤与娱乐",
+    "name_en": "Themes & Fun"
+   },
+   "summary_zh": "深海鲸主题：沉浸式暗色皮肤，带动态粒子背景",
+   "summary_en": "Deep-whale theme: immersive dark skin with animated particle background",
+   "tags": [
+    "theme",
+    "dark",
+    "fun"
+   ],
+   "install": {
+    "npm": null,
+    "github": "github:Small-tailqwq/dsh-deep-whale",
+    "command": "dsh plugin --profile web add -w github:Small-tailqwq/dsh-deep-whale"
+   },
+   "stats": {
+    "stars": 963,
+    "forks": 32,
+    "license": "",
+    "language": "TypeScript",
+    "pushed_at": "2026-08-16T06:34:28Z"
+   },
+   "activity": {
+    "level": "active",
+    "label_zh": "活跃",
+    "label_en": "Active",
+    "max_days": 30,
+    "days_since": 0
+   },
+   "archived": false
+  },
+  {
+   "name": "dsh-plug-manager",
+   "full_name": "Casually/deepseek-harness-plugs-manage",
+   "url": "https://github.com/Casually/deepseek-harness-plugs-manage",
+   "category": {
+    "slug": "devops",
+    "name_zh": "运维与部署",
+    "name_en": "DevOps & Deployment"
+   },
+   "summary_zh": "图形化插件管理器：一键安装/移除/更新插件，含源码安装与依赖自检、重启向导",
+   "summary_en": "GUI plugin manager: one-click install/remove/update with source installs, dependency checks and restart wizard",
+   "tags": [
+    "plugin-manager",
+    "toolchain"
+   ],
+   "install": {
+    "npm": "dsh-plug-manager",
+    "github": "github:Casually/deepseek-harness-plugs-manage",
+    "command": "dsh plugin --profile web add -w dsh-plug-manager"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-16T06:17:17Z"
+   },
+   "activity": {
+    "level": "active",
+    "label_zh": "活跃",
+    "label_en": "Active",
+    "max_days": 30,
+    "days_since": 0
+   },
+   "archived": false
+  }
+ ]
+}
