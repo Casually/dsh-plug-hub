@@ -4,6 +4,84 @@
    "kind": "vanished",
    "full_name": "86thAuspiciousVerse/dsh-manager",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
+   "detected_at": 1786869818
+  },
+  {
+   "kind": "vanished",
+   "full_name": "zjl1989-li/dsh-harness-zh",
+   "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
+   "detected_at": 1786869818
+  },
+  {
+   "kind": "vanished",
+   "full_name": "NeverToEver/dsh-usage-cost-dashboard",
+   "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
+   "detected_at": 1786869818
+  },
+  {
+   "kind": "vanished",
+   "full_name": "LvsH13/dsh-desktop",
+   "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
+   "detected_at": 1786869818
+  },
+  {
+   "kind": "new",
+   "full_name": "qq1376868542-lang/dsh-tools",
+   "detail": "首次进入 dsh-plugin 主题快照",
+   "detected_at": 1786869818
+  },
+  {
+   "kind": "new",
+   "full_name": "CyanoOrg/dsh-norm-spec",
+   "detail": "首次进入 dsh-plugin 主题快照",
+   "detected_at": 1786869818
+  },
+  {
+   "kind": "new",
+   "full_name": "aitingtingya/mv-superds",
+   "detail": "首次进入 dsh-plugin 主题快照",
+   "detected_at": 1786869818
+  },
+  {
+   "kind": "new",
+   "full_name": "FuncWei/dsh-wechat-mp-studio",
+   "detail": "首次进入 dsh-plugin 主题快照",
+   "detected_at": 1786869818
+  },
+  {
+   "kind": "new",
+   "full_name": "icekale/dsh-provider-auto",
+   "detail": "首次进入 dsh-plugin 主题快照",
+   "detected_at": 1786869818
+  },
+  {
+   "kind": "new",
+   "full_name": "fengling375/dsh-nyan-context-progress",
+   "detail": "首次进入 dsh-plugin 主题快照",
+   "detected_at": 1786869818
+  },
+  {
+   "kind": "new",
+   "full_name": "misterbig5222-oss/dsh-highlighter",
+   "detail": "首次进入 dsh-plugin 主题快照",
+   "detected_at": 1786869818
+  },
+  {
+   "kind": "new",
+   "full_name": "hkkz9522/dsh-session-manager",
+   "detail": "首次进入 dsh-plugin 主题快照",
+   "detected_at": 1786869818
+  },
+  {
+   "kind": "new",
+   "full_name": "Vladimir-Human/ru-marketplace-mcp",
+   "detail": "首次进入 dsh-plugin 主题快照",
+   "detected_at": 1786869818
+  },
+  {
+   "kind": "vanished",
+   "full_name": "86thAuspiciousVerse/dsh-manager",
+   "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
    "detected_at": 1786869384
   },
   {
@@ -279,84 +357,6 @@
   {
    "kind": "new",
    "full_name": "Alphazer01214/dsh-usage-dashboard",
-   "detail": "首次进入 dsh-plugin 主题快照",
-   "detected_at": 1786869108
-  },
-  {
-   "kind": "new",
-   "full_name": "ciceroyang/dsh-trajectory",
-   "detail": "首次进入 dsh-plugin 主题快照",
-   "detected_at": 1786869108
-  },
-  {
-   "kind": "new",
-   "full_name": "Ycet/dsh-account-usage",
-   "detail": "首次进入 dsh-plugin 主题快照",
-   "detected_at": 1786869108
-  },
-  {
-   "kind": "new",
-   "full_name": "LXW419/dsh-claude-importer",
-   "detail": "首次进入 dsh-plugin 主题快照",
-   "detected_at": 1786869108
-  },
-  {
-   "kind": "new",
-   "full_name": "chenyinrusi/dsh-engineering-skills",
-   "detail": "首次进入 dsh-plugin 主题快照",
-   "detected_at": 1786869108
-  },
-  {
-   "kind": "new",
-   "full_name": "y2zyyr/dsh-token-usage-sidebar",
-   "detail": "首次进入 dsh-plugin 主题快照",
-   "detected_at": 1786869108
-  },
-  {
-   "kind": "new",
-   "full_name": "zhangCzhe/dsh-slackoff",
-   "detail": "首次进入 dsh-plugin 主题快照",
-   "detected_at": 1786869108
-  },
-  {
-   "kind": "new",
-   "full_name": "Melody-max114/dsh-excel-panel",
-   "detail": "首次进入 dsh-plugin 主题快照",
-   "detected_at": 1786869108
-  },
-  {
-   "kind": "new",
-   "full_name": "Mamihlapinatapaiooo/dsh-plugin-inventory-groups",
-   "detail": "首次进入 dsh-plugin 主题快照",
-   "detected_at": 1786869108
-  },
-  {
-   "kind": "new",
-   "full_name": "wingsky-1/dsh-skill-explorer",
-   "detail": "首次进入 dsh-plugin 主题快照",
-   "detected_at": 1786869108
-  },
-  {
-   "kind": "new",
-   "full_name": "dhb861832993-star/pbr-render",
-   "detail": "首次进入 dsh-plugin 主题快照",
-   "detected_at": 1786869108
-  },
-  {
-   "kind": "new",
-   "full_name": "jiaqinzhang123/peon-voice",
-   "detail": "首次进入 dsh-plugin 主题快照",
-   "detected_at": 1786869108
-  },
-  {
-   "kind": "new",
-   "full_name": "Lydian815/anchored-pro",
-   "detail": "首次进入 dsh-plugin 主题快照",
-   "detected_at": 1786869108
-  },
-  {
-   "kind": "new",
-   "full_name": "XKLMY-hi/dsh-synthv-bridge",
    "detail": "首次进入 dsh-plugin 主题快照",
    "detected_at": 1786869108
   }

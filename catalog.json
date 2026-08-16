@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-16T08:36:25Z",
+ "generated_at": "2026-08-16T08:43:39Z",
  "source": "dsh-plug-hub",
  "topic": "dsh-plugin",
  "total": 4534,
@@ -3455,7 +3455,7 @@
     "command": "dsh plugin --profile web add -w github:tianji-qingtian/dsh-model-router"
    },
    "stats": {
-    "stars": 23,
+    "stars": 24,
     "forks": 1,
     "license": "MIT",
     "language": "JavaScript",
@@ -4577,7 +4577,7 @@
     "command": "dsh plugin --profile web add -w github:AHGGG/dsh-side-chat"
    },
    "stats": {
-    "stars": 10,
+    "stars": 11,
     "forks": 2,
     "license": "MIT",
     "language": "TypeScript",
@@ -5946,7 +5946,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 2
    },
    "archived": false
   },
@@ -11341,7 +11341,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -12544,14 +12544,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-08-15T06:24:32Z"
+    "pushed_at": "2026-08-16T08:40:08Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 0
    },
    "archived": false
   },
@@ -12964,7 +12964,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-16T07:43:41Z"
+    "pushed_at": "2026-08-16T08:37:33Z"
    },
    "activity": {
     "level": "active",
@@ -16506,7 +16506,7 @@
    },
    "stats": {
     "stars": 38,
-    "forks": 10,
+    "forks": 11,
     "license": "NOASSERTION",
     "language": "JavaScript",
     "pushed_at": "2026-08-16T05:22:43Z"
@@ -18335,7 +18335,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-16T08:31:25Z"
+    "pushed_at": "2026-08-16T08:36:56Z"
    },
    "activity": {
     "level": "active",
@@ -18937,8 +18937,8 @@
     "command": "dsh plugin --profile web add -w github:spacexun2/dsh-worktime-board"
    },
    "stats": {
-    "stars": 0,
-    "forks": 0,
+    "stars": 1,
+    "forks": 1,
     "license": "MIT",
     "language": "TypeScript",
     "pushed_at": "2026-08-16T08:22:48Z"
@@ -20737,11 +20737,11 @@
     "command": "dsh plugin --profile web add -w dsh-better-sidebar"
    },
    "stats": {
-    "stars": 1425,
+    "stars": 1427,
     "forks": 91,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-08-16T08:28:25Z"
+    "pushed_at": "2026-08-16T08:37:11Z"
    },
    "activity": {
     "level": "active",
@@ -20773,8 +20773,8 @@
     "command": "dsh plugin --profile web add -w github:anywhere-labs/deepseek-harness-desktop"
    },
    "stats": {
-    "stars": 7352,
-    "forks": 316,
+    "stars": 7375,
+    "forks": 317,
     "license": "MIT",
     "language": "TypeScript",
     "pushed_at": "2026-08-16T07:35:47Z"
@@ -21467,7 +21467,7 @@
     "command": "dsh plugin --profile web add -w github:strukto-ai/mirage"
    },
    "stats": {
-    "stars": 3454,
+    "stars": 3455,
     "forks": 255,
     "license": "Apache-2.0",
     "language": "TypeScript",
@@ -21550,7 +21550,7 @@
     "forks": 1,
     "license": "MIT",
     "language": "Python",
-    "pushed_at": "2026-08-16T08:32:29Z"
+    "pushed_at": "2026-08-16T08:40:16Z"
    },
    "activity": {
     "level": "active",
@@ -26700,7 +26700,7 @@
     "forks": 4,
     "license": "MIT",
     "language": "Rust",
-    "pushed_at": "2026-08-16T04:55:28Z"
+    "pushed_at": "2026-08-16T08:36:55Z"
    },
    "activity": {
     "level": "active",
@@ -28907,7 +28907,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 2
    },
    "archived": false
   },
@@ -29017,7 +29017,7 @@
     "forks": 2,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-15T15:51:55Z"
+    "pushed_at": "2026-08-16T08:40:41Z"
    },
    "activity": {
     "level": "active",
@@ -30071,7 +30071,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 2
    },
    "archived": false
   },
@@ -30574,7 +30574,7 @@
     "command": "dsh plugin --profile web add -w github:linyp/dsh-plugin-langfuse"
    },
    "stats": {
-    "stars": 5,
+    "stars": 6,
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
@@ -32109,7 +32109,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 2
    },
    "archived": false
   },
@@ -32135,7 +32135,7 @@
     "command": "dsh plugin --profile web add -w github:tradercjz/dsh-dolphindb"
    },
    "stats": {
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
@@ -33500,7 +33500,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-08-16T08:25:09Z"
+    "pushed_at": "2026-08-16T08:41:08Z"
    },
    "activity": {
     "level": "active",
@@ -35175,7 +35175,7 @@
     "command": "dsh plugin --profile web add -w github:Mars-Sea/dsh-commandcode-provider"
    },
    "stats": {
-    "stars": 16,
+    "stars": 18,
     "forks": 2,
     "license": "NOASSERTION",
     "language": "TypeScript",
@@ -36486,7 +36486,7 @@
     "command": "dsh plugin --profile web add -w github:xiaobright/dsh-anchored-standard"
    },
    "stats": {
-    "stars": 2567,
+    "stars": 2573,
     "forks": 82,
     "license": "NOASSERTION",
     "language": "JavaScript",
@@ -36987,7 +36987,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-08-16T07:05:35Z"
+    "pushed_at": "2026-08-16T08:42:43Z"
    },
    "activity": {
     "level": "active",
@@ -42847,7 +42847,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -42942,7 +42942,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-08-16T06:09:15Z"
+    "pushed_at": "2026-08-16T08:43:01Z"
    },
    "activity": {
     "level": "active",
@@ -43235,7 +43235,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-08-16T07:25:17Z"
+    "pushed_at": "2026-08-16T08:38:17Z"
    },
    "activity": {
     "level": "active",
@@ -50683,7 +50683,7 @@
     "command": "dsh plugin --profile web add -w github:rinDBeans/dsh-apex-standard"
    },
    "stats": {
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
@@ -51713,7 +51713,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -52128,7 +52128,7 @@
     "forks": 18,
     "license": "Apache-2.0",
     "language": "Rust",
-    "pushed_at": "2026-08-16T06:53:52Z"
+    "pushed_at": "2026-08-16T08:39:32Z"
    },
    "activity": {
     "level": "active",
@@ -52288,7 +52288,7 @@
     "forks": 5,
     "license": "MIT",
     "language": "C++",
-    "pushed_at": "2026-08-16T08:07:55Z"
+    "pushed_at": "2026-08-16T08:35:45Z"
    },
    "activity": {
     "level": "active",
@@ -52482,7 +52482,7 @@
     "command": "dsh plugin --profile web add -w github:wink-run/tokenbank"
    },
    "stats": {
-    "stars": 74,
+    "stars": 75,
     "forks": 11,
     "license": "Apache-2.0",
     "language": "JavaScript",
@@ -52719,7 +52719,7 @@
     "forks": 9,
     "license": "MIT",
     "language": "Python",
-    "pushed_at": "2026-08-16T08:33:41Z"
+    "pushed_at": "2026-08-16T08:41:01Z"
    },
    "activity": {
     "level": "active",
@@ -53263,7 +53263,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 2
    },
    "archived": false
   },
@@ -54210,7 +54210,7 @@
     "command": "dsh plugin --profile web add -w github:csyangwen/dsh-memory-evolve"
    },
    "stats": {
-    "stars": 102,
+    "stars": 103,
     "forks": 8,
     "license": "MIT",
     "language": "JavaScript",
@@ -55473,7 +55473,7 @@
     "command": "dsh plugin --profile web add -w github:Nwflower/dsh-chat-import"
    },
    "stats": {
-    "stars": 39,
+    "stars": 41,
     "forks": 8,
     "license": "MIT",
     "language": "JavaScript",
@@ -55720,7 +55720,7 @@
     "command": "dsh plugin --profile web add -w github:ayuanwong/deepseek-harness-ux"
    },
    "stats": {
-    "stars": 10,
+    "stars": 11,
     "forks": 0,
     "license": "BSD-3-Clause",
     "language": "TypeScript",
@@ -56317,7 +56317,7 @@
    },
    "stats": {
     "stars": 56,
-    "forks": 2,
+    "forks": 3,
     "license": "MIT",
     "language": "Python",
     "pushed_at": "2026-08-14T13:42:33Z"
@@ -56839,7 +56839,7 @@
     "forks": 0,
     "license": "",
     "language": "Rust",
-    "pushed_at": "2026-08-16T08:19:20Z"
+    "pushed_at": "2026-08-16T08:38:55Z"
    },
    "activity": {
     "level": "active",
@@ -59693,7 +59693,7 @@
     "forks": 0,
     "license": "",
     "language": "TypeScript",
-    "pushed_at": "2026-08-16T03:52:23Z"
+    "pushed_at": "2026-08-16T08:35:39Z"
    },
    "activity": {
     "level": "active",
@@ -60290,7 +60290,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-16T08:20:22Z"
+    "pushed_at": "2026-08-16T08:40:22Z"
    },
    "activity": {
     "level": "active",
@@ -62419,7 +62419,7 @@
     "forks": 0,
     "license": "",
     "language": "JavaScript",
-    "pushed_at": "2026-08-16T07:51:43Z"
+    "pushed_at": "2026-08-16T08:41:30Z"
    },
    "activity": {
     "level": "active",
@@ -63215,7 +63215,7 @@
     "command": "dsh plugin --profile web add -w github:yunhuantian/dsh-plugin-hub"
    },
    "stats": {
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
@@ -63772,7 +63772,7 @@
     "forks": 1,
     "license": "NOASSERTION",
     "language": "JavaScript",
-    "pushed_at": "2026-08-16T08:35:54Z"
+    "pushed_at": "2026-08-16T08:36:53Z"
    },
    "activity": {
     "level": "active",
@@ -65433,14 +65433,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "Java",
-    "pushed_at": "2026-08-14T18:10:12Z"
+    "pushed_at": "2026-08-16T08:37:37Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 0
    },
    "archived": false
   },
@@ -65913,7 +65913,7 @@
     "forks": 2,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-16T08:33:57Z"
+    "pushed_at": "2026-08-16T08:37:00Z"
    },
    "activity": {
     "level": "active",
@@ -68173,7 +68173,7 @@
     "command": "dsh plugin --profile web add -w github:songyang0603/ds-spec-loop"
    },
    "stats": {
-    "stars": 10,
+    "stars": 11,
     "forks": 1,
     "license": "MIT",
     "language": "",
@@ -69852,7 +69852,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-16T08:20:30Z"
+    "pushed_at": "2026-08-16T08:42:43Z"
    },
    "activity": {
     "level": "active",
@@ -71713,7 +71713,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-08-16T08:28:49Z"
+    "pushed_at": "2026-08-16T08:38:56Z"
    },
    "activity": {
     "level": "active",
@@ -72962,7 +72962,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-08-16T03:22:18Z"
+    "pushed_at": "2026-08-16T08:39:59Z"
    },
    "activity": {
     "level": "active",
@@ -73574,7 +73574,7 @@
     "forks": 0,
     "license": "",
     "language": "JavaScript",
-    "pushed_at": "2026-08-16T06:18:53Z"
+    "pushed_at": "2026-08-16T08:39:22Z"
    },
    "activity": {
     "level": "active",
@@ -74246,11 +74246,11 @@
     "command": "dsh plugin --profile web add -w github:ccch1mneyyy/dsh-TUI"
    },
    "stats": {
-    "stars": 1385,
+    "stars": 1387,
     "forks": 58,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-08-16T08:29:31Z"
+    "pushed_at": "2026-08-16T08:41:27Z"
    },
    "activity": {
     "level": "active",
@@ -75241,7 +75241,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 2
    },
    "archived": false
   },
@@ -75752,7 +75752,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -77441,7 +77441,7 @@
     "command": "dsh plugin --profile web add -w github:sugarforever/dsh-lark"
    },
    "stats": {
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
@@ -78102,7 +78102,7 @@
     "command": "dsh plugin --profile web add -w github:liustack/modlens"
    },
    "stats": {
-    "stars": 2106,
+    "stars": 2111,
     "forks": 55,
     "license": "MIT",
     "language": "TypeScript",
@@ -78222,7 +78222,7 @@
     "command": "dsh plugin --profile web add -w github:tt-a1i/archify"
    },
    "stats": {
-    "stars": 13074,
+    "stars": 13075,
     "forks": 963,
     "license": "MIT",
     "language": "HTML",
@@ -79197,10 +79197,10 @@
    },
    "stats": {
     "stars": 182,
-    "forks": 6,
+    "forks": 7,
     "license": "Apache-2.0",
     "language": "TypeScript",
-    "pushed_at": "2026-08-16T08:32:28Z"
+    "pushed_at": "2026-08-16T08:38:26Z"
    },
    "activity": {
     "level": "active",
@@ -79272,7 +79272,7 @@
     "command": "dsh plugin --profile web add -w github:Anionex/dsh-vision-toolkit"
    },
    "stats": {
-    "stars": 472,
+    "stars": 473,
     "forks": 23,
     "license": "MIT",
     "language": "TypeScript",
@@ -80422,11 +80422,11 @@
     "command": "dsh plugin --profile web add -w github:ysr666/dsh-vision-router"
    },
    "stats": {
-    "stars": 258,
+    "stars": 259,
     "forks": 16,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-16T08:33:36Z"
+    "pushed_at": "2026-08-16T08:40:14Z"
    },
    "activity": {
     "level": "active",
@@ -80510,7 +80510,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -81239,7 +81239,7 @@
     "command": "dsh plugin --profile web add -w github:Sorwcyra/ds-vision-plugin"
    },
    "stats": {
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
@@ -83042,7 +83042,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 2
    },
    "archived": false
   },
@@ -86393,7 +86393,7 @@
     "command": "dsh plugin --profile web add -w github:fufankeji/deepseek-harness-studio"
    },
    "stats": {
-    "stars": 90,
+    "stars": 92,
     "forks": 6,
     "license": "MIT",
     "language": "TypeScript",
@@ -87798,7 +87798,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-16T04:16:48Z"
+    "pushed_at": "2026-08-16T08:37:05Z"
    },
    "activity": {
     "level": "active",
@@ -89820,7 +89820,7 @@
     "forks": 0,
     "license": "",
     "language": "TypeScript",
-    "pushed_at": "2026-08-16T08:32:17Z"
+    "pushed_at": "2026-08-16T08:38:10Z"
    },
    "activity": {
     "level": "active",
@@ -90250,7 +90250,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-16T08:08:47Z"
+    "pushed_at": "2026-08-16T08:40:29Z"
    },
    "activity": {
     "level": "active",
@@ -90286,7 +90286,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-16T08:34:05Z"
+    "pushed_at": "2026-08-16T08:37:55Z"
    },
    "activity": {
     "level": "active",
@@ -90387,7 +90387,7 @@
     "command": "dsh plugin --profile web add -w agent-vision-toolkit"
    },
    "stats": {
-    "stars": 923,
+    "stars": 924,
     "forks": 33,
     "license": "MIT",
     "language": "Python",
@@ -91507,7 +91507,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -93915,7 +93915,7 @@
     "forks": 1,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-08-16T07:05:58Z"
+    "pushed_at": "2026-08-16T08:42:31Z"
    },
    "activity": {
     "level": "active",
@@ -94531,7 +94531,7 @@
     "forks": 4,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-16T08:24:35Z"
+    "pushed_at": "2026-08-16T08:38:20Z"
    },
    "activity": {
     "level": "active",
@@ -95012,7 +95012,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -95529,7 +95529,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-08-16T08:35:33Z"
+    "pushed_at": "2026-08-16T08:41:09Z"
    },
    "activity": {
     "level": "active",
@@ -96153,7 +96153,7 @@
     "command": "dsh plugin --profile web add -w github:RevolutionLA/dsh-dream-skin"
    },
    "stats": {
-    "stars": 18,
+    "stars": 19,
     "forks": 2,
     "license": "MIT",
     "language": "JavaScript",
@@ -100063,7 +100063,7 @@
     "command": "dsh plugin --profile web add -w github:Small-tailqwq/dsh-deep-whale"
    },
    "stats": {
-    "stars": 970,
+    "stars": 972,
     "forks": 32,
     "license": "",
     "language": "TypeScript",
@@ -100179,8 +100179,8 @@
     "command": "dsh plugin --profile web add -w github:freestylefly/awesome-gpt-image-2"
    },
    "stats": {
-    "stars": 10405,
-    "forks": 1241,
+    "stars": 10408,
+    "forks": 1242,
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-07-22T16:57:36Z"
@@ -100525,7 +100525,7 @@
     "forks": 91,
     "license": "MIT",
     "language": "Python",
-    "pushed_at": "2026-08-16T08:30:36Z"
+    "pushed_at": "2026-08-16T08:40:33Z"
    },
    "activity": {
     "level": "active",
@@ -100816,7 +100816,7 @@
     "command": "dsh plugin --profile web add -w github:0xsline/awesome-deepseek-harness"
    },
    "stats": {
-    "stars": 534,
+    "stars": 537,
     "forks": 194,
     "license": "CC0-1.0",
     "language": "Python",
@@ -100887,8 +100887,8 @@
     "command": "dsh plugin --profile web add -w github:zhu1090093659/dsh-web-ui"
    },
    "stats": {
-    "stars": 3001,
-    "forks": 172,
+    "stars": 3008,
+    "forks": 175,
     "license": "Apache-2.0",
     "language": "TypeScript",
     "pushed_at": "2026-08-16T08:29:51Z"
@@ -101376,11 +101376,11 @@
     "command": "dsh plugin --profile web add -w github:Dominic789654/awesome-deepseek-harness"
    },
    "stats": {
-    "stars": 53,
+    "stars": 54,
     "forks": 38,
     "license": "NOASSERTION",
     "language": "TypeScript",
-    "pushed_at": "2026-08-16T08:05:18Z"
+    "pushed_at": "2026-08-16T08:38:21Z"
    },
    "activity": {
     "level": "active",
@@ -101412,8 +101412,8 @@
     "command": "dsh plugin --profile web add -w github:awesome-dsh-plugin/awesome-dsh-plugin"
    },
    "stats": {
-    "stars": 3657,
-    "forks": 723,
+    "stars": 3668,
+    "forks": 727,
     "license": "CC0-1.0",
     "language": "Python",
     "pushed_at": "2026-08-16T08:30:19Z"
@@ -101527,7 +101527,7 @@
     "forks": 0,
     "license": "",
     "language": "TypeScript",
-    "pushed_at": "2026-08-16T08:22:42Z"
+    "pushed_at": "2026-08-16T08:36:58Z"
    },
    "activity": {
     "level": "active",
@@ -102344,7 +102344,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -103495,7 +103495,7 @@
     "forks": 2,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-16T04:37:55Z"
+    "pushed_at": "2026-08-16T08:42:23Z"
    },
    "activity": {
     "level": "active",
@@ -103813,7 +103813,7 @@
     "command": "dsh plugin --profile web add -w github:dsh-market/dsh-market"
    },
    "stats": {
-    "stars": 407,
+    "stars": 408,
     "forks": 34,
     "license": "MIT",
     "language": "TypeScript",
@@ -104342,7 +104342,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -106428,7 +106428,7 @@
     "forks": 1,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-16T08:26:44Z"
+    "pushed_at": "2026-08-16T08:42:20Z"
    },
    "activity": {
     "level": "active",
@@ -111904,7 +111904,7 @@
     "command": "dsh plugin --profile web add -w github:ZSeven-W/openpencil"
    },
    "stats": {
-    "stars": 5029,
+    "stars": 5031,
     "forks": 461,
     "license": "MIT",
     "language": "Rust",
@@ -114169,7 +114169,7 @@
     "command": "dsh plugin --profile web add -w github:penguin-oo/dsh-bookmarks"
    },
    "stats": {
-    "stars": 6,
+    "stars": 7,
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
@@ -120640,7 +120640,7 @@
    },
    "stats": {
     "stars": 21,
-    "forks": 1,
+    "forks": 2,
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-15T03:07:54Z"
@@ -121569,7 +121569,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -124775,7 +124775,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-16T06:17:17Z"
+    "pushed_at": "2026-08-16T08:36:34Z"
    },
    "activity": {
     "level": "active",
@@ -125138,7 +125138,7 @@
     "command": "dsh plugin --profile web add -w github:XCNXNXNX/dsh-portable-tavern"
    },
    "stats": {
-    "stars": 8,
+    "stars": 9,
     "forks": 1,
     "license": "BSD-3-Clause",
     "language": "TypeScript",
@@ -127640,7 +127640,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-08-16T08:32:57Z"
+    "pushed_at": "2026-08-16T08:37:49Z"
    },
    "activity": {
     "level": "active",
@@ -128068,7 +128068,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-16T08:28:15Z"
+    "pushed_at": "2026-08-16T08:40:36Z"
    },
    "activity": {
     "level": "active",
@@ -128403,7 +128403,7 @@
     "command": "dsh plugin --profile web add -w github:Dariandai/dsh-starter-pack"
    },
    "stats": {
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
@@ -130842,7 +130842,7 @@
     "command": "dsh plugin --profile web add -w github:Nagi-ovo/dsh-visualize"
    },
    "stats": {
-    "stars": 136,
+    "stars": 137,
     "forks": 3,
     "license": "BSD-3-Clause",
     "language": "TypeScript",
@@ -133503,7 +133503,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -133983,14 +133983,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-14T17:34:50Z"
+    "pushed_at": "2026-08-16T08:40:19Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 0
    },
    "archived": false
   },
@@ -134582,11 +134582,11 @@
     "command": "dsh plugin --profile web add -w github:zp-home/dsh-recommend"
    },
    "stats": {
-    "stars": 14,
+    "stars": 15,
     "forks": 1,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-16T08:21:09Z"
+    "pushed_at": "2026-08-16T08:41:28Z"
    },
    "activity": {
     "level": "active",
@@ -139213,7 +139213,7 @@
    },
    "stats": {
     "stars": 5,
-    "forks": 0,
+    "forks": 1,
     "license": "MIT",
     "language": "Kotlin",
     "pushed_at": "2026-08-15T19:15:34Z"
@@ -139975,7 +139975,7 @@
     "forks": 1,
     "license": "MIT",
     "language": "PowerShell",
-    "pushed_at": "2026-08-16T06:04:28Z"
+    "pushed_at": "2026-08-16T08:37:52Z"
    },
    "activity": {
     "level": "active",
@@ -141385,7 +141385,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 2
    },
    "archived": false
   },
@@ -142069,11 +142069,11 @@
     "command": "dsh plugin --profile web add -w github:kc0ed/dsh-bottom-bar"
    },
    "stats": {
-    "stars": 4,
+    "stars": 5,
     "forks": 1,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-16T08:36:01Z"
+    "pushed_at": "2026-08-16T08:38:33Z"
    },
    "activity": {
     "level": "active",
@@ -143856,7 +143856,7 @@
     "forks": 1,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-08-16T08:35:38Z"
+    "pushed_at": "2026-08-16T08:39:40Z"
    },
    "activity": {
     "level": "active",
@@ -144382,7 +144382,7 @@
     "command": "dsh plugin --profile web add -w github:YMRYMR/deepseek-peak"
    },
    "stats": {
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
@@ -146317,7 +146317,7 @@
     "forks": 1,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-16T08:22:58Z"
+    "pushed_at": "2026-08-16T08:40:20Z"
    },
    "activity": {
     "level": "active",
@@ -147333,7 +147333,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -150183,7 +150183,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-08-16T08:24:11Z"
+    "pushed_at": "2026-08-16T08:36:23Z"
    },
    "activity": {
     "level": "active",
@@ -150637,7 +150637,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -153422,7 +153422,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -153455,7 +153455,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -153491,7 +153491,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -153524,7 +153524,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -154878,11 +154878,11 @@
     "command": "dsh plugin --profile web add -w github:2672243194/dsh-read-url"
    },
    "stats": {
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-16T07:35:53Z"
+    "pushed_at": "2026-08-16T08:43:00Z"
    },
    "activity": {
     "level": "active",
@@ -156858,7 +156858,7 @@
     "forks": 0,
     "license": "",
     "language": "JavaScript",
-    "pushed_at": "2026-08-16T08:35:28Z"
+    "pushed_at": "2026-08-16T08:39:46Z"
    },
    "activity": {
     "level": "active",
@@ -160819,7 +160819,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-16T05:26:38Z"
+    "pushed_at": "2026-08-16T08:40:52Z"
    },
    "activity": {
     "level": "active",
@@ -162353,7 +162353,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-16T08:15:46Z"
+    "pushed_at": "2026-08-16T08:39:34Z"
    },
    "activity": {
     "level": "active",
@@ -162656,7 +162656,7 @@
     "command": "dsh plugin --profile web add -w github:titanwings/colleague-skill"
    },
    "stats": {
-    "stars": 22628,
+    "stars": 22630,
     "forks": 2055,
     "license": "MIT",
     "language": "Python",
@@ -162689,7 +162689,7 @@
     "command": "dsh plugin --profile web add -w github:volcengine/OpenViking"
    },
    "stats": {
-    "stars": 28540,
+    "stars": 28541,
     "forks": 2259,
     "license": "AGPL-3.0",
     "language": "Python",
@@ -162755,7 +162755,7 @@
     "command": "dsh plugin --profile web add -w github:nexu-io/open-design"
    },
    "stats": {
-    "stars": 87148,
+    "stars": 87152,
     "forks": 10127,
     "license": "Apache-2.0",
     "language": "TypeScript",
@@ -162788,8 +162788,8 @@
     "command": "dsh plugin --profile web add -w github:deepseek-ai/deepseek-harness"
    },
    "stats": {
-    "stars": 122107,
-    "forks": 12046,
+    "stars": 122232,
+    "forks": 12062,
     "license": "MIT",
     "language": "TypeScript",
     "pushed_at": "2026-08-13T13:00:21Z"
