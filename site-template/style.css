@@ -52,6 +52,13 @@ main { max-width: 1080px; margin: 0 auto; padding: 20px; }
 .card-head h3 { margin: 0; font-size: 15px; flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .badge { font-size: 11px; padding: 2px 8px; border-radius: 999px; border: 1px solid var(--line); color: var(--muted); white-space: nowrap; }
 .badge.cat { color: var(--brand); border-color: var(--brand); }
+.gh-btn {
+	display: inline-flex; align-items: center; gap: 5px; font-size: 12px;
+	padding: 3px 10px; border-radius: 6px; border: 1px solid var(--line);
+	background: var(--bg); color: var(--ink); white-space: nowrap; transition: border-color .15s, color .15s;
+}
+.gh-btn:hover { border-color: var(--ink); color: var(--brand); }
+.gh-btn svg { flex: none; }
 .sig-active { color: var(--green); }
 .sig-watch { color: var(--brand); }
 .sig-slowing { color: var(--amber); }
