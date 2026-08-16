@@ -15,6 +15,9 @@
 			const act = ref("");
 			const lang = ref(localStorage.getItem("dsh_hub_lang") === "en" ? "en" : "zh");
 			const generatedAt = ref("");
+			const visibleCount = ref(72);
+			const sentinel = ref(null);
+			let observer = null;
 
 			async function load() {
 				try {
@@ -28,7 +31,15 @@
 					error.value = "目录加载失败：" + e.message;
 				} finally { loading.value = false; }
 			}
-			onMounted(load);
+			onMounted(() => {
+				load();
+				observer = new IntersectionObserver((entries) => {
+					if (entries.some((e) => e.isIntersecting)) {
+						visibleCount.value += 72;
+					}
+				}, { rootMargin: "600px" });
+				Vue.watch(sentinel, (el) => { if (el !== null) observer.observe(el); });
+			});
 
 			const ACT_SIG = { active: "sig-active", watch: "sig-watch", slowing: "sig-slowing", stalled: "sig-stalled" };
 			function actLabel(p) {
@@ -54,8 +65,11 @@
 					return true;
 				});
 			});
-			function pickCat(slug) { cat.value = cat.value === slug ? "" : slug; }
-			function pickAct(level) { act.value = act.value === level ? "" : level; }
+			function pickCat(slug) { cat.value = cat.value === slug ? "" : slug; visibleCount.value = 72; }
+			function pickAct(level) { act.value = act.value === level ? "" : level; visibleCount.value = 72; }
+			Vue.watch([q, cat, act], () => { visibleCount.value = 72; });
+			const shown = computed(() => filtered.value.slice(0, visibleCount.value));
+			const hasMore = computed(() => filtered.value.length > shown.value.length);
 			function copyCmd(p, event) {
 				const text = p.install.command;
 				const done = () => {
@@ -83,7 +97,8 @@
 			const zh = computed(() => lang.value === "zh");
 			return {
 				loading, error, plugins, categories, q, cat, act, lang, zh, generatedAt,
-				filtered, counts, ACT_SIG, actLabel, pickCat, pickAct, copyCmd, switchLang,
+				filtered, shown, hasMore, sentinel, visibleCount,
+				counts, ACT_SIG, actLabel, pickCat, pickAct, copyCmd, switchLang,
 			};
 		},
 		template: `
@@ -108,7 +123,7 @@
 	<div v-else-if="error !== ''" class="empty">{{ error }}</div>
 	<div v-else-if="filtered.length === 0" class="empty">{{ zh ? '没有匹配的插件' : 'No matching plugins' }}</div>
 	<div v-else class="grid">
-		<div class="card" v-for="p in filtered" :key="p.full_name">
+		<div class="card" v-for="p in shown" :key="p.full_name">
 			<div class="card-head">
 				<h3 :title="p.full_name">
 					<a :href="p.url" target="_blank">{{ p.name }}</a>
@@ -132,6 +147,10 @@
 				<button @click="copyCmd(p, $event)">{{ zh ? '复制' : 'Copy' }}</button>
 			</div>
 		</div>
+	</div>
+	<div v-if="!loading && hasMore" style="text-align:center;padding:16px">
+		<button class="chip active" ref="sentinel" @click="visibleCount += 144" style="font-size:14px;padding:8px 18px">
+			{{ zh ? '显示更多（剩余 ' + (filtered.length - shown.length) + '）' : 'Show more (' + (filtered.length - shown.length) + ' left)' }}</button>
 	</div>
 	<p class="empty" v-if="!loading && generatedAt !== ''" style="padding: 18px 0">
 		{{ zh ? '目录生成于 ' : 'Catalog generated at ' }}{{ generatedAt }}</p>
