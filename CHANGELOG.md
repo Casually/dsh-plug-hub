@@ -2,10 +2,20 @@
 
 > 由 dsh-plug-hub 同步自动生成（GitHub Actions，每 4 小时）。
 
-_生成时间：2026-08-16 08:31 UTC_
+_生成时间：2026-08-16 08:36 UTC_
 
 | 时间 (UTC) | 事件 | 仓库 | 说明 |
 |---|---|---|---|
+| 2026-08-16 08:36 | 👻 消失 | `86thAuspiciousVerse/dsh-manager` | 本次快照未命中（可能删除、转私有或取消 topic） |
+| 2026-08-16 08:36 | 👻 消失 | `zjl1989-li/dsh-harness-zh` | 本次快照未命中（可能删除、转私有或取消 topic） |
+| 2026-08-16 08:36 | 👻 消失 | `NeverToEver/dsh-usage-cost-dashboard` | 本次快照未命中（可能删除、转私有或取消 topic） |
+| 2026-08-16 08:36 | 👻 消失 | `LvsH13/dsh-desktop` | 本次快照未命中（可能删除、转私有或取消 topic） |
+| 2026-08-16 08:36 | 🆕 新增 | `loonai321/dsh-humanized-deepseek-maid` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 08:36 | 🆕 新增 | `flluhaoran/dsh-plugin-account-balance` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 08:36 | 🆕 新增 | `lninghaha/dsh-coding-subscription-oauth` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 08:36 | 🆕 新增 | `zp-home/dsh-dev-sandbox` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 08:36 | 🆕 新增 | `Cyning12/dsh-coding-kit` | 首次进入 dsh-plugin 主题快照 |
+| 2026-08-16 08:36 | 🆕 新增 | `tatuke/Asian-Parents_agent-style` | 首次进入 dsh-plugin 主题快照 |
 | 2026-08-16 08:31 | 👻 消失 | `cnskycn/pview-panel` | 本次快照未命中（可能删除、转私有或取消 topic） |
 | 2026-08-16 08:31 | 👻 消失 | `dd2673/dsh-wending-ssh-manager` | 本次快照未命中（可能删除、转私有或取消 topic） |
 | 2026-08-16 08:31 | 👻 消失 | `Olalaye/dsh-layered-memory` | 本次快照未命中（可能删除、转私有或取消 topic） |
@@ -56,13 +66,3 @@ _生成时间：2026-08-16 08:31 UTC_
 | 2026-08-16 08:31 | 🆕 新增 | `jiaqinzhang123/peon-voice` | 首次进入 dsh-plugin 主题快照 |
 | 2026-08-16 08:31 | 🆕 新增 | `Lydian815/anchored-pro` | 首次进入 dsh-plugin 主题快照 |
 | 2026-08-16 08:31 | 🆕 新增 | `XKLMY-hi/dsh-synthv-bridge` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:31 | 🆕 新增 | `derek2035/dsh-social` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:31 | 🆕 新增 | `wwumit/dsh-skill-hub` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:31 | 🆕 新增 | `Zlyraz/dsh-ballute` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:31 | 🆕 新增 | `qq247505/DeepSeek-VisionPlus` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:31 | 🆕 新增 | `33moren33/dsh-memory-pyramid` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:31 | 🆕 新增 | `yibiner/dsh-plugin-list-plus` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:31 | 🆕 新增 | `xinkeZhou-byte/dsh-usage-stats-dashboard` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:31 | 🆕 新增 | `Lateautumns/ds-balance` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:31 | 🆕 新增 | `Agents365-ai/dsh-vision-plugin` | 首次进入 dsh-plugin 主题快照 |
-| 2026-08-16 08:31 | 🆕 新增 | `huasheng33991/dsh-power-button` | 首次进入 dsh-plugin 主题快照 |
