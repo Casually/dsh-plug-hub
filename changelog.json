@@ -2,6 +2,66 @@
  "events": [
   {
    "kind": "vanished",
+   "full_name": "86thAuspiciousVerse/dsh-manager",
+   "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
+   "detected_at": 1786869384
+  },
+  {
+   "kind": "vanished",
+   "full_name": "zjl1989-li/dsh-harness-zh",
+   "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
+   "detected_at": 1786869384
+  },
+  {
+   "kind": "vanished",
+   "full_name": "NeverToEver/dsh-usage-cost-dashboard",
+   "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
+   "detected_at": 1786869384
+  },
+  {
+   "kind": "vanished",
+   "full_name": "LvsH13/dsh-desktop",
+   "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
+   "detected_at": 1786869384
+  },
+  {
+   "kind": "new",
+   "full_name": "loonai321/dsh-humanized-deepseek-maid",
+   "detail": "首次进入 dsh-plugin 主题快照",
+   "detected_at": 1786869384
+  },
+  {
+   "kind": "new",
+   "full_name": "flluhaoran/dsh-plugin-account-balance",
+   "detail": "首次进入 dsh-plugin 主题快照",
+   "detected_at": 1786869384
+  },
+  {
+   "kind": "new",
+   "full_name": "lninghaha/dsh-coding-subscription-oauth",
+   "detail": "首次进入 dsh-plugin 主题快照",
+   "detected_at": 1786869384
+  },
+  {
+   "kind": "new",
+   "full_name": "zp-home/dsh-dev-sandbox",
+   "detail": "首次进入 dsh-plugin 主题快照",
+   "detected_at": 1786869384
+  },
+  {
+   "kind": "new",
+   "full_name": "Cyning12/dsh-coding-kit",
+   "detail": "首次进入 dsh-plugin 主题快照",
+   "detected_at": 1786869384
+  },
+  {
+   "kind": "new",
+   "full_name": "tatuke/Asian-Parents_agent-style",
+   "detail": "首次进入 dsh-plugin 主题快照",
+   "detected_at": 1786869384
+  },
+  {
+   "kind": "vanished",
    "full_name": "cnskycn/pview-panel",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
    "detected_at": 1786869108
@@ -297,66 +357,6 @@
   {
    "kind": "new",
    "full_name": "XKLMY-hi/dsh-synthv-bridge",
-   "detail": "首次进入 dsh-plugin 主题快照",
-   "detected_at": 1786869108
-  },
-  {
-   "kind": "new",
-   "full_name": "derek2035/dsh-social",
-   "detail": "首次进入 dsh-plugin 主题快照",
-   "detected_at": 1786869108
-  },
-  {
-   "kind": "new",
-   "full_name": "wwumit/dsh-skill-hub",
-   "detail": "首次进入 dsh-plugin 主题快照",
-   "detected_at": 1786869108
-  },
-  {
-   "kind": "new",
-   "full_name": "Zlyraz/dsh-ballute",
-   "detail": "首次进入 dsh-plugin 主题快照",
-   "detected_at": 1786869108
-  },
-  {
-   "kind": "new",
-   "full_name": "qq247505/DeepSeek-VisionPlus",
-   "detail": "首次进入 dsh-plugin 主题快照",
-   "detected_at": 1786869108
-  },
-  {
-   "kind": "new",
-   "full_name": "33moren33/dsh-memory-pyramid",
-   "detail": "首次进入 dsh-plugin 主题快照",
-   "detected_at": 1786869108
-  },
-  {
-   "kind": "new",
-   "full_name": "yibiner/dsh-plugin-list-plus",
-   "detail": "首次进入 dsh-plugin 主题快照",
-   "detected_at": 1786869108
-  },
-  {
-   "kind": "new",
-   "full_name": "xinkeZhou-byte/dsh-usage-stats-dashboard",
-   "detail": "首次进入 dsh-plugin 主题快照",
-   "detected_at": 1786869108
-  },
-  {
-   "kind": "new",
-   "full_name": "Lateautumns/ds-balance",
-   "detail": "首次进入 dsh-plugin 主题快照",
-   "detected_at": 1786869108
-  },
-  {
-   "kind": "new",
-   "full_name": "Agents365-ai/dsh-vision-plugin",
-   "detail": "首次进入 dsh-plugin 主题快照",
-   "detected_at": 1786869108
-  },
-  {
-   "kind": "new",
-   "full_name": "huasheng33991/dsh-power-button",
    "detail": "首次进入 dsh-plugin 主题快照",
    "detected_at": 1786869108
   }
