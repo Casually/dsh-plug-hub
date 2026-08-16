@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>dsh-plug-hub 管理台</title>
+<link rel="stylesheet" href="https://unpkg.com/element-plus@2.9.1/dist/index.css">
+<script src="https://unpkg.com/vue@3.5.13/dist/vue.global.prod.js"></script>
+<script src="https://unpkg.com/element-plus@2.9.1/dist/index.full.min.js"></script>
+<script src="https://unpkg.com/element-plus@2.9.1/dist/locale/zh-cn.min.js"></script>
+<style>
+  body { margin: 0; background: #f5f7fa; font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif; }
+  .hub-head { background: #1f2d3d; color: #fff; padding: 14px 24px; display: flex; align-items: center; gap: 12px; }
+  .hub-head h1 { font-size: 16px; margin: 0; font-weight: 600; }
+  .hub-head .sub { color: #9aa7b8; font-size: 12px; }
+  .hub-body { padding: 20px 24px; max-width: 1280px; margin: 0 auto; }
+  .stat-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin-bottom: 16px; }
+  .stat-card { background: #fff; border-radius: 8px; padding: 14px 16px; box-shadow: 0 1px 3px rgba(0,0,0,.06); }
+  .stat-card .num { font-size: 26px; font-weight: 700; }
+  .stat-card .lbl { color: #8c95a6; font-size: 12px; margin-top: 2px; }
+  .panel { background: #fff; border-radius: 8px; padding: 16px; box-shadow: 0 1px 3px rgba(0,0,0,.06); margin-bottom: 16px; }
+  .toolbar { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 12px; align-items: center; }
+  .toolbar .spacer { flex: 1; }
+  .muted { color: #8c95a6; font-size: 12px; }
+</style>
+</head>
+<body>
+<div id="app"></div>
+<script src="/admin-static/admin.js"></script>
+</body>
+</html>

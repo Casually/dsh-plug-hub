@@ -1,0 +1,53 @@
+name: hub-sync-and-publish
+
+# 06 自动维护：每 4 小时全量同步 → 提交数据与变更记录 → 发布 GitHub Pages 站点。
+# 触发器刻意不含 push 全量（CI 自提交 data/ 不会触发回环）；站点模板变更走 paths 过滤。
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+  workflow_dispatch: {}
+  push:
+    paths:
+      - "site-template/**"
+      - "generate_site.py"
+      - "server/catalog.py"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Full topic snapshot sync
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          HUB_DB: ${{ github.workspace }}/data/hub.db
+        run: python sync.py --trigger ci --generate-site
+
+      - name: Commit data & changelog
+        run: |
+          git config user.name "dsh-plug-hub-bot"
+          git config user.email "dsh-plug-hub-bot@users.noreply.github.com"
+          git add data/hub.db CHANGELOG.md 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(data): auto sync $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          else
+            echo "无数据变化，跳过提交"
+          fi
+
+      - name: Deploy site to GitHub Pages (gh-pages)
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site

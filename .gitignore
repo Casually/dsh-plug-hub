@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+site/
+data/hub.db-wal
+data/hub.db-shm
+.DS_Store
