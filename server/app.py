@@ -181,8 +181,8 @@ async def admin_overview(x_admin_token: str | None = Header(default=None)):
 
 
 @app.get("/api/admin/repos")
-async def admin_repos(x_admin_token: str | None = Header(default=None), limit: int = 2000):
-    """快照 + 策展状态联表，管理页主表格数据源（按 star 排序截取）。"""
+async def admin_repos(x_admin_token: str | None = Header(default=None), limit: int = 50000):
+    """快照 + 策展状态联表，管理页主表格数据源（全量返回，前端分页渲染）。"""
     require_admin(x_admin_token)
     db.init_db()
     conn = db.connect()
@@ -195,7 +195,7 @@ async def admin_repos(x_admin_token: str | None = Header(default=None), limit: i
                 FROM repos r
                 LEFT JOIN plugins p ON p.repo_id = r.repo_id
                 ORDER BY r.stars DESC, r.pushed_at DESC LIMIT ?""",
-            (min(max(limit, 50), 5000),),
+            (min(max(limit, 50), 100000),),
         )
         categories = db.rows_to_dicts(conn.execute("SELECT * FROM categories ORDER BY sort"))
         return {"ok": True, "total": total, "repos": db.rows_to_dicts(rows), "categories": categories}

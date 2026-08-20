@@ -146,10 +146,13 @@
 			const loading = ref(false);
 			const overview = ref(null);
 			const repos = ref([]);
+			const repoTotal = ref(0);
 			const categories = ref([]);
 			const filterText = ref("");
 			const filterStatus = ref("");
 			const filterCategory = ref("");
+			const page = ref(1);
+			const pageSize = ref(100);
 			const editVisible = ref(false);
 			const editRepo = ref(null);
 
@@ -162,6 +165,7 @@
 				try {
 					const data = await api("/api/admin/repos");
 					repos.value = data.repos;
+					repoTotal.value = data.total !== undefined ? data.total : data.repos.length;
 					categories.value = data.categories;
 				} catch (e) {
 					ElementPlus.ElMessage.error(e.message);
@@ -199,6 +203,9 @@
 				}
 				return { total, approved, candidate, none };
 			});
+			const paged = computed(() => filtered.value.slice(
+				(page.value - 1) * pageSize.value, page.value * pageSize.value));
+			Vue.watch([filterText, filterStatus, filterCategory], () => { page.value = 1; });
 
 			function openEdit(row) { editRepo.value = row; editVisible.value = true; }
 			async function quickApprove(row) {
@@ -240,8 +247,9 @@
 			onMounted(() => { if (authorized.value) loadAll(); });
 
 			return {
-				token, authorized, tab, loading, overview, repos, categories,
-				filterText, filterStatus, filterCategory, filtered, stats,
+				token, authorized, tab, loading, overview, repos, categories, repoTotal,
+				filterText, filterStatus, filterCategory, filtered, paged, stats,
+				page, pageSize,
 				editVisible, editRepo, enterToken, loadAll, openEdit, quickApprove,
 				doSync, doGenerate, catName, fmtTime, activityOf, STATUS_META, KIND_META,
 			};
@@ -262,7 +270,7 @@
 	</div>
 	<div class="hub-body" v-else>
 		<div class="stat-cards">
-			<div class="stat-card"><div class="num">{{ stats.total }}</div><div class="lbl">主题仓库（全量快照）</div></div>
+			<div class="stat-card"><div class="num">{{ repoTotal }}</div><div class="lbl">主题仓库（全量快照）</div></div>
 			<div class="stat-card"><div class="num" style="color:#67c23a">{{ stats.approved }}</div><div class="lbl">已收录</div></div>
 			<div class="stat-card"><div class="num" style="color:#909399">{{ stats.none }}</div><div class="lbl">未策展（快照内）</div></div>
 			<div class="stat-card"><div class="num">{{ overview && overview.last_sync_at ? overview.last_sync_at.replace('T',' ').replace('Z','') : '—' }}</div><div class="lbl">上次同步 (UTC)</div></div>
@@ -290,7 +298,7 @@
 						</el-select>
 						<span class="muted">共 {{ filtered.length }} 条</span>
 					</div>
-					<el-table :data="filtered" v-loading="loading" size="small" max-height="560">
+					<el-table :data="paged" v-loading="loading" size="small" max-height="560">
 						<el-table-column prop="full_name" label="仓库" min-width="200">
 							<template #default="{ row }">
 								<a :href="row.html_url" target="_blank" style="color:#409eff;text-decoration:none">{{ row.full_name }}</a>
@@ -319,6 +327,10 @@
 							</template>
 						</el-table-column>
 					</el-table>
+					<el-pagination style="margin-top:12px;justify-content:flex-end" background
+						layout="total, sizes, prev, pager, next" :total="filtered.length"
+						v-model:current-page="page" v-model:page-size="pageSize"
+						:page-sizes="[100, 200, 500, 1000]" />
 				</el-tab-pane>
 				<el-tab-pane label="事件监测" name="events">
 					<el-table :data="overview ? overview.events : []" size="small" max-height="560">
