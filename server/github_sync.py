@@ -8,13 +8,15 @@
     vanished   上次快照里有、这次没了（删除 / 取消 topic / 转私有）
 - 每次运行写入 sync_runs 日志；httpx 遵循 HTTPS_PROXY/HTTP_PROXY 环境变量。
 
-只读操作，限流友好：未认证 10 次/分钟、认证 30 次/分钟（search），
-全量快照通常 1~3 页足够。
+入库采用两阶段：先更新/改名已有仓库（改名会释放旧 full_name），再插入新仓库，
+避免「改名腾出的名字被新仓库注册」撞唯一约束；仍冲突时（旧仓库已删除、名字
+被复用）把占用者标记为墓碑后重试。
 """
 from __future__ import annotations
 
 import json
 import os
+import sqlite3
 
 import httpx
 
@@ -134,7 +136,7 @@ def fetch_all_topic_repos(client: httpx.Client) -> list[dict]:
                 paginate(fq, first)
 
         def walk_size() -> None:
-            for sband in ("size:<=50", "size:51..500", "size:>500"):
+            for sband in ("size:<=20", "size:21..50", "size:51..500", "size:>500"):
                 sq = f"topic:{TOPIC} created:{lo}..{hi} stars:0 forks:0 {sband}"
                 first, total = band_fetch(sq)
                 if total == 0:
@@ -205,7 +207,10 @@ def sync(trigger: str = "manual") -> dict:
 
         before = {row["repo_id"]: dict(row) for row in conn.execute("SELECT * FROM repos")}
         seen_ids: set[int] = set()
+        new_items: list[tuple[dict, str]] = []
 
+        # 第一遍：只处理已存在仓库（更新/改名/归档）。改名会释放旧 full_name，
+        # 必须先于新仓库插入完成，否则「A 改名腾出的名字被新仓库 B 注册」会撞唯一约束。
         for item in items:
             repo_id = int(item["id"])
             seen_ids.add(repo_id)
@@ -236,6 +241,43 @@ def sync(trigger: str = "manual") -> dict:
             }
             old = before.get(repo_id)
             if old is None:
+                new_items.append((record, full_name))
+                continue
+            conn.execute(
+                """UPDATE repos SET full_name=:full_name, owner=:owner, name=:name,
+                    description=:description, homepage=:homepage, html_url=:html_url,
+                    stars=:stars, forks=:forks, open_issues=:open_issues, language=:language,
+                    license=:license, topics=:topics, archived=:archived, disabled=:disabled,
+                    created_at=:created_at, pushed_at=:pushed_at, updated_at=:updated_at,
+                    default_branch=:default_branch, last_seen_at=:ts WHERE repo_id=:repo_id""",
+                {**record, "ts": db.now()},
+            )
+            stats["updated"] += 1
+            if old["full_name"] != full_name:
+                conn.execute("UPDATE repos SET prev_full_name=? WHERE repo_id=?", (old["full_name"], repo_id))
+                conn.execute("UPDATE plugins SET full_name=?, name=? WHERE repo_id=?", (full_name, record["name"], repo_id))
+                conn.execute(
+                    "INSERT INTO repo_events(repo_id, full_name, kind, detail, detected_at) VALUES(?,?,?,?,?)",
+                    (repo_id, full_name, "renamed", old["full_name"] + " → " + full_name, db.now()),
+                )
+                stats["renamed"] += 1
+            if old["archived"] == 0 and archived == 1:
+                conn.execute(
+                    "INSERT INTO repo_events(repo_id, full_name, kind, detail, detected_at) VALUES(?,?,?,?,?)",
+                    (repo_id, full_name, "archived", "仓库被归档", db.now()),
+                )
+                stats["archived"] += 1
+            elif old["archived"] == 1 and archived == 0:
+                conn.execute(
+                    "INSERT INTO repo_events(repo_id, full_name, kind, detail, detected_at) VALUES(?,?,?,?,?)",
+                    (repo_id, full_name, "unarchived", "仓库取消归档", db.now()),
+                )
+
+        # 第二遍：插入新仓库。极端情况下旧行仍占着同名 full_name（旧仓库已删除、
+        # 名字被新仓库复用）——把占用者标记为墓碑后重试。
+        tombstoned: set[int] = set()
+        for record, full_name in new_items:
+            try:
                 conn.execute(
                     """INSERT INTO repos(repo_id, full_name, owner, name, description, homepage,
                         html_url, stars, forks, open_issues, language, license, topics, archived,
@@ -246,48 +288,41 @@ def sync(trigger: str = "manual") -> dict:
                         :created_at,:pushed_at,:updated_at,:default_branch,:ts,:ts,'')""",
                     {**record, "ts": db.now()},
                 )
+            except sqlite3.IntegrityError:
+                holder = conn.execute(
+                    "SELECT repo_id FROM repos WHERE full_name=?", (full_name,)).fetchone()
+                if holder is not None:
+                    tomb = "%s#deleted-%d" % (full_name, holder["repo_id"])
+                    conn.execute(
+                        "UPDATE repos SET full_name=?, disabled=1 WHERE repo_id=?",
+                        (tomb, holder["repo_id"]),
+                    )
+                    conn.execute(
+                        "INSERT INTO repo_events(repo_id, full_name, kind, detail, detected_at) VALUES(?,?,?,?,?)",
+                        (holder["repo_id"], full_name, "vanished", "仓库已删除，名字被新仓库复用", db.now()),
+                    )
+                    tombstoned.add(holder["repo_id"])
                 conn.execute(
-                    "INSERT INTO repo_events(repo_id, full_name, kind, detail, detected_at) VALUES(?,?,?,?,?)",
-                    (repo_id, full_name, "new", "首次进入 dsh-plugin 主题快照", db.now()),
-                )
-                stats["added"] += 1
-                # 注意：不自动创建策展候选——topic 下已有数千仓库（含大量
-                # 仅挂 topic 的非插件仓库），候选池由管理台按需「加入策展」。
-            else:
-                conn.execute(
-                    """UPDATE repos SET full_name=:full_name, owner=:owner, name=:name,
-                        description=:description, homepage=:homepage, html_url=:html_url,
-                        stars=:stars, forks=:forks, open_issues=:open_issues, language=:language,
-                        license=:license, topics=:topics, archived=:archived, disabled=:disabled,
-                        created_at=:created_at, pushed_at=:pushed_at, updated_at=:updated_at,
-                        default_branch=:default_branch, last_seen_at=:ts WHERE repo_id=:repo_id""",
+                    """INSERT INTO repos(repo_id, full_name, owner, name, description, homepage,
+                        html_url, stars, forks, open_issues, language, license, topics, archived,
+                        disabled, created_at, pushed_at, updated_at, default_branch,
+                        first_seen_at, last_seen_at, prev_full_name)
+                        VALUES(:repo_id,:full_name,:owner,:name,:description,:homepage,:html_url,
+                        :stars,:forks,:open_issues,:language,:license,:topics,:archived,:disabled,
+                        :created_at,:pushed_at,:updated_at,:default_branch,:ts,:ts,'')""",
                     {**record, "ts": db.now()},
                 )
-                stats["updated"] += 1
-                if old["full_name"] != full_name:
-                    conn.execute("UPDATE repos SET prev_full_name=? WHERE repo_id=?", (old["full_name"], repo_id))
-                    conn.execute("UPDATE plugins SET full_name=?, name=? WHERE repo_id=?", (full_name, record["name"], repo_id))
-                    conn.execute(
-                        "INSERT INTO repo_events(repo_id, full_name, kind, detail, detected_at) VALUES(?,?,?,?,?)",
-                        (repo_id, full_name, "renamed", old["full_name"] + " → " + full_name, db.now()),
-                    )
-                    stats["renamed"] += 1
-                if old["archived"] == 0 and archived == 1:
-                    conn.execute(
-                        "INSERT INTO repo_events(repo_id, full_name, kind, detail, detected_at) VALUES(?,?,?,?,?)",
-                        (repo_id, full_name, "archived", "仓库被归档", db.now()),
-                    )
-                    stats["archived"] += 1
-                elif old["archived"] == 1 and archived == 0:
-                    conn.execute(
-                        "INSERT INTO repo_events(repo_id, full_name, kind, detail, detected_at) VALUES(?,?,?,?,?)",
-                        (repo_id, full_name, "unarchived", "仓库取消归档", db.now()),
-                    )
+            conn.execute(
+                "INSERT INTO repo_events(repo_id, full_name, kind, detail, detected_at) VALUES(?,?,?,?,?)",
+                (record["repo_id"], full_name, "new", "首次进入 dsh-plugin 主题快照", db.now()),
+            )
+            stats["added"] += 1
+            # 注意：不自动创建策展候选——topic 下已有数千仓库（含大量
+            # 仅挂 topic 的非插件仓库），候选池由管理台按需「加入策展」。
 
-        # vanished：上次有这次没有（容忍一次抖动——仅当连续两次缺席才标记？
-        # 简化：直接记事件，last_seen_at 保留旧值便于排查）
+        # vanished：上次有这次没有（墓碑行已单独记过事件，跳过）
         for repo_id, old in before.items():
-            if repo_id not in seen_ids:
+            if repo_id not in seen_ids and repo_id not in tombstoned:
                 conn.execute(
                     "INSERT INTO repo_events(repo_id, full_name, kind, detail, detected_at) VALUES(?,?,?,?,?)",
                     (repo_id, old["full_name"], "vanished", "本次快照未命中（可能删除、转私有或取消 topic）", db.now()),

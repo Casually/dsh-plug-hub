@@ -10,7 +10,10 @@ on:
     paths:
       - "site-template/**"
       - "generate_site.py"
-      - "server/catalog.py"
+      - "sync.py"
+      - "server/**"
+      - "tools/**"
+      - ".github/workflows/hub-sync.yml"
 
 permissions:
   contents: write
