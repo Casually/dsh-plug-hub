@@ -351,3 +351,9 @@ def sync(trigger: str = "manual") -> dict:
         return {"ok": False, "error": message, **stats}
     finally:
         conn.close()
+        # WAL 刷回主库：让 hub.db 自包含（CI 紧接着 git add 提交它；
+        # 本地也避免遗留 -wal 边车文件与后续 git 操作错配）
+        try:
+            db.checkpoint()
+        except sqlite3.Error:
+            pass

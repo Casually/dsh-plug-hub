@@ -39,6 +39,12 @@ cd dsh-plug-hub
 python sync.py --trigger manual --generate-site
 ```
 
+> **本地运维须知**：`data/hub.db` 是 WAL 模式的 SQLite。对仓库做
+> `git pull / checkout` 之前**先停掉本地服务**（或确认无 `-wal`/`-shm`
+> 边车文件），否则主库与遗留 WAL 错配会报 "database disk image is
+> malformed"（假性损坏，重新拉取远端文件即可恢复）。每次同步结束会
+> 自动 `wal_checkpoint(TRUNCATE)`，CI 提交的 hub.db 始终自包含。
+
 ## 目录结构
 
 ```

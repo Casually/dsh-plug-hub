@@ -148,5 +148,20 @@ def now() -> int:
     return int(time.time())
 
 
+def checkpoint() -> None:
+    """把 WAL 全部刷回主库并清空 -wal 文件，让 hub.db 成为自包含快照。
+
+    提交进 git / 复制备份前调用。WAL 模式下若带着未 checkpoint 的 -wal
+    边车文件去替换主库（如 git checkout/pull），会因 change-counter 错配
+    报 "database disk image is malformed"。
+    """
+    conn = connect()
+    try:
+        conn.execute("PRAGMA wal_checkpoint(TRUNCATE)")
+        conn.commit()
+    finally:
+        conn.close()
+
+
 def rows_to_dicts(rows) -> list[dict]:
     return [dict(r) for r in rows]
