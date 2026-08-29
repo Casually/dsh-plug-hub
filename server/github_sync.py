@@ -228,22 +228,17 @@ def sync(trigger: str = "manual") -> dict:
 
         before = {row["repo_id"]: dict(row) for row in conn.execute("SELECT * FROM repos")}
         seen_ids: set[int] = set()
-        new_items: list[tuple[dict, str]] = []
+        records: list[dict] = []
+        needed_names: dict[str, int] = {}
 
-        # 第一遍：只处理已存在仓库（更新/改名/归档）。改名会释放旧 full_name，
-        # 必须先于新仓库插入完成，否则「A 改名腾出的名字被新仓库 B 注册」会撞唯一约束。
         for item in items:
             repo_id = int(item["id"])
             seen_ids.add(repo_id)
-            full_name = str(item.get("full_name", ""))
-            owner = str(item.get("owner", {}).get("login", ""))
-            name = str(item.get("name", ""))
-            archived = 1 if item.get("archived") else 0
             record = {
                 "repo_id": repo_id,
-                "full_name": full_name,
-                "owner": owner,
-                "name": name,
+                "full_name": str(item.get("full_name", "")),
+                "owner": str(item.get("owner", {}).get("login", "")),
+                "name": str(item.get("name", "")),
                 "description": str(item.get("description") or ""),
                 "homepage": str(item.get("homepage") or ""),
                 "html_url": str(item.get("html_url", "")),
@@ -253,16 +248,49 @@ def sync(trigger: str = "manual") -> dict:
                 "language": str(item.get("language") or ""),
                 "license": _license_of(item),
                 "topics": json.dumps(item.get("topics", []), ensure_ascii=False),
-                "archived": archived,
+                "archived": 1 if item.get("archived") else 0,
                 "disabled": 1 if item.get("disabled") else 0,
                 "created_at": str(item.get("created_at", "")),
                 "pushed_at": str(item.get("pushed_at", "")),
                 "updated_at": str(item.get("updated_at", "")),
                 "default_branch": str(item.get("default_branch", "main")),
             }
-            old = before.get(repo_id)
+            records.append(record)
+            needed_names[record["full_name"]] = repo_id
+
+        # 改名链/互换场景（A 要占 B 当前的名字、B 也在改名；2026-08-23 起
+        # CI 连续多日 UNIQUE(full_name) 崩溃即此因）：四阶段入库，任何时刻
+        # 都不会有两行争同一个名字。
+        #
+        # 阶段 1：快照内所有已存在仓库先释放 full_name（'#' 不可能出现在
+        # GitHub 仓库名里，临时名互不冲突、也不会与快照名冲突）。
+        for record in records:
+            if record["repo_id"] in before:
+                conn.execute(
+                    "UPDATE repos SET full_name=? WHERE repo_id=?",
+                    ("##renaming##%d" % record["repo_id"], record["repo_id"]),
+                )
+
+        # 阶段 2：不在本次快照、却占着快照所需名字的行 = 旧仓库已删除/转出，
+        # 名字被快照内仓库复用——标记墓碑腾出名字。
+        tombstoned: set[int] = set()
+        for repo_id, old in before.items():
+            if repo_id not in seen_ids and needed_names.get(old["full_name"]) is not None:
+                tomb = "%s#deleted-%d" % (old["full_name"], repo_id)
+                conn.execute(
+                    "UPDATE repos SET full_name=?, disabled=1 WHERE repo_id=?",
+                    (tomb, repo_id),
+                )
+                conn.execute(
+                    "INSERT INTO repo_events(repo_id, full_name, kind, detail, detected_at) VALUES(?,?,?,?,?)",
+                    (repo_id, old["full_name"], "vanished", "仓库已删除或转出，名字被快照内仓库复用", db.now()),
+                )
+                tombstoned.add(repo_id)
+
+        # 阶段 3：更新全部已存在仓库（此时名字已全部腾空，UNIQUE 不可能触发）。
+        for record in records:
+            old = before.get(record["repo_id"])
             if old is None:
-                new_items.append((record, full_name))
                 continue
             conn.execute(
                 """UPDATE repos SET full_name=:full_name, owner=:owner, name=:name,
@@ -274,30 +302,31 @@ def sync(trigger: str = "manual") -> dict:
                 {**record, "ts": db.now()},
             )
             stats["updated"] += 1
-            if old["full_name"] != full_name:
-                conn.execute("UPDATE repos SET prev_full_name=? WHERE repo_id=?", (old["full_name"], repo_id))
-                conn.execute("UPDATE plugins SET full_name=?, name=? WHERE repo_id=?", (full_name, record["name"], repo_id))
+            if old["full_name"] != record["full_name"]:
+                conn.execute("UPDATE repos SET prev_full_name=? WHERE repo_id=?", (old["full_name"], record["repo_id"]))
+                conn.execute("UPDATE plugins SET full_name=?, name=? WHERE repo_id=?", (record["full_name"], record["name"], record["repo_id"]))
                 conn.execute(
                     "INSERT INTO repo_events(repo_id, full_name, kind, detail, detected_at) VALUES(?,?,?,?,?)",
-                    (repo_id, full_name, "renamed", old["full_name"] + " → " + full_name, db.now()),
+                    (record["repo_id"], record["full_name"], "renamed", old["full_name"] + " → " + record["full_name"], db.now()),
                 )
                 stats["renamed"] += 1
-            if old["archived"] == 0 and archived == 1:
+            if old["archived"] == 0 and record["archived"] == 1:
                 conn.execute(
                     "INSERT INTO repo_events(repo_id, full_name, kind, detail, detected_at) VALUES(?,?,?,?,?)",
-                    (repo_id, full_name, "archived", "仓库被归档", db.now()),
+                    (record["repo_id"], record["full_name"], "archived", "仓库被归档", db.now()),
                 )
                 stats["archived"] += 1
-            elif old["archived"] == 1 and archived == 0:
+            elif old["archived"] == 1 and record["archived"] == 0:
                 conn.execute(
                     "INSERT INTO repo_events(repo_id, full_name, kind, detail, detected_at) VALUES(?,?,?,?,?)",
-                    (repo_id, full_name, "unarchived", "仓库取消归档", db.now()),
+                    (record["repo_id"], record["full_name"], "unarchived", "仓库取消归档", db.now()),
                 )
 
-        # 第二遍：插入新仓库。极端情况下旧行仍占着同名 full_name（旧仓库已删除、
-        # 名字被新仓库复用）——把占用者标记为墓碑后重试。
-        tombstoned: set[int] = set()
-        for record, full_name in new_items:
+        # 阶段 4：插入新仓库（所需名字阶段 1/2 已腾空；墓碑兜底保留）。
+        for record in records:
+            if record["repo_id"] in before:
+                continue
+            full_name = record["full_name"]
             try:
                 conn.execute(
                     """INSERT INTO repos(repo_id, full_name, owner, name, description, homepage,
@@ -338,17 +367,21 @@ def sync(trigger: str = "manual") -> dict:
                 (record["repo_id"], full_name, "new", "首次进入 dsh-plugin 主题快照", db.now()),
             )
             stats["added"] += 1
-            # 注意：不自动创建策展候选——topic 下已有数千仓库（含大量
+            # 注意：不自动创建策展候选——topic 下已有上万仓库（含大量
             # 仅挂 topic 的非插件仓库），候选池由管理台按需「加入策展」。
 
-        # vanished：上次有这次没有（墓碑行已单独记过事件，跳过）
+        # vanished：上次有这次没有（墓碑行已单独记过事件，跳过；
+        # 历史墓碑行以 #deleted-<id> 结尾，不再重复记事件）
         for repo_id, old in before.items():
-            if repo_id not in seen_ids and repo_id not in tombstoned:
-                conn.execute(
-                    "INSERT INTO repo_events(repo_id, full_name, kind, detail, detected_at) VALUES(?,?,?,?,?)",
-                    (repo_id, old["full_name"], "vanished", "本次快照未命中（可能删除、转私有或取消 topic）", db.now()),
-                )
-                stats["vanished"] += 1
+            if repo_id in seen_ids or repo_id in tombstoned:
+                continue
+            if old["full_name"].endswith("#deleted-%d" % repo_id):
+                continue
+            conn.execute(
+                "INSERT INTO repo_events(repo_id, full_name, kind, detail, detected_at) VALUES(?,?,?,?,?)",
+                (repo_id, old["full_name"], "vanished", "本次快照未命中（可能删除、转私有或取消 topic）", db.now()),
+            )
+            stats["vanished"] += 1
 
         conn.execute("UPDATE settings SET value=? WHERE key='last_sync_at'", (str(db.now()),))
         if conn.execute("SELECT changes()").fetchone()[0] == 0:
