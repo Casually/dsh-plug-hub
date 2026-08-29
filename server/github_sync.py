@@ -40,12 +40,33 @@ def _headers() -> dict:
     return headers
 
 
+_last_request_ts = 0.0
+
+
+def _throttle() -> None:
+    """客户端主动限速：宁可慢也别吃满 API 速率。
+
+    带令牌 2.6s/请求（约 23 次/分，低于 search 30 次/分上限并避开
+    二级限流/滥用检测——持续满速搜索会触发后者，2026-08-23 起
+    CI 连续失败即此因）；无令牌 7s/请求（约 8.5 次/分，低于 10 次/分）。
+    """
+    global _last_request_ts
+    import time as _time
+
+    interval = 2.6 if os.environ.get("GITHUB_TOKEN", "") != "" else 7.0
+    wait = interval - (_time.time() - _last_request_ts)
+    if wait > 0:
+        _time.sleep(wait)
+    _last_request_ts = _time.time()
+
+
 def _search(client: httpx.Client, query: str, page: int) -> dict:
     """抓一页搜索，限流时按 reset 时间退避重试（未认证 search 仅 10 次/分钟）。"""
     import time as _time
 
     params = {"q": query, "per_page": str(PAGE_SIZE), "page": str(page)}
-    for attempt in range(6):
+    for attempt in range(12):
+        _throttle()
         resp = client.get(SEARCH_URL, params=params, headers=_headers(), timeout=30)
         if resp.status_code in (403, 429):
             reset = resp.headers.get("X-RateLimit-Reset", "")
@@ -58,8 +79,8 @@ def _search(client: httpx.Client, query: str, page: int) -> dict:
                     wait = max(1, int(reset) - int(_time.time()))
             except ValueError:
                 wait = None
-            wait = 65 if wait is None else min(wait, 120)
-            if attempt >= 5:
+            wait = 65 if wait is None else min(wait, 300)
+            if attempt >= 11:
                 raise RuntimeError("GitHub 限流（HTTP %d），退避重试 %d 次仍失败——配置 GITHUB_TOKEN 可提速" % (resp.status_code, attempt))
             print("[sync] 限流，等待 %ds 后重试（第 %d 次）page=%d" % (wait + 1, attempt + 1, page), flush=True)
             _time.sleep(wait + 1)
