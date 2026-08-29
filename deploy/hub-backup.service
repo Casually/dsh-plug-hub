@@ -1,0 +1,8 @@
+[Unit]
+Description=dsh-plug-hub SQLite online backup (daily)
+
+[Service]
+Type=oneshot
+User=hub
+WorkingDirectory=/opt/dsh-plug-hub
+ExecStart=/opt/dsh-plug-hub/.venv/bin/python tools/backup_db.py /opt/dsh-plug-hub/backups --keep 14

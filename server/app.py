@@ -60,6 +60,13 @@ async def scheduler_loop() -> None:
                 print("[dsh-plug-hub] 定时同步开始…")
                 result = await run_sync("scheduler")
                 print("[dsh-plug-hub] 定时同步结束：" + json.dumps(result, ensure_ascii=False))
+                if result.get("ok"):
+                    try:
+                        import generate_site
+                        count = await asyncio.to_thread(generate_site.generate)
+                        print("[dsh-plug-hub] 站点已重新生成：%d 个插件" % count)
+                    except Exception as site_error:  # noqa: BLE001
+                        print("[dsh-plug-hub] 站点重建失败：" + str(site_error))
         except Exception as error:  # noqa: BLE001
             print("[dsh-plug-hub] 调度器异常：" + str(error))
         await asyncio.sleep(SYNC_INTERVAL_SECONDS)

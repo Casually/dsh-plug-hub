@@ -1,0 +1,23 @@
+services:
+  hub:
+    build: .
+    container_name: dsh-plug-hub
+    ports:
+      - "8900:8900"
+    environment:
+      # 管理台令牌（必填，改成强随机值；留空则每次启动随机生成并打印到日志）
+      HUB_ADMIN_TOKEN: ${HUB_ADMIN_TOKEN:-}
+      # GitHub API 令牌（强烈建议：无权限要求的 fine-grained/经典 PAT 即可，
+      # 把 search 限流从 10 次/分提到 30 次/分，全量同步从 ~25 分钟缩到 ~10 分钟）
+      GITHUB_TOKEN: ${GITHUB_TOKEN:-}
+      HUB_DB: /app/data/hub.db
+    volumes:
+      # 数据持久化：SQLite 库与站点都落在宿主目录，容器随便重建
+      - ./data:/app/data
+      - ./site:/app/site
+    restart: unless-stopped
+    # 资源很省：1C/512MB 足够
+    deploy:
+      resources:
+        limits:
+          memory: 512M

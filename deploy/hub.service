@@ -1,0 +1,25 @@
+[Unit]
+Description=dsh-plug-hub plugin market server
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+# 建议建专用用户：useradd -r -s /usr/sbin/nologin hub
+User=hub
+WorkingDirectory=/opt/dsh-plug-hub
+# —— 环境变量（推荐写到 /etc/dsh-plug-hub.env 并用 EnvironmentFile 引入）——
+# HUB_DB=/opt/dsh-plug-hub/data/hub.db
+# HUB_ADMIN_TOKEN=<强随机值>
+# GITHUB_TOKEN=<任意 PAT，只为提速，无需任何权限>
+Environment=HUB_DB=/opt/dsh-plug-hub/data/hub.db
+EnvironmentFile=-/etc/dsh-plug-hub.env
+ExecStart=/opt/dsh-plug-hub/.venv/bin/uvicorn server.app:app --host 127.0.0.1 --port 8900
+Restart=always
+RestartSec=5
+# SQLite 需要正常退出以落 WAL
+KillSignal=SIGTERM
+TimeoutStopSec=30
+
+[Install]
+WantedBy=multi-user.target
