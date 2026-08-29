@@ -54,14 +54,28 @@ def build_catalog(conn=None) -> dict:
             for row in conn.execute("SELECT * FROM categories ORDER BY sort")
         }
         repos = {row["repo_id"]: dict(row) for row in conn.execute("SELECT * FROM repos")}
+        # 最近一次同步时间戳：last_seen_at 明显早于它的仓库已掉出快照
+        # （删除/转私有/取消 topic），不进目录
+        last_row = conn.execute("SELECT value FROM settings WHERE key='last_sync_at'").fetchone()
+        try:
+            last_sync = int(last_row["value"]) if last_row is not None else 0
+        except (TypeError, ValueError):
+            last_sync = 0
         plugins = []
         rows = conn.execute(
             """SELECT p.*, c.slug AS category_slug, c.name_zh AS category_zh, c.name_en AS category_en
                 FROM plugins p JOIN categories c ON c.id = p.category_id
-                WHERE p.status = 'approved' ORDER BY c.sort, p.sort DESC, p.updated_at DESC"""
+                WHERE p.status = 'approved' AND p.full_name NOT LIKE '%#deleted-%'
+                ORDER BY c.sort, p.sort DESC, p.updated_at DESC"""
         )
         for row in rows:
             repo = repos.get(row["repo_id"]) if row["repo_id"] is not None else None
+            # 墓碑仓库（已删除、名字被复用）不进目录——即使其插件行曾正常收录
+            if repo is not None and "#deleted-" in repo["full_name"]:
+                continue
+            # 已掉出最新快照的仓库不进目录（容忍 60s 计时误差）
+            if repo is not None and last_sync > 0 and int(repo["last_seen_at"] or 0) < last_sync - 60:
+                continue
             pushed_at = repo["pushed_at"] if repo is not None else ""
             archived = bool(repo["archived"]) if repo is not None else False
             full_name = row["full_name"]

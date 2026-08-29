@@ -112,6 +112,9 @@ def main() -> int:
     for repo in repos:
         if repo["repo_id"] in curated_ids:
             continue
+        # 墓碑仓库（已删除、名字被复用）不收
+        if "#deleted-" in (repo["full_name"] or ""):
+            continue
         try:
             topics = json.loads(repo["topics"] or "[]")
         except json.JSONDecodeError:
