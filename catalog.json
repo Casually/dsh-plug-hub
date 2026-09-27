@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27T19:46:52Z",
+ "generated_at": "2026-09-27T23:01:57Z",
  "source": "dsh-plug-hub",
  "topic": "dsh-plugin",
  "total": 12180,
@@ -477,7 +477,7 @@
     "forks": 1,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T05:32:26Z"
+    "pushed_at": "2026-09-27T22:47:20Z"
    },
    "activity": {
     "level": "active",
@@ -940,7 +940,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 8
+    "days_since": 9
    },
    "archived": false
   },
@@ -1144,7 +1144,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T15:53:38Z"
+    "pushed_at": "2026-09-27T20:31:31Z"
    },
    "activity": {
     "level": "active",
@@ -1711,7 +1711,7 @@
     "forks": 4,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T14:53:45Z"
+    "pushed_at": "2026-09-27T22:04:01Z"
    },
    "activity": {
     "level": "active",
@@ -2206,7 +2206,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 2
    },
    "archived": false
   },
@@ -3344,7 +3344,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -5036,7 +5036,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -6398,7 +6398,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 6
+    "days_since": 7
    },
    "archived": false
   },
@@ -7198,7 +7198,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 29
+    "days_since": 30
    },
    "archived": false
   },
@@ -7261,14 +7261,14 @@
     "forks": 1,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-26T19:16:42Z"
+    "pushed_at": "2026-09-27T22:16:10Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 0
    },
    "archived": false
   },
@@ -7583,7 +7583,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 11
+    "days_since": 12
    },
    "archived": false
   },
@@ -7622,7 +7622,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 6
+    "days_since": 7
    },
    "archived": false
   },
@@ -7924,14 +7924,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-20T20:43:16Z"
+    "pushed_at": "2026-09-27T20:43:14Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 6
+    "days_since": 0
    },
    "archived": false
   },
@@ -8000,7 +8000,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T19:40:34Z"
+    "pushed_at": "2026-09-27T20:00:09Z"
    },
    "activity": {
     "level": "active",
@@ -8117,7 +8117,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 15
+    "days_since": 16
    },
    "archived": false
   },
@@ -9850,7 +9850,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -10807,7 +10807,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 7
+    "days_since": 8
    },
    "archived": false
   },
@@ -10880,7 +10880,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 32
+    "days_since": 33
    },
    "archived": false
   },
@@ -10946,7 +10946,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 32
+    "days_since": 33
    },
    "archived": false
   },
@@ -11295,7 +11295,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 31
+    "days_since": 32
    },
    "archived": false
   },
@@ -12401,7 +12401,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 31
+    "days_since": 32
    },
    "archived": false
   },
@@ -13249,14 +13249,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-22T16:51:27Z"
+    "pushed_at": "2026-09-27T19:55:19Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 5
+    "days_since": 0
    },
    "archived": false
   },
@@ -13551,7 +13551,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 29
+    "days_since": 30
    },
    "archived": false
   },
@@ -14501,7 +14501,7 @@
     "command": "dsh plugin --profile web add -w github:Yurzi/dsh-web-search-enhanced"
    },
    "stats": {
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
@@ -15662,7 +15662,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 16
+    "days_since": 17
    },
    "archived": false
   },
@@ -15804,7 +15804,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -17678,14 +17678,14 @@
     "forks": 1,
     "license": "MIT",
     "language": "Python",
-    "pushed_at": "2026-08-29T16:52:18Z"
+    "pushed_at": "2026-09-27T20:18:07Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 29
+    "days_since": 0
    },
    "archived": false
   },
@@ -19344,7 +19344,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 40
+    "days_since": 41
    },
    "archived": false
   },
@@ -19663,7 +19663,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 2
+    "days_since": 3
    },
    "archived": false
   },
@@ -20484,7 +20484,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -20519,7 +20519,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -20624,7 +20624,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -20657,7 +20657,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -20726,7 +20726,7 @@
     "forks": 0,
     "license": "",
     "language": "",
-    "pushed_at": "2026-09-27T17:20:23Z"
+    "pushed_at": "2026-09-27T21:46:17Z"
    },
    "activity": {
     "level": "active",
@@ -20769,7 +20769,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -21838,15 +21838,15 @@
     "stars": 1,
     "forks": 1,
     "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-17T07:22:25Z"
+    "language": "TypeScript",
+    "pushed_at": "2026-09-27T22:16:51Z"
    },
    "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 41
+    "level": "active",
+    "label_zh": "活跃",
+    "label_en": "Active",
+    "max_days": 30,
+    "days_since": 0
    },
    "archived": false
   },
@@ -23555,7 +23555,7 @@
    },
    "stats": {
     "stars": 68,
-    "forks": 2,
+    "forks": 3,
     "license": "MIT",
     "language": "TypeScript",
     "pushed_at": "2026-08-27T04:19:38Z"
@@ -24429,7 +24429,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 15
+    "days_since": 16
    },
    "archived": false
   },
@@ -25308,7 +25308,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 40
+    "days_since": 41
    },
    "archived": false
   },
@@ -25341,7 +25341,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 40
+    "days_since": 41
    },
    "archived": false
   },
@@ -25374,7 +25374,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 40
+    "days_since": 41
    },
    "archived": false
   },
@@ -25407,7 +25407,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 40
+    "days_since": 41
    },
    "archived": false
   },
@@ -25440,7 +25440,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 40
+    "days_since": 41
    },
    "archived": false
   },
@@ -25476,7 +25476,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 14
+    "days_since": 15
    },
    "archived": false
   },
@@ -27205,7 +27205,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 14
+    "days_since": 15
    },
    "archived": false
   },
@@ -28233,7 +28233,7 @@
     "command": "dsh plugin --profile web add -w github:jsdvjx/dsh-strata"
    },
    "stats": {
-    "stars": 103,
+    "stars": 102,
     "forks": 1,
     "license": "MIT",
     "language": "JavaScript",
@@ -28671,7 +28671,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -28706,7 +28706,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -28739,7 +28739,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -29336,14 +29336,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-19T17:20:58Z"
+    "pushed_at": "2026-09-27T20:05:51Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 8
+    "days_since": 0
    },
    "archived": false
   },
@@ -31343,7 +31343,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 38
+    "days_since": 39
    },
    "archived": false
   },
@@ -31761,7 +31761,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 2
    },
    "archived": false
   },
@@ -32099,7 +32099,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 2
+    "days_since": 3
    },
    "archived": false
   },
@@ -32884,7 +32884,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 24
+    "days_since": 25
    },
    "archived": false
   },
@@ -33793,7 +33793,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 44
+    "days_since": 45
    },
    "archived": false
   },
@@ -33895,7 +33895,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 44
+    "days_since": 45
    },
    "archived": false
   },
@@ -33928,7 +33928,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 44
+    "days_since": 45
    },
    "archived": false
   },
@@ -34001,7 +34001,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 44
+    "days_since": 45
    },
    "archived": false
   },
@@ -34146,7 +34146,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -34254,7 +34254,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 44
+    "days_since": 45
    },
    "archived": false
   },
@@ -34289,7 +34289,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 10
+    "days_since": 11
    },
    "archived": false
   },
@@ -34462,7 +34462,7 @@
     "forks": 64,
     "license": "MIT",
     "language": "Kotlin",
-    "pushed_at": "2026-09-27T07:33:34Z"
+    "pushed_at": "2026-09-27T22:45:32Z"
    },
    "activity": {
     "level": "active",
@@ -37763,7 +37763,7 @@
     "forks": 46,
     "license": "Apache-2.0",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T18:37:50Z"
+    "pushed_at": "2026-09-27T21:15:37Z"
    },
    "activity": {
     "level": "active",
@@ -39102,7 +39102,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 33
+    "days_since": 34
    },
    "archived": false
   },
@@ -39520,7 +39520,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 38
+    "days_since": 39
    },
    "archived": false
   },
@@ -40552,7 +40552,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 35
+    "days_since": 36
    },
    "archived": false
   },
@@ -41242,7 +41242,7 @@
     "command": "dsh plugin --profile web add -w github:DDDMUC/dsh-free-search"
    },
    "stats": {
-    "stars": 264,
+    "stars": 263,
     "forks": 22,
     "license": "MIT",
     "language": "JavaScript",
@@ -41819,7 +41819,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -41959,7 +41959,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -42065,7 +42065,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -42217,7 +42217,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 16
+    "days_since": 17
    },
    "archived": false
   },
@@ -42393,7 +42393,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -42929,7 +42929,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 36
+    "days_since": 37
    },
    "archived": false
   },
@@ -45186,7 +45186,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -47278,7 +47278,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 35
+    "days_since": 36
    },
    "archived": false
   },
@@ -47376,7 +47376,7 @@
     "command": "dsh plugin --profile web add -w github:Devin-AXIS/deepseek-design"
    },
    "stats": {
-    "stars": 1613,
+    "stars": 1619,
     "forks": 145,
     "license": "NOASSERTION",
     "language": "JavaScript",
@@ -47595,7 +47595,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 2
+    "days_since": 3
    },
    "archived": false
   },
@@ -47666,7 +47666,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -49290,7 +49290,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -49577,7 +49577,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -50192,7 +50192,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 9
+    "days_since": 10
    },
    "archived": false
   },
@@ -51538,7 +51538,7 @@
     "command": "dsh plugin --profile web add -w github:anywhere-labs/dsh-desktop"
    },
    "stats": {
-    "stars": 29191,
+    "stars": 29194,
     "forks": 1389,
     "license": "MIT",
     "language": "TypeScript",
@@ -51618,7 +51618,7 @@
     "command": "dsh plugin --profile web add -w github:nocobase/nocobase"
    },
    "stats": {
-    "stars": 24373,
+    "stars": 24374,
     "forks": 2894,
     "license": "NOASSERTION",
     "language": "TypeScript",
@@ -51736,7 +51736,7 @@
     "command": "dsh plugin --profile web add -w github:zilliztech/memsearch"
    },
    "stats": {
-    "stars": 2664,
+    "stars": 2665,
     "forks": 260,
     "license": "MIT",
     "language": "Python",
@@ -52509,7 +52509,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 23
+    "days_since": 24
    },
    "archived": false
   },
@@ -52572,7 +52572,7 @@
     "command": "dsh plugin --profile web add -w github:Minglink/dsh-infinite-gen-4"
    },
    "stats": {
-    "stars": 2088,
+    "stars": 2089,
     "forks": 171,
     "license": "MIT",
     "language": "JavaScript",
@@ -54065,7 +54065,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 11
+    "days_since": 12
    },
    "archived": false
   },
@@ -55052,7 +55052,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -56147,7 +56147,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 13
+    "days_since": 14
    },
    "archived": false
   },
@@ -56444,7 +56444,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 6
+    "days_since": 7
    },
    "archived": false
   },
@@ -56851,7 +56851,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 35
+    "days_since": 36
    },
    "archived": false
   },
@@ -57835,7 +57835,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 3
+    "days_since": 4
    },
    "archived": false
   },
@@ -58652,7 +58652,7 @@
     "forks": 3,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T17:39:06Z"
+    "pushed_at": "2026-09-27T20:47:22Z"
    },
    "activity": {
     "level": "active",
@@ -58957,7 +58957,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 6
+    "days_since": 7
    },
    "archived": false
   },
@@ -61571,7 +61571,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 35
+    "days_since": 36
    },
    "archived": false
   },
@@ -61682,7 +61682,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 33
+    "days_since": 34
    },
    "archived": false
   },
@@ -61719,7 +61719,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 35
+    "days_since": 36
    },
    "archived": false
   },
@@ -62615,7 +62615,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 7
+    "days_since": 8
    },
    "archived": false
   },
@@ -65619,7 +65619,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 33
+    "days_since": 34
    },
    "archived": false
   },
@@ -65658,7 +65658,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 33
+    "days_since": 34
    },
    "archived": false
   },
@@ -65733,7 +65733,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 7
+    "days_since": 8
    },
    "archived": false
   },
@@ -65766,7 +65766,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 7
+    "days_since": 8
    },
    "archived": false
   },
@@ -65803,7 +65803,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 32
+    "days_since": 33
    },
    "archived": false
   },
@@ -67352,7 +67352,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 32
+    "days_since": 33
    },
    "archived": false
   },
@@ -69212,7 +69212,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 31
+    "days_since": 32
    },
    "archived": false
   },
@@ -70631,7 +70631,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 24
+    "days_since": 25
    },
    "archived": false
   },
@@ -71135,11 +71135,11 @@
     "pushed_at": "2026-08-27T20:02:35Z"
    },
    "activity": {
-    "level": "active",
-    "label_zh": "活跃",
-    "label_en": "Active",
-    "max_days": 30,
-    "days_since": 30
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 31
    },
    "archived": false
   },
@@ -71211,7 +71211,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 2
    },
    "archived": false
   },
@@ -72194,7 +72194,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 29
+    "days_since": 30
    },
    "archived": false
   },
@@ -73087,7 +73087,7 @@
     "command": "dsh plugin --profile web add -w github:MemTensor/MemOS"
    },
    "stats": {
-    "stars": 11609,
+    "stars": 11610,
     "forks": 1060,
     "license": "Apache-2.0",
     "language": "TypeScript",
@@ -73242,14 +73242,14 @@
     "forks": 126,
     "license": "Apache-2.0",
     "language": "TypeScript",
-    "pushed_at": "2026-09-16T09:39:50Z"
+    "pushed_at": "2026-09-27T20:29:24Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 11
+    "days_since": 0
    },
    "archived": false
   },
@@ -73278,8 +73278,8 @@
     "command": "dsh plugin --profile web add -w github:walkinglabs/learn-harness-engineering"
    },
    "stats": {
-    "stars": 16427,
-    "forks": 1686,
+    "stars": 16449,
+    "forks": 1688,
     "license": "MIT",
     "language": "TypeScript",
     "pushed_at": "2026-08-26T01:08:59Z"
@@ -74518,7 +74518,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 40
+    "days_since": 41
    },
    "archived": false
   },
@@ -75083,7 +75083,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 4
+    "days_since": 5
    },
    "archived": false
   },
@@ -76855,7 +76855,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 34
+    "days_since": 35
    },
    "archived": false
   },
@@ -77973,7 +77973,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T19:38:09Z"
+    "pushed_at": "2026-09-27T19:45:24Z"
    },
    "activity": {
     "level": "active",
@@ -78006,14 +78006,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-17T01:32:30Z"
+    "pushed_at": "2026-09-27T22:04:44Z"
    },
    "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 41
+    "level": "active",
+    "label_zh": "活跃",
+    "label_en": "Active",
+    "max_days": 30,
+    "days_since": 0
    },
    "archived": false
   },
@@ -79928,7 +79928,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 13
+    "days_since": 14
    },
    "archived": false
   },
@@ -80257,7 +80257,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 32
+    "days_since": 33
    },
    "archived": false
   },
@@ -82277,7 +82277,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -82384,7 +82384,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -87673,7 +87673,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 4
+    "days_since": 5
    },
    "archived": false
   },
@@ -88265,7 +88265,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 40
+    "days_since": 41
    },
    "archived": false
   },
@@ -88791,7 +88791,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 19
+    "days_since": 20
    },
    "archived": false
   },
@@ -92367,7 +92367,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 2
    },
    "archived": false
   },
@@ -92504,14 +92504,14 @@
     "forks": 3,
     "license": "MIT",
     "language": "HTML",
-    "pushed_at": "2026-09-24T15:43:21Z"
+    "pushed_at": "2026-09-27T21:20:22Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 3
+    "days_since": 0
    },
    "archived": false
   },
@@ -93098,7 +93098,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -93242,7 +93242,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 32
+    "days_since": 33
    },
    "archived": false
   },
@@ -93645,7 +93645,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 23
+    "days_since": 24
    },
    "archived": false
   },
@@ -96746,7 +96746,7 @@
     "command": "dsh plugin --profile web add -w github:liustack/modsearch"
    },
    "stats": {
-    "stars": 557,
+    "stars": 558,
     "forks": 20,
     "license": "MIT",
     "language": "TypeScript",
@@ -96826,7 +96826,7 @@
     "command": "dsh plugin --profile web add -w github:whiteguo233/OpenBiliClaw"
    },
    "stats": {
-    "stars": 3360,
+    "stars": 3361,
     "forks": 180,
     "license": "MIT",
     "language": "Python",
@@ -97176,7 +97176,7 @@
     "forks": 270,
     "license": "Apache-2.0",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T19:10:04Z"
+    "pushed_at": "2026-09-27T22:17:51Z"
    },
    "activity": {
     "level": "active",
@@ -99548,7 +99548,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -99909,7 +99909,7 @@
     "forks": 37,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T17:53:35Z"
+    "pushed_at": "2026-09-27T19:49:13Z"
    },
    "activity": {
     "level": "active",
@@ -100999,7 +100999,7 @@
     "command": "dsh plugin --profile web add -w github:anysearch-team/anysearch-dsh"
    },
    "stats": {
-    "stars": 431,
+    "stars": 430,
     "forks": 11,
     "license": "MIT",
     "language": "TypeScript",
@@ -101979,7 +101979,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 29
+    "days_since": 30
    },
    "archived": false
   },
@@ -102016,7 +102016,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 29
+    "days_since": 30
    },
    "archived": false
   },
@@ -102721,7 +102721,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 13
+    "days_since": 14
    },
    "archived": false
   },
@@ -102945,7 +102945,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 3
+    "days_since": 4
    },
    "archived": false
   },
@@ -103131,7 +103131,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 44
+    "days_since": 45
    },
    "archived": false
   },
@@ -103660,7 +103660,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 16
+    "days_since": 17
    },
    "archived": false
   },
@@ -105279,7 +105279,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 21
+    "days_since": 22
    },
    "archived": false
   },
@@ -108742,7 +108742,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 2
+    "days_since": 3
    },
    "archived": false
   },
@@ -109138,7 +109138,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 9
+    "days_since": 10
    },
    "archived": false
   },
@@ -110004,7 +110004,7 @@
     "command": "dsh plugin --profile web add -w github:LeslieWylie/review-workflow"
    },
    "stats": {
-    "stars": 2,
+    "stars": 3,
     "forks": 1,
     "license": "MIT",
     "language": "JavaScript",
@@ -110603,7 +110603,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 16
+    "days_since": 17
    },
    "archived": false
   },
@@ -113096,7 +113096,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T17:18:58Z"
+    "pushed_at": "2026-09-27T21:45:58Z"
    },
    "activity": {
     "level": "active",
@@ -113588,7 +113588,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -113811,7 +113811,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -114146,7 +114146,7 @@
     "forks": 1,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T17:19:02Z"
+    "pushed_at": "2026-09-27T21:46:06Z"
    },
    "activity": {
     "level": "active",
@@ -114404,7 +114404,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -114479,7 +114479,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -114589,7 +114589,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -114624,7 +114624,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -114726,7 +114726,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -114973,7 +114973,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 7
+    "days_since": 8
    },
    "archived": false
   },
@@ -116178,8 +116178,8 @@
     "command": "dsh plugin --profile web add -w github:toolclub/dsh-agent-team-gui"
    },
    "stats": {
-    "stars": 280,
-    "forks": 4,
+    "stars": 281,
+    "forks": 5,
     "license": "MIT",
     "language": "TypeScript",
     "pushed_at": "2026-09-21T06:28:53Z"
@@ -117155,7 +117155,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 4
+    "days_since": 5
    },
    "archived": false
   },
@@ -120520,7 +120520,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -122124,7 +122124,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -122197,7 +122197,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 13
+    "days_since": 14
    },
    "archived": false
   },
@@ -122383,7 +122383,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -122518,7 +122518,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -122813,7 +122813,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 34
+    "days_since": 35
    },
    "archived": false
   },
@@ -122920,7 +122920,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -123184,7 +123184,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -123262,7 +123262,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -123299,7 +123299,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -123338,7 +123338,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -123376,7 +123376,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -123409,7 +123409,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -123479,7 +123479,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T17:18:50Z"
+    "pushed_at": "2026-09-27T21:45:47Z"
    },
    "activity": {
     "level": "active",
@@ -123519,7 +123519,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -124031,7 +124031,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 23
+    "days_since": 24
    },
    "archived": false
   },
@@ -125866,7 +125866,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 7
+    "days_since": 8
    },
    "archived": false
   },
@@ -126166,11 +126166,11 @@
     "command": "dsh plugin --profile web add -w github:vshulcz/deja-vu"
    },
    "stats": {
-    "stars": 1067,
+    "stars": 1068,
     "forks": 104,
     "license": "MIT",
     "language": "Go",
-    "pushed_at": "2026-09-27T18:43:38Z"
+    "pushed_at": "2026-09-27T21:33:55Z"
    },
    "activity": {
     "level": "active",
@@ -126210,7 +126210,7 @@
     "forks": 5,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T15:12:44Z"
+    "pushed_at": "2026-09-27T20:06:32Z"
    },
    "activity": {
     "level": "active",
@@ -126329,7 +126329,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T17:10:29Z"
+    "pushed_at": "2026-09-27T21:49:49Z"
    },
    "activity": {
     "level": "active",
@@ -127422,7 +127422,7 @@
     "command": "dsh plugin --profile web add -w github:See-Sol-Lab/DeepSeekGUI"
    },
    "stats": {
-    "stars": 236,
+    "stars": 237,
     "forks": 13,
     "license": "NOASSERTION",
     "language": "TypeScript",
@@ -127473,7 +127473,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 40
+    "days_since": 41
    },
    "archived": false
   },
@@ -130058,7 +130058,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 24
+    "days_since": 25
    },
    "archived": false
   },
@@ -130098,7 +130098,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 9
+    "days_since": 10
    },
    "archived": false
   },
@@ -130346,7 +130346,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -130523,7 +130523,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 35
+    "days_since": 36
    },
    "archived": false
   },
@@ -131029,7 +131029,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 25
+    "days_since": 26
    },
    "archived": false
   },
@@ -131247,7 +131247,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 16
+    "days_since": 17
    },
    "archived": false
   },
@@ -131555,7 +131555,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 21
+    "days_since": 22
    },
    "archived": false
   },
@@ -132249,7 +132249,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 6
+    "days_since": 7
    },
    "archived": false
   },
@@ -133053,7 +133053,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 2
+    "days_since": 3
    },
    "archived": false
   },
@@ -133391,7 +133391,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 35
+    "days_since": 36
    },
    "archived": false
   },
@@ -134757,7 +134757,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 2
    },
    "archived": false
   },
@@ -136470,7 +136470,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 28
+    "days_since": 29
    },
    "archived": false
   },
@@ -136764,7 +136764,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 31
+    "days_since": 32
    },
    "archived": false
   },
@@ -138252,7 +138252,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 31
+    "days_since": 32
    },
    "archived": false
   },
@@ -138285,14 +138285,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-17T13:57:57Z"
+    "pushed_at": "2026-09-27T22:59:25Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 10
+    "days_since": 0
    },
    "archived": false
   },
@@ -139053,7 +139053,7 @@
     "command": "dsh plugin --profile web add -w github:CodermanYHZ/dsh-node-flow"
    },
    "stats": {
-    "stars": 7,
+    "stars": 8,
     "forks": 1,
     "license": "MIT",
     "language": "TypeScript",
@@ -139209,11 +139209,11 @@
     "pushed_at": "2026-08-27T22:26:06Z"
    },
    "activity": {
-    "level": "active",
-    "label_zh": "活跃",
-    "label_en": "Active",
-    "max_days": 30,
-    "days_since": 30
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 31
    },
    "archived": false
   },
@@ -139730,7 +139730,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T19:38:15Z"
+    "pushed_at": "2026-09-27T19:49:16Z"
    },
    "activity": {
     "level": "active",
@@ -140245,7 +140245,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T19:23:53Z"
+    "pushed_at": "2026-09-27T22:26:54Z"
    },
    "activity": {
     "level": "active",
@@ -140355,10 +140355,10 @@
    },
    "stats": {
     "stars": 670,
-    "forks": 103,
+    "forks": 104,
     "license": "Apache-2.0",
     "language": "Python",
-    "pushed_at": "2026-09-27T19:32:00Z"
+    "pushed_at": "2026-09-27T22:51:48Z"
    },
    "activity": {
     "level": "active",
@@ -140445,7 +140445,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -140474,18 +140474,18 @@
     "command": "dsh plugin --profile web add -w github:syncable-dev/memtrace-public"
    },
    "stats": {
-    "stars": 482,
+    "stars": 484,
     "forks": 43,
     "license": "NOASSERTION",
     "language": "Python",
-    "pushed_at": "2026-09-25T12:19:41Z"
+    "pushed_at": "2026-09-27T22:09:11Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 2
+    "days_since": 0
    },
    "archived": false
   },
@@ -140755,7 +140755,7 @@
     "forks": 2,
     "license": "NOASSERTION",
     "language": "HTML",
-    "pushed_at": "2026-09-27T13:10:29Z"
+    "pushed_at": "2026-09-27T22:51:11Z"
    },
    "activity": {
     "level": "active",
@@ -140824,8 +140824,8 @@
     "command": "dsh plugin --profile web add -w github:Tencent/BrowserSkill"
    },
    "stats": {
-    "stars": 7492,
-    "forks": 534,
+    "stars": 7502,
+    "forks": 535,
     "license": "MIT",
     "language": "TypeScript",
     "pushed_at": "2026-09-27T15:08:35Z"
@@ -140915,7 +140915,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 13
+    "days_since": 14
    },
    "archived": false
   },
@@ -141300,7 +141300,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -143748,14 +143748,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-24T10:45:29Z"
+    "pushed_at": "2026-09-27T20:05:33Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 3
+    "days_since": 0
    },
    "archived": false
   },
@@ -144273,14 +144273,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-17T01:41:00Z"
+    "pushed_at": "2026-09-27T21:42:18Z"
    },
    "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 41
+    "level": "active",
+    "label_zh": "活跃",
+    "label_en": "Active",
+    "max_days": 30,
+    "days_since": 0
    },
    "archived": false
   },
@@ -144438,14 +144438,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "Python",
-    "pushed_at": "2026-08-16T23:54:26Z"
+    "pushed_at": "2026-09-27T20:40:18Z"
    },
    "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 41
+    "level": "active",
+    "label_zh": "活跃",
+    "label_en": "Active",
+    "max_days": 30,
+    "days_since": 0
    },
    "archived": false
   },
@@ -144926,7 +144926,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 34
+    "days_since": 35
    },
    "archived": false
   },
@@ -146767,7 +146767,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 33
+    "days_since": 34
    },
    "archived": false
   },
@@ -146802,7 +146802,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -146838,7 +146838,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -146873,7 +146873,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -146913,7 +146913,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -146946,7 +146946,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -146985,7 +146985,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -149535,7 +149535,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 16
+    "days_since": 17
    },
    "archived": false
   },
@@ -149925,7 +149925,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -150154,7 +150154,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 40
+    "days_since": 41
    },
    "archived": false
   },
@@ -150187,7 +150187,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 40
+    "days_since": 41
    },
    "archived": false
   },
@@ -151641,7 +151641,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -151679,7 +151679,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -151896,7 +151896,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -152040,7 +152040,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -152062,11 +152062,11 @@
     "command": "dsh plugin --profile web add -w github:EIGHTfs/dsh-git-push"
    },
    "stats": {
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "license": "",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T17:50:40Z"
+    "pushed_at": "2026-09-27T20:41:59Z"
    },
    "activity": {
     "level": "active",
@@ -152146,7 +152146,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -152184,7 +152184,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -152294,7 +152294,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -152969,7 +152969,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -153041,7 +153041,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -154752,14 +154752,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-20T21:33:35Z"
+    "pushed_at": "2026-09-27T21:33:56Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 6
+    "days_since": 0
    },
    "archived": false
   },
@@ -155004,7 +155004,7 @@
     "command": "dsh plugin --profile web add -w github:YaoApp/yao"
    },
    "stats": {
-    "stars": 8034,
+    "stars": 8035,
     "forks": 715,
     "license": "NOASSERTION",
     "language": "Go",
@@ -155124,11 +155124,11 @@
     "command": "dsh plugin --profile web add -w github:Q00/ouroboros"
    },
    "stats": {
-    "stars": 6115,
+    "stars": 6117,
     "forks": 613,
     "license": "MIT",
     "language": "Python",
-    "pushed_at": "2026-09-27T18:57:38Z"
+    "pushed_at": "2026-09-27T22:38:27Z"
    },
    "activity": {
     "level": "active",
@@ -155164,7 +155164,7 @@
     "command": "dsh plugin --profile web add -w github:superdesigndev/superdesign-skill"
    },
    "stats": {
-    "stars": 607,
+    "stars": 608,
     "forks": 48,
     "license": "MIT",
     "language": "JavaScript",
@@ -155323,7 +155323,7 @@
     "command": "dsh plugin --profile web add -w github:edison7009/EchoBird"
    },
    "stats": {
-    "stars": 3278,
+    "stars": 3279,
     "forks": 374,
     "license": "MIT",
     "language": "Rust",
@@ -155909,7 +155909,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "Python",
-    "pushed_at": "2026-09-27T14:41:54Z"
+    "pushed_at": "2026-09-27T21:56:35Z"
    },
    "activity": {
     "level": "active",
@@ -156263,7 +156263,7 @@
     "command": "dsh plugin --profile web add -w github:edonadei/caliper"
    },
    "stats": {
-    "stars": 185,
+    "stars": 186,
     "forks": 17,
     "license": "MIT",
     "language": "Python",
@@ -156299,7 +156299,7 @@
     "command": "dsh plugin --profile web add -w github:xyTom/coding-tools-mcp"
    },
    "stats": {
-    "stars": 1157,
+    "stars": 1158,
     "forks": 198,
     "license": "Apache-2.0",
     "language": "Python",
@@ -157157,7 +157157,7 @@
     "forks": 1,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T18:33:20Z"
+    "pushed_at": "2026-09-27T22:00:19Z"
    },
    "activity": {
     "level": "active",
@@ -157391,7 +157391,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -157831,7 +157831,7 @@
     "command": "dsh plugin --profile web add -w github:csyangwen/dsh-memory-evolve"
    },
    "stats": {
-    "stars": 337,
+    "stars": 336,
     "forks": 38,
     "license": "MIT",
     "language": "JavaScript",
@@ -159236,7 +159236,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -159722,7 +159722,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 44
+    "days_since": 45
    },
    "archived": false
   },
@@ -160094,7 +160094,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 29
+    "days_since": 30
    },
    "archived": false
   },
@@ -160389,7 +160389,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 29
+    "days_since": 30
    },
    "archived": false
   },
@@ -160617,7 +160617,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 40
+    "days_since": 41
    },
    "archived": false
   },
@@ -161239,7 +161239,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 44
+    "days_since": 45
    },
    "archived": false
   },
@@ -161424,7 +161424,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 44
+    "days_since": 45
    },
    "archived": false
   },
@@ -161688,7 +161688,7 @@
     "forks": 1,
     "license": "MIT",
     "language": "HTML",
-    "pushed_at": "2026-09-27T16:59:59Z"
+    "pushed_at": "2026-09-27T21:23:00Z"
    },
    "activity": {
     "level": "active",
@@ -162033,7 +162033,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -165783,7 +165783,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -166810,7 +166810,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 2
+    "days_since": 3
    },
    "archived": false
   },
@@ -167634,7 +167634,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 36
+    "days_since": 37
    },
    "archived": false
   },
@@ -167934,7 +167934,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 6
+    "days_since": 7
    },
    "archived": false
   },
@@ -168537,7 +168537,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T17:19:01Z"
+    "pushed_at": "2026-09-27T21:45:59Z"
    },
    "activity": {
     "level": "active",
@@ -168846,7 +168846,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -168884,7 +168884,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -168952,7 +168952,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T17:19:01Z"
+    "pushed_at": "2026-09-27T21:46:00Z"
    },
    "activity": {
     "level": "active",
@@ -169174,7 +169174,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -169242,7 +169242,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -169384,7 +169384,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -170168,7 +170168,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 22
+    "days_since": 23
    },
    "archived": false
   },
@@ -170662,7 +170662,7 @@
     "forks": 0,
     "license": "",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T16:39:45Z"
+    "pushed_at": "2026-09-27T21:05:27Z"
    },
    "activity": {
     "level": "active",
@@ -174217,7 +174217,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -175173,7 +175173,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -177831,14 +177831,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "HTML",
-    "pushed_at": "2026-08-22T12:47:16Z"
+    "pushed_at": "2026-09-27T22:40:53Z"
    },
    "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 36
+    "level": "active",
+    "label_zh": "活跃",
+    "label_en": "Active",
+    "max_days": 30,
+    "days_since": 0
    },
    "archived": false
   },
@@ -178407,7 +178407,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 33
+    "days_since": 34
    },
    "archived": false
   },
@@ -178924,7 +178924,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 32
+    "days_since": 33
    },
    "archived": false
   },
@@ -181798,7 +181798,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -182674,7 +182674,7 @@
     "command": "dsh plugin --profile web add -w github:superdesigndev/treg"
    },
    "stats": {
-    "stars": 3576,
+    "stars": 3584,
     "forks": 292,
     "license": "NOASSERTION",
     "language": "Python",
@@ -182892,11 +182892,11 @@
     "command": "dsh plugin --profile web add -w github:ccch1mneyyy/dsh-TUI"
    },
    "stats": {
-    "stars": 3619,
+    "stars": 3622,
     "forks": 223,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T19:37:43Z"
+    "pushed_at": "2026-09-27T22:54:07Z"
    },
    "activity": {
     "level": "active",
@@ -183187,7 +183187,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 44
+    "days_since": 45
    },
    "archived": false
   },
@@ -184800,7 +184800,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -184966,7 +184966,7 @@
     "command": "dsh plugin --profile web add -w github:xmanrui/dsh-im"
    },
    "stats": {
-    "stars": 1515,
+    "stars": 1516,
     "forks": 181,
     "license": "MIT",
     "language": "JavaScript",
@@ -186032,7 +186032,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 19
+    "days_since": 20
    },
    "archived": false
   },
@@ -186605,7 +186605,7 @@
     "command": "dsh plugin --profile web add -w github:Molunerfinn/PicGo"
    },
    "stats": {
-    "stars": 27263,
+    "stars": 27264,
     "forks": 2328,
     "license": "MIT",
     "language": "TypeScript",
@@ -187070,7 +187070,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -187220,7 +187220,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 27
+    "days_since": 28
    },
    "archived": false
   },
@@ -187510,7 +187510,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 29
+    "days_since": 30
    },
    "archived": false
   },
@@ -187627,7 +187627,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 2
+    "days_since": 3
    },
    "archived": false
   },
@@ -187698,7 +187698,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 38
+    "days_since": 39
    },
    "archived": false
   },
@@ -189629,7 +189629,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 34
+    "days_since": 35
    },
    "archived": false
   },
@@ -190491,7 +190491,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 25
+    "days_since": 26
    },
    "archived": false
   },
@@ -190529,7 +190529,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 14
+    "days_since": 15
    },
    "archived": false
   },
@@ -190642,7 +190642,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 13
+    "days_since": 14
    },
    "archived": false
   },
@@ -191042,7 +191042,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 34
+    "days_since": 35
    },
    "archived": false
   },
@@ -191741,7 +191741,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 25
+    "days_since": 26
    },
    "archived": false
   },
@@ -191959,7 +191959,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 32
+    "days_since": 33
    },
    "archived": false
   },
@@ -193579,7 +193579,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 29
+    "days_since": 30
    },
    "archived": false
   },
@@ -193612,7 +193612,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T17:21:08Z"
+    "pushed_at": "2026-09-27T21:47:10Z"
    },
    "activity": {
     "level": "active",
@@ -194752,7 +194752,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -195118,7 +195118,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -196971,7 +196971,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 2
+    "days_since": 3
    },
    "archived": false
   },
@@ -197626,7 +197626,7 @@
     "forks": 2,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T14:42:42Z"
+    "pushed_at": "2026-09-27T20:02:03Z"
    },
    "activity": {
     "level": "active",
@@ -198808,7 +198808,7 @@
     "command": "dsh plugin --profile web add -w github:shanliuling/dsh-image-gen"
    },
    "stats": {
-    "stars": 504,
+    "stars": 505,
     "forks": 33,
     "license": "Apache-2.0",
     "language": "TypeScript",
@@ -199840,7 +199840,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 40
+    "days_since": 41
    },
    "archived": false
   },
@@ -199906,7 +199906,7 @@
     "forks": 0,
     "license": "",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T17:19:13Z"
+    "pushed_at": "2026-09-27T21:46:19Z"
    },
    "activity": {
     "level": "active",
@@ -201672,8 +201672,8 @@
     "command": "dsh plugin --profile web add -w github:Devin-AXIS/iPolloWork"
    },
    "stats": {
-    "stars": 6791,
-    "forks": 1313,
+    "stars": 6798,
+    "forks": 1316,
     "license": "NOASSERTION",
     "language": "TypeScript",
     "pushed_at": "2026-09-27T15:41:41Z"
@@ -201712,11 +201712,11 @@
     "command": "dsh plugin --profile web add -w github:liustack/modlens"
    },
    "stats": {
-    "stars": 4051,
+    "stars": 4052,
     "forks": 123,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T18:20:41Z"
+    "pushed_at": "2026-09-27T20:45:40Z"
    },
    "activity": {
     "level": "active",
@@ -201832,7 +201832,7 @@
     "command": "dsh plugin --profile web add -w github:tt-a1i/archify"
    },
    "stats": {
-    "stars": 72703,
+    "stars": 72749,
     "forks": 4910,
     "license": "MIT",
     "language": "JavaScript",
@@ -201923,7 +201923,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -202733,7 +202733,7 @@
     "command": "dsh plugin --profile web add -w github:huiliyi37/dsh-tianshu-tui"
    },
    "stats": {
-    "stars": 285,
+    "stars": 284,
     "forks": 11,
     "license": "Apache-2.0",
     "language": "TypeScript",
@@ -204007,7 +204007,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 44
+    "days_since": 45
    },
    "archived": false
   },
@@ -204194,7 +204194,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 44
+    "days_since": 45
    },
    "archived": false
   },
@@ -205659,7 +205659,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -209146,7 +209146,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -209252,7 +209252,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 27
+    "days_since": 28
    },
    "archived": false
   },
@@ -210368,7 +210368,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 16
+    "days_since": 17
    },
    "archived": false
   },
@@ -212528,7 +212528,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T17:18:50Z"
+    "pushed_at": "2026-09-27T21:45:49Z"
    },
    "activity": {
     "level": "active",
@@ -215578,7 +215578,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -215611,7 +215611,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -215644,7 +215644,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -215677,7 +215677,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -216959,7 +216959,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 2
    },
    "archived": false
   },
@@ -217309,7 +217309,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T17:20:22Z"
+    "pushed_at": "2026-09-27T21:46:28Z"
    },
    "activity": {
     "level": "active",
@@ -217455,7 +217455,7 @@
     "forks": 0,
     "license": "",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T17:05:10Z"
+    "pushed_at": "2026-09-27T21:27:13Z"
    },
    "activity": {
     "level": "active",
@@ -217947,7 +217947,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -219489,7 +219489,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 32
+    "days_since": 33
    },
    "archived": false
   },
@@ -220976,7 +220976,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 29
+    "days_since": 30
    },
    "archived": false
   },
@@ -222309,7 +222309,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 2
+    "days_since": 3
    },
    "archived": false
   },
@@ -223324,7 +223324,7 @@
     "forks": 15,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T00:34:05Z"
+    "pushed_at": "2026-09-27T22:06:27Z"
    },
    "activity": {
     "level": "active",
@@ -223425,7 +223425,7 @@
     "command": "dsh plugin --profile web add -w github:flizzywine/dsh-tavern"
    },
    "stats": {
-    "stars": 527,
+    "stars": 528,
     "forks": 40,
     "license": "AGPL-3.0",
     "language": "JavaScript",
@@ -223582,7 +223582,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 18
+    "days_since": 19
    },
    "archived": false
   },
@@ -224101,7 +224101,7 @@
     "command": "dsh plugin --profile web add -w github:elysia395/dsh-wallpaper-engine"
    },
    "stats": {
-    "stars": 373,
+    "stars": 374,
     "forks": 32,
     "license": "MIT",
     "language": "JavaScript",
@@ -224476,7 +224476,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -224616,7 +224616,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -224686,7 +224686,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -225882,7 +225882,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T17:12:09Z"
+    "pushed_at": "2026-09-27T21:35:56Z"
    },
    "activity": {
     "level": "active",
@@ -227420,7 +227420,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 14
+    "days_since": 15
    },
    "archived": false
   },
@@ -227926,7 +227926,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 25
+    "days_since": 26
    },
    "archived": false
   },
@@ -229053,7 +229053,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 38
+    "days_since": 39
    },
    "archived": false
   },
@@ -229274,7 +229274,7 @@
     "forks": 208,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T19:33:08Z"
+    "pushed_at": "2026-09-27T20:31:42Z"
    },
    "activity": {
     "level": "active",
@@ -229430,11 +229430,11 @@
     "pushed_at": "2026-08-27T19:59:07Z"
    },
    "activity": {
-    "level": "active",
-    "label_zh": "活跃",
-    "label_en": "Active",
-    "max_days": 30,
-    "days_since": 30
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 31
    },
    "archived": false
   },
@@ -229489,7 +229489,7 @@
     "command": "dsh plugin --profile web add -w github:hellodigua/dsh-emoji"
    },
    "stats": {
-    "stars": 45,
+    "stars": 44,
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
@@ -230233,7 +230233,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 44
+    "days_since": 45
    },
    "archived": false
   },
@@ -232531,7 +232531,7 @@
     "command": "dsh plugin --profile web add -w github:SenmuuuuW/dsh-whale-report"
    },
    "stats": {
-    "stars": 31,
+    "stars": 30,
     "forks": 3,
     "license": "MIT",
     "language": "TypeScript",
@@ -233941,7 +233941,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 40
+    "days_since": 41
    },
    "archived": false
   },
@@ -234087,7 +234087,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -234308,7 +234308,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -237604,7 +237604,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -238536,7 +238536,7 @@
     "command": "dsh plugin --profile web add -w github:Small-tailqwq/dsh-deep-whale"
    },
    "stats": {
-    "stars": 2230,
+    "stars": 2231,
     "forks": 65,
     "license": "NOASSERTION",
     "language": "TypeScript",
@@ -239185,7 +239185,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 16
+    "days_since": 17
    },
    "archived": false
   },
@@ -239637,14 +239637,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-18T11:37:11Z"
+    "pushed_at": "2026-09-27T20:29:50Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 9
+    "days_since": 0
    },
    "archived": false
   },
@@ -239670,14 +239670,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-08-20T06:46:12Z"
+    "pushed_at": "2026-09-27T22:27:44Z"
    },
    "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 38
+    "level": "active",
+    "label_zh": "活跃",
+    "label_en": "Active",
+    "max_days": 30,
+    "days_since": 0
    },
    "archived": false
   },
@@ -239703,14 +239703,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-08-20T06:58:10Z"
+    "pushed_at": "2026-09-27T20:54:18Z"
    },
    "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 38
+    "level": "active",
+    "label_zh": "活跃",
+    "label_en": "Active",
+    "max_days": 30,
+    "days_since": 0
    },
    "archived": false
   },
@@ -239736,14 +239736,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-26T01:14:23Z"
+    "pushed_at": "2026-09-27T21:53:17Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 0
    },
    "archived": false
   },
@@ -239769,14 +239769,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-08-20T07:11:12Z"
+    "pushed_at": "2026-09-27T22:11:45Z"
    },
    "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 38
+    "level": "active",
+    "label_zh": "活跃",
+    "label_en": "Active",
+    "max_days": 30,
+    "days_since": 0
    },
    "archived": false
   },
@@ -240025,7 +240025,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -241445,7 +241445,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T18:20:28Z"
+    "pushed_at": "2026-09-27T21:58:10Z"
    },
    "activity": {
     "level": "active",
@@ -241644,7 +241644,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 10
+    "days_since": 11
    },
    "archived": false
   },
@@ -242893,7 +242893,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 31
+    "days_since": 32
    },
    "archived": false
   },
@@ -244444,8 +244444,8 @@
     "command": "dsh plugin --profile web add -w github:jingyunstudio/jingyun-dsh"
    },
    "stats": {
-    "stars": 697,
-    "forks": 30,
+    "stars": 703,
+    "forks": 31,
     "license": "",
     "language": "TypeScript",
     "pushed_at": "2026-09-23T08:03:31Z"
@@ -246011,7 +246011,7 @@
     "command": "dsh plugin --profile web add -w github:wlj521/dsh-ui-tweaks"
    },
    "stats": {
-    "stars": 18,
+    "stars": 17,
     "forks": 1,
     "license": "MIT",
     "language": "TypeScript",
@@ -246734,7 +246734,7 @@
     "forks": 3,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T19:39:39Z"
+    "pushed_at": "2026-09-27T19:43:40Z"
    },
    "activity": {
     "level": "active",
@@ -247207,14 +247207,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-08-23T05:03:13Z"
+    "pushed_at": "2026-09-27T21:23:34Z"
    },
    "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 35
+    "level": "active",
+    "label_zh": "活跃",
+    "label_en": "Active",
+    "max_days": 30,
+    "days_since": 0
    },
    "archived": false
   },
@@ -248015,7 +248015,7 @@
     "forks": 1,
     "license": "",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T19:27:35Z"
+    "pushed_at": "2026-09-27T22:28:07Z"
    },
    "activity": {
     "level": "active",
@@ -248612,7 +248612,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -248715,7 +248715,7 @@
     "forks": 0,
     "license": "",
     "language": "Python",
-    "pushed_at": "2026-09-26T22:10:06Z"
+    "pushed_at": "2026-09-27T22:32:25Z"
    },
    "activity": {
     "level": "active",
@@ -248797,7 +248797,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 5
+    "days_since": 6
    },
    "archived": false
   },
@@ -249764,7 +249764,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 16
+    "days_since": 17
    },
    "archived": false
   },
@@ -250386,11 +250386,11 @@
     "command": "dsh plugin --profile web add -w github:riesbri/dshline"
    },
    "stats": {
-    "stars": 18,
+    "stars": 19,
     "forks": 1,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T08:54:40Z"
+    "pushed_at": "2026-09-27T21:52:25Z"
    },
    "activity": {
     "level": "active",
@@ -251113,7 +251113,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 12
+    "days_since": 13
    },
    "archived": false
   },
@@ -252231,7 +252231,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 25
+    "days_since": 26
    },
    "archived": false
   },
@@ -253661,7 +253661,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -254066,8 +254066,8 @@
     "command": "dsh plugin --profile web add -w github:freestylefly/awesome-gpt-image-2"
    },
    "stats": {
-    "stars": 33600,
-    "forks": 3230,
+    "stars": 33603,
+    "forks": 3231,
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-09-24T08:01:10Z"
@@ -254186,7 +254186,7 @@
     "command": "dsh plugin --profile web add -w github:sandbaseai/sandbase-harness"
    },
    "stats": {
-    "stars": 674,
+    "stars": 675,
     "forks": 74,
     "license": "Apache-2.0",
     "language": "TypeScript",
@@ -254339,14 +254339,14 @@
     "forks": 0,
     "license": "",
     "language": "Go",
-    "pushed_at": "2026-09-13T10:29:20Z"
+    "pushed_at": "2026-09-27T21:13:44Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 14
+    "days_since": 0
    },
    "archived": false
   },
@@ -254372,7 +254372,7 @@
     "forks": 154,
     "license": "MIT",
     "language": "Python",
-    "pushed_at": "2026-09-27T17:45:56Z"
+    "pushed_at": "2026-09-27T22:40:30Z"
    },
    "activity": {
     "level": "active",
@@ -254479,7 +254479,7 @@
     "command": "dsh plugin --profile web add -w github:vlln/dsh-loop"
    },
    "stats": {
-    "stars": 8,
+    "stars": 7,
     "forks": 2,
     "license": "MIT",
     "language": "JavaScript",
@@ -254734,7 +254734,7 @@
     "command": "dsh plugin --profile web add -w github:zhu1090093659/dsh-web"
    },
    "stats": {
-    "stars": 8068,
+    "stars": 8070,
     "forks": 555,
     "license": "Apache-2.0",
     "language": "TypeScript",
@@ -255107,7 +255107,7 @@
     "forks": 13,
     "license": "MIT",
     "language": "HTML",
-    "pushed_at": "2026-09-27T18:27:56Z"
+    "pushed_at": "2026-09-27T22:15:21Z"
    },
    "activity": {
     "level": "active",
@@ -255260,7 +255260,7 @@
    },
    "stats": {
     "stars": 17051,
-    "forks": 3334,
+    "forks": 3335,
     "license": "CC0-1.0",
     "language": "JavaScript",
     "pushed_at": "2026-09-27T16:21:44Z"
@@ -255788,7 +255788,7 @@
     "forks": 5,
     "license": "NOASSERTION",
     "language": "TypeScript",
-    "pushed_at": "2026-09-26T23:05:08Z"
+    "pushed_at": "2026-09-27T22:06:15Z"
    },
    "activity": {
     "level": "active",
@@ -255869,7 +255869,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 29
+    "days_since": 30
    },
    "archived": false
   },
@@ -255980,7 +255980,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 29
+    "days_since": 30
    },
    "archived": false
   },
@@ -256041,7 +256041,7 @@
     "forks": 0,
     "license": "",
     "language": "",
-    "pushed_at": "2026-09-26T21:54:40Z"
+    "pushed_at": "2026-09-27T22:01:52Z"
    },
    "activity": {
     "level": "active",
@@ -256310,7 +256310,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 29
+    "days_since": 30
    },
    "archived": false
   },
@@ -256350,7 +256350,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 5
+    "days_since": 6
    },
    "archived": false
   },
@@ -256380,7 +256380,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T17:23:46Z"
+    "pushed_at": "2026-09-27T19:49:53Z"
    },
    "activity": {
     "level": "active",
@@ -256567,7 +256567,7 @@
     "forks": 5,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T18:39:56Z"
+    "pushed_at": "2026-09-27T22:21:18Z"
    },
    "activity": {
     "level": "active",
@@ -256678,7 +256678,7 @@
     "forks": 22,
     "license": "MIT",
     "language": "Python",
-    "pushed_at": "2026-09-27T14:01:29Z"
+    "pushed_at": "2026-09-27T19:48:03Z"
    },
    "activity": {
     "level": "active",
@@ -256837,7 +256837,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 29
+    "days_since": 30
    },
    "archived": false
   },
@@ -257555,7 +257555,7 @@
     "command": "dsh plugin --profile web add -w github:dsh-market/dsh-market"
    },
    "stats": {
-    "stars": 4699,
+    "stars": 4698,
     "forks": 228,
     "license": "MIT",
     "language": "TypeScript",
@@ -258891,7 +258891,7 @@
     "forks": 8,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T16:02:06Z"
+    "pushed_at": "2026-09-27T20:31:18Z"
    },
    "activity": {
     "level": "active",
@@ -260240,7 +260240,7 @@
     "command": "dsh plugin --profile web add -w github:ADWMC/helm-d"
    },
    "stats": {
-    "stars": 83,
+    "stars": 84,
     "forks": 7,
     "license": "MIT",
     "language": "Python",
@@ -260996,7 +260996,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -261174,7 +261174,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -262221,7 +262221,7 @@
     "forks": 1,
     "license": "",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T17:02:06Z"
+    "pushed_at": "2026-09-27T21:25:53Z"
    },
    "activity": {
     "level": "active",
@@ -262330,7 +262330,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -262448,7 +262448,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -262759,7 +262759,7 @@
     "command": "dsh plugin --profile web add -w github:xiaoxianyu-office/dsh-router-flash"
    },
    "stats": {
-    "stars": 13,
+    "stars": 12,
     "forks": 1,
     "license": "MIT",
     "language": "JavaScript",
@@ -262836,7 +262836,7 @@
     "forks": 0,
     "license": "",
     "language": "",
-    "pushed_at": "2026-09-27T17:19:09Z"
+    "pushed_at": "2026-09-27T21:46:05Z"
    },
    "activity": {
     "level": "active",
@@ -262872,7 +262872,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T18:33:51Z"
+    "pushed_at": "2026-09-27T22:25:00Z"
    },
    "activity": {
     "level": "active",
@@ -263087,7 +263087,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T17:49:22Z"
+    "pushed_at": "2026-09-27T22:19:23Z"
    },
    "activity": {
     "level": "active",
@@ -263603,7 +263603,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T17:32:08Z"
+    "pushed_at": "2026-09-27T22:32:33Z"
    },
    "activity": {
     "level": "active",
@@ -263821,7 +263821,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -264305,7 +264305,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -265349,8 +265349,8 @@
     "command": "dsh plugin --profile web add -w github:Tencent/WeKnora"
    },
    "stats": {
-    "stars": 30566,
-    "forks": 4093,
+    "stars": 30591,
+    "forks": 4094,
     "license": "NOASSERTION",
     "language": "Go",
     "pushed_at": "2026-09-27T16:16:17Z"
@@ -265700,11 +265700,11 @@
     "pushed_at": "2026-08-27T20:58:54Z"
    },
    "activity": {
-    "level": "active",
-    "label_zh": "活跃",
-    "label_en": "Active",
-    "max_days": 30,
-    "days_since": 30
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 31
    },
    "archived": false
   },
@@ -266255,7 +266255,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -268138,7 +268138,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 32
+    "days_since": 33
    },
    "archived": false
   },
@@ -268324,7 +268324,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 31
+    "days_since": 32
    },
    "archived": false
   },
@@ -268504,7 +268504,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 24
+    "days_since": 25
    },
    "archived": false
   },
@@ -269034,7 +269034,7 @@
     "command": "dsh plugin --profile web add -w github:diqierjia/StrataGate-AgentMemory"
    },
    "stats": {
-    "stars": 98,
+    "stars": 97,
     "forks": 7,
     "license": "MIT",
     "language": "TypeScript",
@@ -271227,7 +271227,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -271736,7 +271736,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 38
+    "days_since": 39
    },
    "archived": false
   },
@@ -271849,7 +271849,7 @@
     "forks": 4,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T18:33:40Z"
+    "pushed_at": "2026-09-27T22:46:16Z"
    },
    "activity": {
     "level": "active",
@@ -272080,7 +272080,7 @@
     "command": "dsh plugin --profile web add -w github:EthanYoQ/AI-Novel-Writer"
    },
    "stats": {
-    "stars": 1145,
+    "stars": 1146,
     "forks": 140,
     "license": "GPL-3.0",
     "language": "TypeScript",
@@ -272547,7 +272547,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 21
+    "days_since": 22
    },
    "archived": false
   },
@@ -272587,7 +272587,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -272954,7 +272954,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 44
+    "days_since": 45
    },
    "archived": false
   },
@@ -272994,7 +272994,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 40
+    "days_since": 41
    },
    "archived": false
   },
@@ -273394,7 +273394,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 36
+    "days_since": 37
    },
    "archived": false
   },
@@ -273425,7 +273425,7 @@
     "forks": 7,
     "license": "BSD-3-Clause",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T19:07:25Z"
+    "pushed_at": "2026-09-27T20:40:46Z"
    },
    "activity": {
     "level": "active",
@@ -273531,7 +273531,7 @@
     "forks": 7,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-26T21:12:36Z"
+    "pushed_at": "2026-09-27T22:54:01Z"
    },
    "activity": {
     "level": "active",
@@ -274974,7 +274974,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -275563,11 +275563,11 @@
     "command": "dsh plugin --profile web add -w github:ruvnet/ruflo"
    },
    "stats": {
-    "stars": 73389,
-    "forks": 8712,
+    "stars": 73396,
+    "forks": 8714,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T19:24:22Z"
+    "pushed_at": "2026-09-27T20:02:47Z"
    },
    "activity": {
     "level": "active",
@@ -275654,7 +275654,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 2
    },
    "archived": false
   },
@@ -276112,7 +276112,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 28
+    "days_since": 29
    },
    "archived": false
   },
@@ -278855,7 +278855,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 32
+    "days_since": 33
    },
    "archived": false
   },
@@ -278894,7 +278894,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 21
+    "days_since": 22
    },
    "archived": false
   },
@@ -281871,7 +281871,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 4
+    "days_since": 5
    },
    "archived": false
   },
@@ -283454,7 +283454,7 @@
     "command": "dsh plugin --profile web add -w github:dsh-tauri/deepseek-harness-desktop"
    },
    "stats": {
-    "stars": 2750,
+    "stars": 2755,
     "forks": 181,
     "license": "MIT",
     "language": "TypeScript",
@@ -283826,7 +283826,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 26
+    "days_since": 27
    },
    "archived": false
   },
@@ -284036,7 +284036,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -286431,7 +286431,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -286574,7 +286574,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -288225,7 +288225,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 34
+    "days_since": 35
    },
    "archived": false
   },
@@ -288440,7 +288440,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 16
+    "days_since": 17
    },
    "archived": false
   },
@@ -288508,7 +288508,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 34
+    "days_since": 35
    },
    "archived": false
   },
@@ -289073,7 +289073,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -289938,7 +289938,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 25
+    "days_since": 26
    },
    "archived": false
   },
@@ -290077,7 +290077,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T17:05:08Z"
+    "pushed_at": "2026-09-27T21:28:00Z"
    },
    "activity": {
     "level": "active",
@@ -291308,7 +291308,7 @@
     "forks": 82,
     "license": "AGPL-3.0",
     "language": "Go",
-    "pushed_at": "2026-09-27T19:29:07Z"
+    "pushed_at": "2026-09-27T21:25:21Z"
    },
    "activity": {
     "level": "active",
@@ -291653,7 +291653,7 @@
     "forks": 11,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T09:55:38Z"
+    "pushed_at": "2026-09-27T20:45:25Z"
    },
    "activity": {
     "level": "active",
@@ -292022,7 +292022,7 @@
     "forks": 1,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T17:02:37Z"
+    "pushed_at": "2026-09-27T21:25:24Z"
    },
    "activity": {
     "level": "active",
@@ -292314,7 +292314,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 44
+    "days_since": 45
    },
    "archived": false
   },
@@ -294241,7 +294241,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 18
+    "days_since": 19
    },
    "archived": false
   },
@@ -295630,7 +295630,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -295663,7 +295663,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -295881,7 +295881,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -297020,7 +297020,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 24
+    "days_since": 25
    },
    "archived": false
   },
@@ -297843,7 +297843,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -297876,7 +297876,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -298017,7 +298017,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -298312,7 +298312,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -298496,7 +298496,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -298777,7 +298777,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -300295,7 +300295,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -300890,7 +300890,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 24
+    "days_since": 25
    },
    "archived": false
   },
@@ -301868,7 +301868,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 32
+    "days_since": 33
    },
    "archived": false
   },
@@ -302622,7 +302622,7 @@
     "command": "dsh plugin --profile web add -w github:Alisa0808/vox-director"
    },
    "stats": {
-    "stars": 2060,
+    "stars": 2061,
     "forks": 314,
     "license": "MIT",
     "language": "Python",
@@ -302812,7 +302812,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -303815,7 +303815,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -303851,7 +303851,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -303954,7 +303954,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 35
+    "days_since": 36
    },
    "archived": false
   },
@@ -304175,7 +304175,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 34
+    "days_since": 35
    },
    "archived": false
   },
@@ -304619,7 +304619,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 40
+    "days_since": 41
    },
    "archived": false
   },
@@ -304976,7 +304976,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -305357,14 +305357,14 @@
     "forks": 3,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-25T11:47:40Z"
+    "pushed_at": "2026-09-27T22:02:48Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 2
+    "days_since": 0
    },
    "archived": false
   },
@@ -305731,7 +305731,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 44
+    "days_since": 45
    },
    "archived": false
   },
@@ -308364,7 +308364,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -308995,7 +308995,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T17:42:30Z"
+    "pushed_at": "2026-09-27T22:03:08Z"
    },
    "activity": {
     "level": "active",
@@ -309064,7 +309064,7 @@
     "forks": 0,
     "license": "AGPL-3.0",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T16:30:46Z"
+    "pushed_at": "2026-09-27T21:02:00Z"
    },
    "activity": {
     "level": "active",
@@ -309720,7 +309720,7 @@
     "command": "dsh plugin --profile web add -w github:liangmianya/dsh-synapse"
    },
    "stats": {
-    "stars": 433,
+    "stars": 434,
     "forks": 45,
     "license": "MIT",
     "language": "JavaScript",
@@ -311464,7 +311464,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -311633,7 +311633,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 16
+    "days_since": 17
    },
    "archived": false
   },
@@ -311699,7 +311699,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -313315,7 +313315,7 @@
    },
    "stats": {
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "license": "",
     "language": "JavaScript",
     "pushed_at": "2026-09-05T05:42:08Z"
@@ -313711,7 +313711,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 14
+    "days_since": 15
    },
    "archived": false
   },
@@ -320091,7 +320091,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -331849,7 +331849,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -331981,7 +331981,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332047,7 +332047,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332080,7 +332080,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332113,7 +332113,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332146,7 +332146,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332179,7 +332179,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332212,7 +332212,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332245,7 +332245,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332278,7 +332278,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332311,7 +332311,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332344,7 +332344,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332377,7 +332377,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332410,7 +332410,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332443,7 +332443,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332476,7 +332476,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332509,7 +332509,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332542,7 +332542,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332575,7 +332575,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332608,7 +332608,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332641,7 +332641,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332674,7 +332674,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332742,7 +332742,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332775,7 +332775,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332808,7 +332808,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332841,7 +332841,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332874,7 +332874,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332907,7 +332907,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332940,7 +332940,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -332973,7 +332973,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333006,7 +333006,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333039,7 +333039,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333072,7 +333072,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333105,7 +333105,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333138,7 +333138,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333171,7 +333171,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333204,7 +333204,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333237,7 +333237,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333270,7 +333270,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333303,7 +333303,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333336,7 +333336,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333369,7 +333369,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333402,7 +333402,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333435,7 +333435,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333468,7 +333468,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333501,7 +333501,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333534,7 +333534,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333567,7 +333567,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333600,7 +333600,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333633,7 +333633,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333666,7 +333666,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333699,7 +333699,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333732,7 +333732,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333765,7 +333765,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333798,7 +333798,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333870,7 +333870,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333903,7 +333903,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -333969,7 +333969,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -334002,7 +334002,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -334035,7 +334035,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -334068,7 +334068,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -334101,7 +334101,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -334134,7 +334134,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -334167,7 +334167,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -334200,7 +334200,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -334233,7 +334233,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -334266,7 +334266,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -334299,7 +334299,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -334332,7 +334332,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -334365,7 +334365,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 37
+    "days_since": 38
    },
    "archived": false
   },
@@ -336423,7 +336423,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 2
+    "days_since": 3
    },
    "archived": false
   },
@@ -340317,7 +340317,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 2
+    "days_since": 3
    },
    "archived": false
   },
@@ -342869,7 +342869,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 2
    },
    "archived": false
   },
@@ -342974,7 +342974,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 27
+    "days_since": 28
    },
    "archived": false
   },
@@ -343007,7 +343007,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 16
+    "days_since": 17
    },
    "archived": false
   },
@@ -343537,7 +343537,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 7
+    "days_since": 8
    },
    "archived": false
   },
@@ -344914,7 +344914,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 31
+    "days_since": 32
    },
    "archived": false
   },
@@ -344990,7 +344990,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 2
+    "days_since": 3
    },
    "archived": false
   },
@@ -345126,7 +345126,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 35
+    "days_since": 36
    },
    "archived": false
   },
@@ -346943,7 +346943,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 16
+    "days_since": 17
    },
    "archived": false
   },
@@ -347553,7 +347553,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 31
+    "days_since": 32
    },
    "archived": false
   },
@@ -347579,7 +347579,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T17:48:10Z"
+    "pushed_at": "2026-09-27T20:43:54Z"
    },
    "activity": {
     "level": "active",
@@ -348098,7 +348098,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 20
+    "days_since": 21
    },
    "archived": false
   },
@@ -349916,7 +349916,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 7
+    "days_since": 8
    },
    "archived": false
   },
@@ -352176,7 +352176,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 31
+    "days_since": 32
    },
    "archived": false
   },
@@ -352750,7 +352750,7 @@
     "forks": 0,
     "license": "",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T17:17:48Z"
+    "pushed_at": "2026-09-27T21:37:29Z"
    },
    "activity": {
     "level": "active",
@@ -353457,7 +353457,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -353972,7 +353972,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 31
+    "days_since": 32
    },
    "archived": false
   },
@@ -355072,7 +355072,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 2
    },
    "archived": false
   },
@@ -355373,11 +355373,11 @@
     "pushed_at": "2026-08-27T21:04:30Z"
    },
    "activity": {
-    "level": "active",
-    "label_zh": "活跃",
-    "label_en": "Active",
-    "max_days": 30,
-    "days_since": 30
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 31
    },
    "archived": false
   },
@@ -355439,11 +355439,11 @@
     "pushed_at": "2026-08-27T20:20:21Z"
    },
    "activity": {
-    "level": "active",
-    "label_zh": "活跃",
-    "label_en": "Active",
-    "max_days": 30,
-    "days_since": 30
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 31
    },
    "archived": false
   },
@@ -355472,11 +355472,11 @@
     "pushed_at": "2026-08-27T20:35:35Z"
    },
    "activity": {
-    "level": "active",
-    "label_zh": "活跃",
-    "label_en": "Active",
-    "max_days": 30,
-    "days_since": 30
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 31
    },
    "archived": false
   },
@@ -355505,11 +355505,11 @@
     "pushed_at": "2026-08-27T20:52:06Z"
    },
    "activity": {
-    "level": "active",
-    "label_zh": "活跃",
-    "label_en": "Active",
-    "max_days": 30,
-    "days_since": 30
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 31
    },
    "archived": false
   },
@@ -355538,11 +355538,11 @@
     "pushed_at": "2026-08-27T21:57:53Z"
    },
    "activity": {
-    "level": "active",
-    "label_zh": "活跃",
-    "label_en": "Active",
-    "max_days": 30,
-    "days_since": 30
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 31
    },
    "archived": false
   },
@@ -361015,7 +361015,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 2
+    "days_since": 3
    },
    "archived": false
   },
@@ -361768,7 +361768,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 27
+    "days_since": 28
    },
    "archived": false
   },
@@ -361870,7 +361870,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 24
+    "days_since": 25
    },
    "archived": false
   },
@@ -361903,7 +361903,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 24
+    "days_since": 25
    },
    "archived": false
   },
@@ -364074,7 +364074,7 @@
     "forks": 9,
     "license": "MIT",
     "language": "Rust",
-    "pushed_at": "2026-09-27T08:42:45Z"
+    "pushed_at": "2026-09-27T22:02:07Z"
    },
    "activity": {
     "level": "active",
@@ -364247,11 +364247,11 @@
     "pushed_at": "2026-08-27T19:57:58Z"
    },
    "activity": {
-    "level": "active",
-    "label_zh": "活跃",
-    "label_en": "Active",
-    "max_days": 30,
-    "days_since": 30
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 31
    },
    "archived": false
   },
@@ -364387,7 +364387,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 4
+    "days_since": 5
    },
    "archived": false
   },
@@ -364798,7 +364798,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 16
+    "days_since": 17
    },
    "archived": false
   },
@@ -364831,7 +364831,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 16
+    "days_since": 17
    },
    "archived": false
   },
@@ -367612,14 +367612,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-08-16T23:59:34Z"
+    "pushed_at": "2026-09-27T22:37:51Z"
    },
    "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 41
+    "level": "active",
+    "label_zh": "活跃",
+    "label_en": "Active",
+    "max_days": 30,
+    "days_since": 0
    },
    "archived": false
   },
@@ -375019,7 +375019,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -375052,7 +375052,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 40
+    "days_since": 41
    },
    "archived": false
   },
@@ -375085,7 +375085,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -375192,7 +375192,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 5
+    "days_since": 6
    },
    "archived": false
   },
@@ -375260,7 +375260,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -380652,7 +380652,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -383058,7 +383058,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 6
+    "days_since": 7
    },
    "archived": false
   },
@@ -383227,7 +383227,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 40
+    "days_since": 41
    },
    "archived": false
   },
@@ -383367,7 +383367,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 2
    },
    "archived": false
   },
@@ -383679,7 +383679,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -385863,7 +385863,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -386466,7 +386466,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 38
+    "days_since": 39
    },
    "archived": false
   },
@@ -386741,7 +386741,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 32
+    "days_since": 33
    },
    "archived": false
   },
@@ -387987,14 +387987,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-10T16:42:18Z"
+    "pushed_at": "2026-09-27T22:00:55Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 17
+    "days_since": 0
    },
    "archived": false
   },
@@ -390785,7 +390785,7 @@
     "command": "dsh plugin --profile web add -w github:PerryLink/dsh-data-quality"
    },
    "stats": {
-    "stars": 41,
+    "stars": 42,
     "forks": 0,
     "license": "Apache-2.0",
     "language": "TypeScript",
@@ -390923,7 +390923,7 @@
     "command": "dsh plugin --profile web add -w github:PerryLink/dsh-research-report"
    },
    "stats": {
-    "stars": 177,
+    "stars": 178,
     "forks": 1,
     "license": "Apache-2.0",
     "language": "TypeScript",
@@ -396678,7 +396678,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 34
+    "days_since": 35
    },
    "archived": false
   },
@@ -396853,7 +396853,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 38
+    "days_since": 39
    },
    "archived": false
   },
@@ -396956,7 +396956,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 2
+    "days_since": 3
    },
    "archived": false
   },
@@ -397029,7 +397029,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -397066,7 +397066,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 28
+    "days_since": 29
    },
    "archived": false
   },
@@ -401274,7 +401274,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 17
+    "days_since": 18
    },
    "archived": false
   },
@@ -401332,7 +401332,7 @@
     "command": "dsh plugin --profile web add -w github:dpskh/dsh-a2a"
    },
    "stats": {
-    "stars": 12,
+    "stars": 11,
     "forks": 2,
     "license": "MIT",
     "language": "TypeScript",
@@ -402376,7 +402376,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 46
+    "days_since": 47
    },
    "archived": false
   },
@@ -402695,7 +402695,7 @@
     "command": "dsh plugin --profile web add -w github:yjh051108/dsh-super-injector"
    },
    "stats": {
-    "stars": 163,
+    "stars": 164,
     "forks": 19,
     "license": "",
     "language": "TypeScript",
@@ -403161,7 +403161,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 2
    },
    "archived": false
   },
@@ -404152,7 +404152,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 44
+    "days_since": 45
    },
    "archived": false
   },
@@ -404263,7 +404263,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 44
+    "days_since": 45
    },
    "archived": false
   },
@@ -405356,7 +405356,7 @@
     "command": "dsh plugin --profile web add -w github:Tyan66666/billion-context-dsh"
    },
    "stats": {
-    "stars": 112,
+    "stars": 113,
     "forks": 20,
     "license": "MIT",
     "language": "TypeScript",
@@ -405846,7 +405846,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 16
+    "days_since": 17
    },
    "archived": false
   },
@@ -406337,7 +406337,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -406518,7 +406518,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 44
+    "days_since": 45
    },
    "archived": false
   },
@@ -406554,7 +406554,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 44
+    "days_since": 45
    },
    "archived": false
   },
@@ -406656,7 +406656,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 44
+    "days_since": 45
    },
    "archived": false
   },
@@ -406726,7 +406726,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 44
+    "days_since": 45
    },
    "archived": false
   },
@@ -406765,7 +406765,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 44
+    "days_since": 45
    },
    "archived": false
   },
@@ -406828,7 +406828,7 @@
     "forks": 1,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T18:32:23Z"
+    "pushed_at": "2026-09-27T22:23:49Z"
    },
    "activity": {
     "level": "active",
@@ -407002,7 +407002,7 @@
     "forks": 37,
     "license": "Apache-2.0",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T19:09:45Z"
+    "pushed_at": "2026-09-27T22:53:47Z"
    },
    "activity": {
     "level": "active",
@@ -408149,7 +408149,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 31
+    "days_since": 32
    },
    "archived": false
   },
@@ -408870,7 +408870,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T19:32:09Z"
+    "pushed_at": "2026-09-27T22:44:57Z"
    },
    "activity": {
     "level": "active",
@@ -409805,7 +409805,7 @@
     "forks": 0,
     "license": "",
     "language": "Python",
-    "pushed_at": "2026-09-27T16:13:58Z"
+    "pushed_at": "2026-09-27T20:08:02Z"
    },
    "activity": {
     "level": "active",
@@ -409838,7 +409838,7 @@
     "forks": 1,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-09-27T19:37:41Z"
+    "pushed_at": "2026-09-27T20:44:37Z"
    },
    "activity": {
     "level": "active",
@@ -412620,7 +412620,7 @@
    },
    "stats": {
     "stars": 80,
-    "forks": 19,
+    "forks": 18,
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-20T06:16:50Z"
@@ -416881,7 +416881,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -419712,7 +419712,7 @@
     "command": "dsh plugin --profile web add -w github:a179-sanae/dsh-auto-collapse"
    },
    "stats": {
-    "stars": 65,
+    "stars": 64,
     "forks": 10,
     "license": "MIT",
     "language": "JavaScript",
@@ -419792,7 +419792,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 21
+    "days_since": 22
    },
    "archived": false
   },
@@ -419825,7 +419825,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -420035,7 +420035,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T16:56:53Z"
+    "pushed_at": "2026-09-27T21:19:29Z"
    },
    "activity": {
     "level": "active",
@@ -420279,7 +420279,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 6
+    "days_since": 7
    },
    "archived": false
   },
@@ -420651,7 +420651,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -420717,7 +420717,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -420750,7 +420750,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 43
+    "days_since": 44
    },
    "archived": false
   },
@@ -421516,7 +421516,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 32
+    "days_since": 33
    },
    "archived": false
   },
@@ -422500,7 +422500,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -423818,7 +423818,7 @@
    },
    "stats": {
     "stars": 56,
-    "forks": 23,
+    "forks": 24,
     "license": "Apache-2.0",
     "language": "TypeScript",
     "pushed_at": "2026-09-26T14:40:18Z"
@@ -426667,7 +426667,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -427453,7 +427453,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -430354,7 +430354,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 35
+    "days_since": 36
    },
    "archived": false
   },
@@ -430532,7 +430532,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -430706,7 +430706,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -430893,7 +430893,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 4
+    "days_since": 5
    },
    "archived": false
   },
@@ -430933,7 +430933,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 4
+    "days_since": 5
    },
    "archived": false
   },
@@ -431489,7 +431489,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 35
+    "days_since": 36
    },
    "archived": false
   },
@@ -432264,7 +432264,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 5
+    "days_since": 6
    },
    "archived": false
   },
@@ -432754,7 +432754,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 6
+    "days_since": 7
    },
    "archived": false
   },
@@ -433791,7 +433791,7 @@
     "forks": 674,
     "license": "GPL-3.0",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T19:13:00Z"
+    "pushed_at": "2026-09-27T20:47:32Z"
    },
    "activity": {
     "level": "active",
@@ -433820,7 +433820,7 @@
     "command": "dsh plugin --profile web add -w github:titanwings/distilly"
    },
    "stats": {
-    "stars": 25069,
+    "stars": 25071,
     "forks": 2172,
     "license": "MIT",
     "language": "Python",
@@ -433853,7 +433853,7 @@
     "command": "dsh plugin --profile web add -w github:volcengine/OpenViking"
    },
    "stats": {
-    "stars": 38788,
+    "stars": 38799,
     "forks": 3027,
     "license": "AGPL-3.0",
     "language": "Python",
@@ -433886,11 +433886,11 @@
     "command": "dsh plugin --profile web add -w github:reactive-resume/reactive-resume"
    },
    "stats": {
-    "stars": 43480,
+    "stars": 43483,
     "forks": 4792,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-09-27T15:10:44Z"
+    "pushed_at": "2026-09-27T22:23:29Z"
    },
    "activity": {
     "level": "active",
@@ -433919,8 +433919,8 @@
     "command": "dsh plugin --profile web add -w github:nexu-io/open-design"
    },
    "stats": {
-    "stars": 98308,
-    "forks": 11401,
+    "stars": 98324,
+    "forks": 11402,
     "license": "Apache-2.0",
     "language": "TypeScript",
     "pushed_at": "2026-09-27T18:18:52Z"
@@ -433952,8 +433952,8 @@
     "command": "dsh plugin --profile web add -w github:deepseek-ai/deepseek-harness"
    },
    "stats": {
-    "stars": 237607,
-    "forks": 28548,
+    "stars": 237648,
+    "forks": 28557,
     "license": "MIT",
     "language": "TypeScript",
     "pushed_at": "2026-09-27T15:55:19Z"
