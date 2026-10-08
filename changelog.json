@@ -2,363 +2,363 @@
  "events": [
   {
    "kind": "vanished",
+   "full_name": "AmmarByFar/dsh-trustedrouter",
+   "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
+   "detected_at": 1791436503
+  },
+  {
+   "kind": "vanished",
+   "full_name": "K9m1a5c/dsh-qqreminder",
+   "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
+   "detected_at": 1791436503
+  },
+  {
+   "kind": "vanished",
    "full_name": "andershfranzen/dsh-brand-a5",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "KouzakiUmi/dsh-tool-discovery",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "kkaporn/dsh-workflow-plugins",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "luoyukun3-oss/dsh-todo-panel",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "luzonghao/dsh-input-light",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
+  },
+  {
+   "kind": "vanished",
+   "full_name": "yefeng7531/dsh-image-gen",
+   "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "luzonghao/dsh-sidebar-light",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
+  },
+  {
+   "kind": "vanished",
+   "full_name": "cyanovo/dsh-remote-qqbot",
+   "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "Depar7ure/dsh-desktop-web-refresh",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "Lorn404/dsh-rift",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "luoyukun3-oss/gh-my-posts",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "ADkun/dsh-convergence-notice",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "karahanart/dsh-client-locale-tr",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "bilibiliUID1480494301/relay-hub",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "Jaylor-Wang/dsh-tool-headroom",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "wuwaka/dsh-rehearsal",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "XG221B/dsh-peak-price",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "hemppp/dsh-panel-dock-plugin",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "nijika-boyfriend/dsh-notify-macos",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "T-MKT/dsh-webui-notification-sound",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "AEmbers/dsh-adjudication",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "DSH-EAC/dsh-eac-pack-installer",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "Gty2408/dsh-publish-e2e-probe",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "ADkun/dsh-auto-stop",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "yestone111/RTL_Cockpit",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "songgms/dsh-git-graph",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "Noob-stupid/dsh-connection-card-host-preview",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "DSH-EAC/END-EAC-on-Deespeek-desktop",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "trentswd/dsh-escalation-review",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "ISimon3/dsh-theme-skin",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "rasyidmmz/dsh-paper-search",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "d0ublecl1ck/dsh-external-link",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "yueyexiayu/dsh-subagents",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "OMSociety/dsh-mineru",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "fzy-yy/dsh-mcp-inventory",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "LiSheng5/dsh-taskforce",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "Ln1m/dsh-extensions-panel",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "Chrissadecurved88/Codex-X",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "qcsjjjjj/dsh-planner",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "qcsjjjjj/dsh-github-accel",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "CNyaotian-Lunar/dsh-toolbox",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "qikairo7/dsh-usage-panel",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "KurohaneKaoruko/DSH-Novel-App",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "ADkun/dsh-windows-notifier",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "relaxyabc/dsh-git-panel",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "ADkun/adg-multi-agent",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "jipika/dsh-ui-fixes",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "bakasbk/dsh-connect-comate",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "jipika/dsh-plugin-console",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "jipika/dsh-hide-buttons",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "jipika/dsh-cron",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "jipika/dsh-claude-theme",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "ClearLeaf13/dsh-local-llm-connect",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "rasyidmmz/dsh-ai-memory",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "jackovibe/dsh-codex-pin",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "qcsjjjjj/dsh-hero-rightbar-hold",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "lsl1931/dsh-resource-bar",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   },
   {
    "kind": "vanished",
    "full_name": "qcsjjjjj/dsh-hero-rightbar",
    "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
-  },
-  {
-   "kind": "vanished",
-   "full_name": "GJayun/dsh-goal-zcode-like",
-   "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
-  },
-  {
-   "kind": "vanished",
-   "full_name": "lanyunshijian/dsh-file-download",
-   "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
-  },
-  {
-   "kind": "vanished",
-   "full_name": "KKKKeybird/dsh-turn-rail-persistent",
-   "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
-  },
-  {
-   "kind": "vanished",
-   "full_name": "DSH-EAC/dsh-desktop-eac-default-skins",
-   "detail": "本次快照未命中（可能删除、转私有或取消 topic）",
-   "detected_at": 1791407743
+   "detected_at": 1791436503
   }
  ]
 }
