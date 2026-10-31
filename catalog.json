@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-31T20:00:45Z",
+ "generated_at": "2026-10-31T23:23:40Z",
  "source": "dsh-plug-hub",
  "topic": "dsh-plugin",
- "total": 11858,
+ "total": 11839,
  "categories": [
   {
    "id": 1,
@@ -907,7 +907,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -1111,7 +1111,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-30T23:28:25Z"
+    "pushed_at": "2026-10-31T23:04:05Z"
    },
    "activity": {
     "level": "active",
@@ -1395,7 +1395,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 32
+    "days_since": 33
    },
    "archived": false
   },
@@ -3241,7 +3241,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -4218,39 +4218,6 @@
     "label_en": "Active",
     "max_days": 30,
     "days_since": 9
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-tanqi",
-   "full_name": "lastplayer82/dsh-tanqi",
-   "url": "https://github.com/lastplayer82/dsh-tanqi",
-   "category": {
-    "slug": "web-ui",
-    "name_zh": "Web UI 增强",
-    "name_en": "Web UI Enhancement"
-   },
-   "summary_zh": "探奇 (Tanqi) plugin for the dsh web GUI: AI-generated curiosity & trivia with layered deep-dives. DeepSeek Harness plugin · @lastplayer82/dsh-tanqi",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:lastplayer82/dsh-tanqi",
-    "command": "dsh plugin --profile web add -w github:lastplayer82/dsh-tanqi"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "Apache-2.0",
-    "language": "TypeScript",
-    "pushed_at": "2026-08-21T11:23:56Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 71
    },
    "archived": false
   },
@@ -6218,7 +6185,7 @@
     "forks": 1,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T19:12:23Z"
+    "pushed_at": "2026-10-31T20:56:41Z"
    },
    "activity": {
     "level": "active",
@@ -7095,7 +7062,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -7587,7 +7554,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 9
+    "days_since": 10
    },
    "archived": false
   },
@@ -7758,7 +7725,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 5
+    "days_since": 6
    },
    "archived": false
   },
@@ -7944,7 +7911,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 49
+    "days_since": 50
    },
    "archived": false
   },
@@ -8561,7 +8528,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 53
+    "days_since": 54
    },
    "archived": false
   },
@@ -9138,7 +9105,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 9
+    "days_since": 10
    },
    "archived": false
   },
@@ -9642,7 +9609,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 34
+    "days_since": 35
    },
    "archived": false
   },
@@ -10492,7 +10459,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -10565,7 +10532,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 66
+    "days_since": 67
    },
    "archived": false
   },
@@ -10631,7 +10598,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 66
+    "days_since": 67
    },
    "archived": false
   },
@@ -10739,7 +10706,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 66
+    "days_since": 67
    },
    "archived": false
   },
@@ -10980,7 +10947,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 65
+    "days_since": 66
    },
    "archived": false
   },
@@ -11982,7 +11949,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 65
+    "days_since": 66
    },
    "archived": false
   },
@@ -13094,7 +13061,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 63
+    "days_since": 64
    },
    "archived": false
   },
@@ -15129,7 +15096,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 50
+    "days_since": 51
    },
    "archived": false
   },
@@ -15271,7 +15238,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -15415,39 +15382,6 @@
     "label_en": "Watch",
     "max_days": 90,
     "days_since": 76
-   },
-   "archived": false
-  },
-  {
-   "name": "omdsh-basemode",
-   "full_name": "omdsh-plugins/omdsh-basemode",
-   "url": "https://github.com/omdsh-plugins/omdsh-basemode",
-   "category": {
-    "slug": "web-ui",
-    "name_zh": "Web UI 增强",
-    "name_en": "Web UI Enhancement"
-   },
-   "summary_zh": "",
-   "summary_en": "The session-mode system for the DeepSeek Harness web GUI: the segment registry every mode plugin registers into, the switch that renders them, and the sidebar dots that colour their conversations",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:omdsh-plugins/omdsh-basemode",
-    "command": "dsh plugin --profile web add -w github:omdsh-plugins/omdsh-basemode"
-   },
-   "stats": {
-    "stars": 1,
-    "forks": 0,
-    "license": "MIT",
-    "language": "TypeScript",
-    "pushed_at": "2026-09-03T15:40:47Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 58
    },
    "archived": false
   },
@@ -18738,7 +18672,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 74
+    "days_since": 75
    },
    "archived": false
   },
@@ -19878,7 +19812,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -19913,7 +19847,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -20018,7 +19952,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -20051,7 +19985,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -20163,7 +20097,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -21168,7 +21102,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 33
+    "days_since": 34
    },
    "archived": false
   },
@@ -24595,7 +24529,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 74
+    "days_since": 75
    },
    "archived": false
   },
@@ -24628,7 +24562,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 74
+    "days_since": 75
    },
    "archived": false
   },
@@ -26179,7 +26113,7 @@
     "forks": 5,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T14:13:21Z"
+    "pushed_at": "2026-10-31T20:18:44Z"
    },
    "activity": {
     "level": "active",
@@ -27863,7 +27797,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 73
+    "days_since": 74
    },
    "archived": false
   },
@@ -27896,7 +27830,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 73
+    "days_since": 74
    },
    "archived": false
   },
@@ -28464,7 +28398,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 33
+    "days_since": 34
    },
    "archived": false
   },
@@ -30464,7 +30398,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 72
+    "days_since": 73
    },
    "archived": false
   },
@@ -30664,7 +30598,7 @@
    },
    "stats": {
     "stars": 3,
-    "forks": 2,
+    "forks": 3,
     "license": "MIT",
     "language": "TypeScript",
     "pushed_at": "2026-08-25T07:34:31Z"
@@ -30871,7 +30805,7 @@
     "command": "dsh plugin --profile web add -w github:Nagi-ovo/dsh-ads"
    },
    "stats": {
-    "stars": 707,
+    "stars": 708,
     "forks": 7,
     "license": "BSD-3-Clause",
     "language": "TypeScript",
@@ -31972,7 +31906,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 58
+    "days_since": 59
    },
    "archived": false
   },
@@ -32780,7 +32714,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 78
+    "days_since": 79
    },
    "archived": false
   },
@@ -32988,7 +32922,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 78
+    "days_since": 79
    },
    "archived": false
   },
@@ -33097,7 +33031,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -33241,7 +33175,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 78
+    "days_since": 79
    },
    "archived": false
   },
@@ -33276,7 +33210,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 3
+    "days_since": 4
    },
    "archived": false
   },
@@ -33312,7 +33246,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 78
+    "days_since": 79
    },
    "archived": false
   },
@@ -37949,7 +37883,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 67
+    "days_since": 68
    },
    "archived": false
   },
@@ -38332,7 +38266,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 72
+    "days_since": 73
    },
    "archived": false
   },
@@ -39209,7 +39143,7 @@
     "command": "dsh plugin --profile web add -w github:geohotstan/dsh-computer-use"
    },
    "stats": {
-    "stars": 6,
+    "stars": 7,
     "forks": 1,
     "license": "MIT",
     "language": "TypeScript",
@@ -39459,7 +39393,7 @@
     "command": "dsh plugin --profile web add -w github:liguobao/ds-harness-remote"
    },
    "stats": {
-    "stars": 1127,
+    "stars": 1132,
     "forks": 100,
     "license": "",
     "language": "TypeScript",
@@ -40565,7 +40499,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 77
+    "days_since": 78
    },
    "archived": false
   },
@@ -40634,7 +40568,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -40671,7 +40605,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 18
+    "days_since": 19
    },
    "archived": false
   },
@@ -40854,7 +40788,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 4
+    "days_since": 5
    },
    "archived": false
   },
@@ -40990,14 +40924,14 @@
     "forks": 0,
     "license": "NOASSERTION",
     "language": "JavaScript",
-    "pushed_at": "2026-10-24T21:43:31Z"
+    "pushed_at": "2026-10-31T21:43:22Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 6
+    "days_since": 0
    },
    "archived": false
   },
@@ -41533,7 +41467,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 70
+    "days_since": 71
    },
    "archived": false
   },
@@ -42737,42 +42671,6 @@
    "archived": false
   },
   {
-   "name": "dsh-plugin-api-quota",
-   "full_name": "ganfne123/dsh-plugin-api-quota",
-   "url": "https://github.com/ganfne123/dsh-plugin-api-quota",
-   "category": {
-    "slug": "web-ui",
-    "name_zh": "Web UI 增强",
-    "name_en": "Web UI Enhancement"
-   },
-   "summary_zh": "",
-   "summary_en": "DSH Web UI plugin: check your DeepSeek API key balance from the sidebar",
-   "tags": [
-    "deepseek",
-    "dsh-external"
-   ],
-   "install": {
-    "npm": null,
-    "github": "github:ganfne123/dsh-plugin-api-quota",
-    "command": "dsh plugin --profile web add -w github:ganfne123/dsh-plugin-api-quota"
-   },
-   "stats": {
-    "stars": 1,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-15T07:25:18Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 77
-   },
-   "archived": false
-  },
-  {
    "name": "dsh-restart-systemd",
    "full_name": "RoyougiShiki/dsh-restart-systemd",
    "url": "https://github.com/RoyougiShiki/dsh-restart-systemd",
@@ -43751,7 +43649,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 73
+    "days_since": 74
    },
    "archived": false
   },
@@ -45631,7 +45529,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 32
+    "days_since": 33
    },
    "archived": false
   },
@@ -45808,7 +45706,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 69
+    "days_since": 70
    },
    "archived": false
   },
@@ -45906,7 +45804,7 @@
     "command": "dsh plugin --profile web add -w github:Devin-AXIS/deepseek-design"
    },
    "stats": {
-    "stars": 1655,
+    "stars": 1657,
     "forks": 119,
     "license": "NOASSERTION",
     "language": "JavaScript",
@@ -47482,7 +47380,7 @@
     "command": "dsh plugin --profile web add -w github:dream-num/dsh-univer-office"
    },
    "stats": {
-    "stars": 648,
+    "stars": 649,
     "forks": 51,
     "license": "Apache-2.0",
     "language": "TypeScript",
@@ -47563,41 +47461,6 @@
     "label_en": "Watch",
     "max_days": 90,
     "days_since": 76
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-pets",
-   "full_name": "eivmosn/dsh-pets",
-   "url": "https://github.com/eivmosn/dsh-pets",
-   "category": {
-    "slug": "web-ui",
-    "name_zh": "Web UI 增强",
-    "name_en": "Web UI Enhancement"
-   },
-   "summary_zh": "",
-   "summary_en": "Codex Pets integration for the DeepSeek Harness Web GUI",
-   "tags": [
-    "codex-pets"
-   ],
-   "install": {
-    "npm": null,
-    "github": "github:eivmosn/dsh-pets",
-    "command": "dsh plugin --profile web add -w github:eivmosn/dsh-pets"
-   },
-   "stats": {
-    "stars": 1,
-    "forks": 0,
-    "license": "MIT",
-    "language": "TypeScript",
-    "pushed_at": "2026-08-15T17:04:30Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 77
    },
    "archived": false
   },
@@ -47820,7 +47683,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -48623,7 +48486,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 2
+    "days_since": 3
    },
    "archived": false
   },
@@ -49863,7 +49726,7 @@
     "command": "dsh plugin --profile web add -w github:534119219/chicheng-stats"
    },
    "stats": {
-    "stars": 7,
+    "stars": 6,
     "forks": 2,
     "license": "",
     "language": "JavaScript",
@@ -49900,7 +49763,7 @@
     "command": "dsh plugin --profile web add -w dsh-better-sidebar"
    },
    "stats": {
-    "stars": 4782,
+    "stars": 4783,
     "forks": 446,
     "license": "MIT",
     "language": "TypeScript",
@@ -49936,7 +49799,7 @@
     "command": "dsh plugin --profile web add -w github:anywhere-labs/dsh-desktop"
    },
    "stats": {
-    "stars": 34277,
+    "stars": 34281,
     "forks": 1553,
     "license": "MIT",
     "language": "TypeScript",
@@ -49980,7 +49843,7 @@
     "forks": 154,
     "license": "Apache-2.0",
     "language": "Kotlin",
-    "pushed_at": "2026-10-31T15:51:54Z"
+    "pushed_at": "2026-10-31T23:03:17Z"
    },
    "activity": {
     "level": "active",
@@ -50055,7 +49918,7 @@
     "command": "dsh plugin --profile web add -w github:agentscope-ai/ReMe"
    },
    "stats": {
-    "stars": 3729,
+    "stars": 3730,
     "forks": 335,
     "license": "Apache-2.0",
     "language": "Python",
@@ -50094,7 +49957,7 @@
     "command": "dsh plugin --profile web add -w github:ericshang98/Perfect-Web-Clone"
    },
    "stats": {
-    "stars": 277,
+    "stars": 278,
     "forks": 27,
     "license": "MIT",
     "language": "Python",
@@ -50907,7 +50770,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 57
+    "days_since": 58
    },
    "archived": false
   },
@@ -52830,7 +52693,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 70
+    "days_since": 71
    },
    "archived": false
   },
@@ -54470,7 +54333,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 47
+    "days_since": 48
    },
    "archived": false
   },
@@ -54760,14 +54623,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-26T17:23:21Z"
+    "pushed_at": "2026-10-31T22:02:48Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 5
+    "days_since": 0
    },
    "archived": false
   },
@@ -56125,7 +55988,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -59826,7 +59689,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 69
+    "days_since": 70
    },
    "archived": false
   },
@@ -59937,7 +59800,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 67
+    "days_since": 68
    },
    "archived": false
   },
@@ -59974,7 +59837,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 69
+    "days_since": 70
    },
    "archived": false
   },
@@ -60694,7 +60557,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 15
+    "days_since": 16
    },
    "archived": false
   },
@@ -60837,7 +60700,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -63841,7 +63704,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 67
+    "days_since": 68
    },
    "archived": false
   },
@@ -63880,7 +63743,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 67
+    "days_since": 68
    },
    "archived": false
   },
@@ -63955,7 +63818,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -63988,7 +63851,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -64025,7 +63888,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 66
+    "days_since": 67
    },
    "archived": false
   },
@@ -65539,7 +65402,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 66
+    "days_since": 67
    },
    "archived": false
   },
@@ -67222,7 +67085,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 25
+    "days_since": 26
    },
    "archived": false
   },
@@ -67399,7 +67262,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 65
+    "days_since": 66
    },
    "archived": false
   },
@@ -68818,7 +68681,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 58
+    "days_since": 59
    },
    "archived": false
   },
@@ -69326,7 +69189,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 64
+    "days_since": 65
    },
    "archived": false
   },
@@ -70380,7 +70243,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 63
+    "days_since": 64
    },
    "archived": false
   },
@@ -71237,7 +71100,7 @@
     "command": "dsh plugin --profile web add -w github:MemTensor/MemOS"
    },
    "stats": {
-    "stars": 12207,
+    "stars": 12209,
     "forks": 1100,
     "license": "Apache-2.0",
     "language": "TypeScript",
@@ -71277,7 +71140,7 @@
     "command": "dsh plugin --profile web add -w github:EverMind-AI/EverOS"
    },
    "stats": {
-    "stars": 13735,
+    "stars": 13738,
     "forks": 958,
     "license": "Apache-2.0",
     "language": "Python",
@@ -71428,7 +71291,7 @@
     "command": "dsh plugin --profile web add -w github:walkinglabs/learn-harness-engineering"
    },
    "stats": {
-    "stars": 22663,
+    "stars": 22668,
     "forks": 2568,
     "license": "MIT",
     "language": "TypeScript",
@@ -72668,7 +72531,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 74
+    "days_since": 75
    },
    "archived": false
   },
@@ -72703,7 +72566,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 2
    },
    "archived": false
   },
@@ -73193,7 +73056,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 7
+    "days_since": 8
    },
    "archived": false
   },
@@ -73231,7 +73094,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 20
+    "days_since": 21
    },
    "archived": false
   },
@@ -73913,7 +73776,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 31
+    "days_since": 32
    },
    "archived": false
   },
@@ -74965,7 +74828,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 68
+    "days_since": 69
    },
    "archived": false
   },
@@ -75623,7 +75486,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 2
+    "days_since": 3
    },
    "archived": false
   },
@@ -75692,7 +75555,7 @@
     "command": "dsh plugin --profile web add -w github:Aisland-SJL/dsh-usage"
    },
    "stats": {
-    "stars": 140,
+    "stars": 141,
     "forks": 20,
     "license": "MIT",
     "language": "JavaScript",
@@ -76057,40 +75920,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 31
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-subagent-rules",
-   "full_name": "sgsjsgzy-commits/dsh-subagent-rules",
-   "url": "https://github.com/sgsjsgzy-commits/dsh-subagent-rules",
-   "category": {
-    "slug": "agent",
-    "name_zh": "Agent 能力",
-    "name_en": "Agent Capabilities"
-   },
-   "summary_zh": "dsh-subagent-rules 子代理模型与思考强度规定：subagent_flash 锁定 flash 模型路由，思考强度默认 max 且可按会话自定义，分发规则自动注入所有对话。零依赖 DSH 宿主平面插件。",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:sgsjsgzy-commits/dsh-subagent-rules",
-    "command": "dsh plugin --profile web add -w github:sgsjsgzy-commits/dsh-subagent-rules"
-   },
-   "stats": {
-    "stars": 1,
-    "forks": 1,
-    "license": "",
-    "language": "JavaScript",
-    "pushed_at": "2026-09-02T07:05:22Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 59
+    "days_since": 32
    },
    "archived": false
   },
@@ -77250,7 +77080,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 7
+    "days_since": 8
    },
    "archived": false
   },
@@ -77822,7 +77652,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 47
+    "days_since": 48
    },
    "archived": false
   },
@@ -77892,45 +77722,6 @@
     "label_en": "Watch",
     "max_days": 90,
     "days_since": 33
-   },
-   "archived": false
-  },
-  {
-   "name": "skill-bartender",
-   "full_name": "MJorgin/skill-bartender",
-   "url": "https://github.com/MJorgin/skill-bartender",
-   "category": {
-    "slug": "agent",
-    "name_zh": "Agent 能力",
-    "name_en": "Agent Capabilities"
-   },
-   "summary_zh": "Task-to-skill pairing for DeepSeek Harness — pours the minimal set (usually one; zero when plain tools suffice), prefers workflow skills over hand-composed atomics. Laziness ladder, quarantine → SkillSpector scan → explicit human approval, never auto-installs. 任务配技能 · 懒惰阶梯 · 安全酒窖 · 绝不自动安装",
-   "summary_en": "",
-   "tags": [
-    "agent-skills",
-    "claude-code",
-    "codex",
-    "prompt-injection",
-    "security"
-   ],
-   "install": {
-    "npm": null,
-    "github": "github:MJorgin/skill-bartender",
-    "command": "dsh plugin --profile web add -w github:MJorgin/skill-bartender"
-   },
-   "stats": {
-    "stars": 1,
-    "forks": 0,
-    "license": "MIT",
-    "language": "Python",
-    "pushed_at": "2026-10-30T06:05:01Z"
-   },
-   "activity": {
-    "level": "active",
-    "label_zh": "活跃",
-    "label_en": "Active",
-    "max_days": 30,
-    "days_since": 1
    },
    "archived": false
   },
@@ -78151,7 +77942,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 66
+    "days_since": 67
    },
    "archived": false
   },
@@ -80028,7 +79819,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -80135,7 +79926,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -80241,7 +80032,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -84732,7 +84523,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 28
+    "days_since": 29
    },
    "archived": false
   },
@@ -85231,7 +85022,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 2
    },
    "archived": false
   },
@@ -85681,7 +85472,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 74
+    "days_since": 75
    },
    "archived": false
   },
@@ -86170,7 +85961,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 53
+    "days_since": 54
    },
    "archived": false
   },
@@ -88969,7 +88760,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 4
+    "days_since": 5
    },
    "archived": false
   },
@@ -90203,7 +89994,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -90347,7 +90138,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 66
+    "days_since": 67
    },
    "archived": false
   },
@@ -90938,7 +90729,7 @@
     "forks": 2,
     "license": "",
     "language": "TypeScript",
-    "pushed_at": "2026-10-31T18:25:45Z"
+    "pushed_at": "2026-10-31T21:12:02Z"
    },
    "activity": {
     "level": "active",
@@ -92586,7 +92377,7 @@
     "command": "dsh plugin --profile web add -w github:daha1216/dsh-adult-tension"
    },
    "stats": {
-    "stars": 442,
+    "stars": 443,
     "forks": 39,
     "license": "",
     "language": "Python",
@@ -93855,7 +93646,7 @@
     "command": "dsh plugin --profile web add -w github:whiteguo233/OpenBiliClaw"
    },
    "stats": {
-    "stars": 3645,
+    "stars": 3646,
     "forks": 200,
     "license": "MIT",
     "language": "Python",
@@ -94165,7 +93956,7 @@
     "forks": 278,
     "license": "Apache-2.0",
     "language": "TypeScript",
-    "pushed_at": "2026-10-31T17:38:02Z"
+    "pushed_at": "2026-10-31T23:00:09Z"
    },
    "activity": {
     "level": "active",
@@ -94820,7 +94611,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -95551,7 +95342,7 @@
     "forks": 3,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T18:37:33Z"
+    "pushed_at": "2026-10-31T21:54:50Z"
    },
    "activity": {
     "level": "active",
@@ -96898,7 +96689,7 @@
     "forks": 21,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T17:51:29Z"
+    "pushed_at": "2026-10-31T20:09:32Z"
    },
    "activity": {
     "level": "active",
@@ -98069,7 +97860,7 @@
    },
    "stats": {
     "stars": 16,
-    "forks": 4,
+    "forks": 5,
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-09-30T08:31:40Z"
@@ -98865,7 +98656,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 63
+    "days_since": 64
    },
    "archived": false
   },
@@ -98902,7 +98693,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 63
+    "days_since": 64
    },
    "archived": false
   },
@@ -99600,7 +99391,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T12:24:33Z"
+    "pushed_at": "2026-10-31T21:31:59Z"
    },
    "activity": {
     "level": "active",
@@ -100017,7 +99808,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 78
+    "days_since": 79
    },
    "archived": false
   },
@@ -100398,7 +100189,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 3
+    "days_since": 4
    },
    "archived": false
   },
@@ -100435,7 +100226,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 32
+    "days_since": 33
    },
    "archived": false
   },
@@ -100511,7 +100302,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 22
+    "days_since": 23
    },
    "archived": false
   },
@@ -101219,7 +101010,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 23
+    "days_since": 24
    },
    "archived": false
   },
@@ -102093,7 +101884,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 55
+    "days_since": 56
    },
    "archived": false
   },
@@ -105127,7 +104918,7 @@
     "command": "dsh plugin --profile web add -w github:V1ki/dsh-plugin-subscriptions"
    },
    "stats": {
-    "stars": 539,
+    "stars": 540,
     "forks": 95,
     "license": "MIT",
     "language": "TypeScript",
@@ -107307,7 +107098,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 50
+    "days_since": 51
    },
    "archived": false
   },
@@ -110254,7 +110045,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 77
+    "days_since": 78
    },
    "archived": false
   },
@@ -110290,7 +110081,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 77
+    "days_since": 78
    },
    "archived": false
   },
@@ -110328,7 +110119,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 29
+    "days_since": 30
    },
    "archived": false
   },
@@ -110477,7 +110268,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 77
+    "days_since": 78
    },
    "archived": false
   },
@@ -110994,7 +110785,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 7
+    "days_since": 8
    },
    "archived": false
   },
@@ -111030,7 +110821,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 77
+    "days_since": 78
    },
    "archived": false
   },
@@ -111105,7 +110896,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 77
+    "days_since": 78
    },
    "archived": false
   },
@@ -111215,7 +111006,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 77
+    "days_since": 78
    },
    "archived": false
   },
@@ -111250,7 +111041,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 77
+    "days_since": 78
    },
    "archived": false
   },
@@ -111352,7 +111143,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 77
+    "days_since": 78
    },
    "archived": false
   },
@@ -111391,7 +111182,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 77
+    "days_since": 78
    },
    "archived": false
   },
@@ -111599,7 +111390,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -114205,7 +113996,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -114301,7 +114092,7 @@
     "command": "dsh plugin --profile web add -w github:MichengAI/dsh-agency-agents"
    },
    "stats": {
-    "stars": 197,
+    "stars": 199,
     "forks": 21,
     "license": "Apache-2.0",
     "language": "TypeScript",
@@ -116864,7 +116655,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -118468,7 +118259,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -118541,7 +118332,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 47
+    "days_since": 48
    },
    "archived": false
   },
@@ -118862,7 +118653,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -119157,7 +118948,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 68
+    "days_since": 69
    },
    "archived": false
   },
@@ -119568,7 +119359,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -119605,7 +119396,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -119644,7 +119435,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -119682,7 +119473,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -119715,7 +119506,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -119825,7 +119616,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 73
+    "days_since": 74
    },
    "archived": false
   },
@@ -120998,41 +120789,6 @@
     "label_en": "Active",
     "max_days": 30,
     "days_since": 0
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-subagent-model-picker",
-   "full_name": "ringoage/dsh-subagent-model-picker",
-   "url": "https://github.com/ringoage/dsh-subagent-model-picker",
-   "category": {
-    "slug": "agent",
-    "name_zh": "Agent 能力",
-    "name_en": "Agent Capabilities"
-   },
-   "summary_zh": "",
-   "summary_en": "The visual, manual subagent-model picker for DeepSeek Harness — predictable per-session routing with global coverage of every in-process subagent path, complementary to auto-routing plugins.",
-   "tags": [
-    "plugin"
-   ],
-   "install": {
-    "npm": null,
-    "github": "github:ringoage/dsh-subagent-model-picker",
-    "command": "dsh plugin --profile web add -w github:ringoage/dsh-subagent-model-picker"
-   },
-   "stats": {
-    "stars": 1,
-    "forks": 1,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-16T06:39:45Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 76
    },
    "archived": false
   },
@@ -122217,7 +121973,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -122482,7 +122238,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T16:42:22Z"
+    "pushed_at": "2026-10-31T19:53:17Z"
    },
    "activity": {
     "level": "active",
@@ -122687,7 +122443,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 3
+    "days_since": 4
    },
    "archived": false
   },
@@ -125022,7 +124778,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -126097,7 +125853,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 8
+    "days_since": 9
    },
    "archived": false
   },
@@ -126489,7 +126245,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 69
+    "days_since": 70
    },
    "archived": false
   },
@@ -126995,7 +126751,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 59
+    "days_since": 60
    },
    "archived": false
   },
@@ -127213,7 +126969,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 50
+    "days_since": 51
    },
    "archived": false
   },
@@ -127442,7 +127198,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 10
+    "days_since": 11
    },
    "archived": false
   },
@@ -128255,7 +128011,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 40
+    "days_since": 41
    },
    "archived": false
   },
@@ -129059,7 +128815,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 36
+    "days_since": 37
    },
    "archived": false
   },
@@ -130692,7 +130448,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 9
+    "days_since": 10
    },
    "archived": false
   },
@@ -131624,7 +131380,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 12
+    "days_since": 13
    },
    "archived": false
   },
@@ -132210,7 +131966,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 66
+    "days_since": 67
    },
    "archived": false
   },
@@ -132326,7 +132082,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 62
+    "days_since": 63
    },
    "archived": false
   },
@@ -132587,7 +132343,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 65
+    "days_since": 66
    },
    "archived": false
   },
@@ -134075,7 +133831,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 65
+    "days_since": 66
    },
    "archived": false
   },
@@ -134227,7 +133983,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 22
+    "days_since": 23
    },
    "archived": false
   },
@@ -134996,7 +134752,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 64
+    "days_since": 65
    },
    "archived": false
   },
@@ -135993,7 +135749,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-10-31T18:36:30Z"
+    "pushed_at": "2026-10-31T22:31:39Z"
    },
    "activity": {
     "level": "active",
@@ -136532,7 +136288,7 @@
     "command": "dsh plugin --profile web add -w github:Tencent/BrowserSkill"
    },
    "stats": {
-    "stars": 9845,
+    "stars": 9848,
     "forks": 702,
     "license": "MIT",
     "language": "TypeScript",
@@ -136623,7 +136379,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 12
+    "days_since": 13
    },
    "archived": false
   },
@@ -140454,7 +140210,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 68
+    "days_since": 69
    },
    "archived": false
   },
@@ -140598,7 +140354,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 7
+    "days_since": 8
    },
    "archived": false
   },
@@ -141202,39 +140958,6 @@
     "label_en": "Watch",
     "max_days": 90,
     "days_since": 75
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-git-branch",
-   "full_name": "hanyueqiang/dsh-git-branch",
-   "url": "https://github.com/hanyueqiang/dsh-git-branch",
-   "category": {
-    "slug": "coding",
-    "name_zh": "编码开发",
-    "name_en": "Coding & Development"
-   },
-   "summary_zh": "",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:hanyueqiang/dsh-git-branch",
-    "command": "dsh plugin --profile web add -w github:hanyueqiang/dsh-git-branch"
-   },
-   "stats": {
-    "stars": 1,
-    "forks": 0,
-    "license": "MIT",
-    "language": "TypeScript",
-    "pushed_at": "2026-08-16T14:58:43Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 76
    },
    "archived": false
   },
@@ -142295,7 +142018,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 67
+    "days_since": 68
    },
    "archived": false
   },
@@ -142330,7 +142053,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -142401,7 +142124,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -142441,7 +142164,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -142474,7 +142197,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -142513,7 +142236,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -142583,7 +142306,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -142618,7 +142341,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 11
+    "days_since": 12
    },
    "archived": false
   },
@@ -145646,7 +145369,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 74
+    "days_since": 75
    },
    "archived": false
   },
@@ -145724,7 +145447,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 29
+    "days_since": 30
    },
    "archived": false
   },
@@ -145835,11 +145558,11 @@
     "pushed_at": "2026-09-30T20:27:03Z"
    },
    "activity": {
-    "level": "active",
-    "label_zh": "活跃",
-    "label_en": "Active",
-    "max_days": 30,
-    "days_since": 30
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 31
    },
    "archived": false
   },
@@ -147710,7 +147433,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 11
+    "days_since": 12
    },
    "archived": false
   },
@@ -148158,7 +147881,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 73
+    "days_since": 74
    },
    "archived": false
   },
@@ -148935,7 +148658,7 @@
     "forks": 0,
     "license": "NOASSERTION",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T17:22:51Z"
+    "pushed_at": "2026-10-31T20:35:05Z"
    },
    "activity": {
     "level": "active",
@@ -149301,7 +149024,7 @@
     "command": "dsh plugin --profile web add -w github:mjylfz/dsh-subagent-codex"
    },
    "stats": {
-    "stars": 6,
+    "stars": 7,
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
@@ -150088,7 +149811,7 @@
     "command": "dsh plugin --profile web add -w github:YaoApp/yao"
    },
    "stats": {
-    "stars": 8218,
+    "stars": 8224,
     "forks": 730,
     "license": "NOASSERTION",
     "language": "Go",
@@ -150248,7 +149971,7 @@
     "command": "dsh plugin --profile web add -w github:superdesigndev/superdesign-skill"
    },
    "stats": {
-    "stars": 927,
+    "stars": 926,
     "forks": 69,
     "license": "MIT",
     "language": "JavaScript",
@@ -150327,7 +150050,7 @@
     "command": "dsh plugin --profile web add -w github:GCWing/OpenBitFun"
    },
    "stats": {
-    "stars": 3429,
+    "stars": 3430,
     "forks": 285,
     "license": "MIT",
     "language": "Rust",
@@ -150411,7 +150134,7 @@
     "forks": 401,
     "license": "MIT",
     "language": "Rust",
-    "pushed_at": "2026-10-31T18:36:07Z"
+    "pushed_at": "2026-10-31T21:05:26Z"
    },
    "activity": {
     "level": "active",
@@ -150604,7 +150327,7 @@
     "forks": 11,
     "license": "",
     "language": "Python",
-    "pushed_at": "2026-10-31T02:19:11Z"
+    "pushed_at": "2026-10-31T23:02:32Z"
    },
    "activity": {
     "level": "active",
@@ -150869,11 +150592,11 @@
     "command": "dsh plugin --profile web add -w github:morluto/rea"
    },
    "stats": {
-    "stars": 415076,
-    "forks": 103821,
+    "stars": 415401,
+    "forks": 103901,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-10-31T19:30:24Z"
+    "pushed_at": "2026-10-31T23:04:59Z"
    },
    "activity": {
     "level": "active",
@@ -150910,7 +150633,7 @@
    },
    "stats": {
     "stars": 253,
-    "forks": 23,
+    "forks": 24,
     "license": "Apache-2.0",
     "language": "Rust",
     "pushed_at": "2026-10-31T01:47:40Z"
@@ -151033,7 +150756,7 @@
     "forks": 229,
     "license": "Apache-2.0",
     "language": "Python",
-    "pushed_at": "2026-10-31T19:37:48Z"
+    "pushed_at": "2026-10-31T20:10:10Z"
    },
    "activity": {
     "level": "active",
@@ -151147,7 +150870,7 @@
     "command": "dsh plugin --profile web add -w github:paean-ai/deeptide"
    },
    "stats": {
-    "stars": 1107,
+    "stars": 1108,
     "forks": 139,
     "license": "MIT",
     "language": "Rust",
@@ -151231,7 +150954,7 @@
     "forks": 23,
     "license": "NOASSERTION",
     "language": "TypeScript",
-    "pushed_at": "2026-10-31T19:45:14Z"
+    "pushed_at": "2026-10-31T22:58:51Z"
    },
    "activity": {
     "level": "active",
@@ -152386,7 +152109,7 @@
     "command": "dsh plugin --profile web add -w github:taxueseek/argo"
    },
    "stats": {
-    "stars": 219,
+    "stars": 220,
     "forks": 16,
     "license": "Apache-2.0",
     "language": "Python",
@@ -152724,7 +152447,7 @@
     "command": "dsh plugin --profile web add -w github:pulseaiclub/phi"
    },
    "stats": {
-    "stars": 786,
+    "stars": 788,
     "forks": 36,
     "license": "MIT",
     "language": "Go",
@@ -153338,7 +153061,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 5
+    "days_since": 6
    },
    "archived": false
   },
@@ -154209,7 +153932,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -154238,7 +153961,7 @@
     "command": "dsh plugin --profile web add -w github:codeAnqiang-ma/dsh-superpowers"
    },
    "stats": {
-    "stars": 11,
+    "stars": 12,
     "forks": 1,
     "license": "NOASSERTION",
     "language": "JavaScript",
@@ -154732,7 +154455,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 78
+    "days_since": 79
    },
    "archived": false
   },
@@ -155104,7 +154827,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 63
+    "days_since": 64
    },
    "archived": false
   },
@@ -155399,7 +155122,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 63
+    "days_since": 64
    },
    "archived": false
   },
@@ -155627,7 +155350,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 74
+    "days_since": 75
    },
    "archived": false
   },
@@ -156213,7 +155936,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 78
+    "days_since": 79
    },
    "archived": false
   },
@@ -156360,7 +156083,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 40
+    "days_since": 41
    },
    "archived": false
   },
@@ -156427,7 +156150,7 @@
     "command": "dsh plugin --profile web add -w github:ningbainb/deepseek-harness-desktop"
    },
    "stats": {
-    "stars": 888,
+    "stars": 889,
     "forks": 28,
     "license": "BSD-3-Clause",
     "language": "JavaScript",
@@ -156662,7 +156385,7 @@
     "forks": 2,
     "license": "MIT",
     "language": "HTML",
-    "pushed_at": "2026-10-31T12:35:54Z"
+    "pushed_at": "2026-10-31T21:37:47Z"
    },
    "activity": {
     "level": "active",
@@ -160686,7 +160409,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 73
+    "days_since": 74
    },
    "archived": false
   },
@@ -162537,7 +162260,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 70
+    "days_since": 71
    },
    "archived": false
   },
@@ -162837,7 +162560,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 40
+    "days_since": 41
    },
    "archived": false
   },
@@ -163712,7 +163435,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 4
+    "days_since": 5
    },
    "archived": false
   },
@@ -164108,7 +163831,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 77
+    "days_since": 78
    },
    "archived": false
   },
@@ -164250,7 +163973,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 77
+    "days_since": 78
    },
    "archived": false
   },
@@ -164813,7 +164536,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 56
+    "days_since": 57
    },
    "archived": false
   },
@@ -165270,7 +164993,7 @@
     "forks": 0,
     "license": "",
     "language": "TypeScript",
-    "pushed_at": "2026-10-31T17:01:27Z"
+    "pushed_at": "2026-10-31T21:13:17Z"
    },
    "activity": {
     "level": "active",
@@ -167804,7 +167527,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 15
+    "days_since": 16
    },
    "archived": false
   },
@@ -168790,7 +168513,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -168825,7 +168548,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -169781,7 +169504,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -172100,7 +171823,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 26
+    "days_since": 27
    },
    "archived": false
   },
@@ -172178,7 +171901,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 33
+    "days_since": 34
    },
    "archived": false
   },
@@ -173228,7 +172951,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 66
+    "days_since": 67
    },
    "archived": false
   },
@@ -174355,7 +174078,7 @@
     "command": "dsh plugin --profile web add -w github:MichengAI/dsh-im-connect"
    },
    "stats": {
-    "stars": 111,
+    "stars": 112,
     "forks": 26,
     "license": "Apache-2.0",
     "language": "JavaScript",
@@ -175471,7 +175194,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 2
    },
    "archived": false
   },
@@ -175950,7 +175673,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 73
+    "days_since": 74
    },
    "archived": false
   },
@@ -176826,11 +176549,11 @@
     "command": "dsh plugin --profile web add -w github:superdesigndev/treg"
    },
    "stats": {
-    "stars": 6839,
-    "forks": 595,
+    "stars": 6852,
+    "forks": 597,
     "license": "NOASSERTION",
     "language": "Python",
-    "pushed_at": "2026-10-31T18:43:40Z"
+    "pushed_at": "2026-10-31T22:51:07Z"
    },
    "activity": {
     "level": "active",
@@ -177015,7 +176738,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 4
+    "days_since": 5
    },
    "archived": false
   },
@@ -177044,11 +176767,11 @@
     "command": "dsh plugin --profile web add -w github:ccch1mneyyy/dsh-TUI"
    },
    "stats": {
-    "stars": 6426,
+    "stars": 6432,
     "forks": 318,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-10-31T19:29:39Z"
+    "pushed_at": "2026-10-31T21:47:00Z"
    },
    "activity": {
     "level": "active",
@@ -177339,7 +177062,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 78
+    "days_since": 79
    },
    "archived": false
   },
@@ -179003,7 +178726,7 @@
     "command": "dsh plugin --profile web add -w github:xmanrui/dsh-im"
    },
    "stats": {
-    "stars": 3009,
+    "stars": 3014,
     "forks": 304,
     "license": "MIT",
     "language": "JavaScript",
@@ -180569,7 +180292,7 @@
     "command": "dsh plugin --profile web add -w github:Molunerfinn/PicGo"
    },
    "stats": {
-    "stars": 27444,
+    "stars": 27445,
     "forks": 2335,
     "license": "MIT",
     "language": "TypeScript",
@@ -181144,7 +180867,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 61
+    "days_since": 62
    },
    "archived": false
   },
@@ -181434,7 +181157,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 63
+    "days_since": 64
    },
    "archived": false
   },
@@ -181551,7 +181274,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 36
+    "days_since": 37
    },
    "archived": false
   },
@@ -181622,7 +181345,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 72
+    "days_since": 73
    },
    "archived": false
   },
@@ -182537,39 +182260,6 @@
     "label_en": "Watch",
     "max_days": 90,
     "days_since": 67
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-poison-check",
-   "full_name": "uckkk/dsh-poison-check",
-   "url": "https://github.com/uckkk/dsh-poison-check",
-   "category": {
-    "slug": "vision-multimodal",
-    "name_zh": "视觉与多模态",
-    "name_en": "Vision & Multimodal"
-   },
-   "summary_zh": "宠物中毒识别",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-poison-check",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-poison-check"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T18:45:02Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 72
    },
    "archived": false
   },
@@ -184372,7 +184062,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 59
+    "days_since": 60
    },
    "archived": false
   },
@@ -184523,7 +184213,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 3
+    "days_since": 4
    },
    "archived": false
   },
@@ -184923,7 +184613,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 68
+    "days_since": 69
    },
    "archived": false
   },
@@ -185622,7 +185312,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 59
+    "days_since": 60
    },
    "archived": false
   },
@@ -185840,7 +185530,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 66
+    "days_since": 67
    },
    "archived": false
   },
@@ -186083,7 +185773,7 @@
     "command": "dsh plugin --profile web add -w github:WSL043/dsh-image-viewer"
    },
    "stats": {
-    "stars": 3,
+    "stars": 4,
     "forks": 1,
     "license": "MIT",
     "language": "JavaScript",
@@ -187423,7 +187113,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 63
+    "days_since": 64
    },
    "archived": false
   },
@@ -188518,7 +188208,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -188558,7 +188248,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -188924,7 +188614,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -191322,7 +191012,7 @@
     "forks": 2,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T19:46:20Z"
+    "pushed_at": "2026-10-31T23:08:11Z"
    },
    "activity": {
     "level": "active",
@@ -192395,7 +192085,7 @@
     "command": "dsh plugin --profile web add -w github:shanliuling/dsh-image-gen"
    },
    "stats": {
-    "stars": 1030,
+    "stars": 1031,
     "forks": 60,
     "license": "Apache-2.0",
     "language": "TypeScript",
@@ -195049,7 +194739,7 @@
     "forks": 3,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-30T21:58:49Z"
+    "pushed_at": "2026-10-31T21:05:29Z"
    },
    "activity": {
     "level": "active",
@@ -195157,7 +194847,7 @@
     "command": "dsh plugin --profile web add -w github:Devin-AXIS/iPolloWork"
    },
    "stats": {
-    "stars": 7331,
+    "stars": 7332,
     "forks": 1136,
     "license": "NOASSERTION",
     "language": "TypeScript",
@@ -195317,8 +195007,8 @@
     "command": "dsh plugin --profile web add -w github:tt-a1i/archify"
    },
    "stats": {
-    "stars": 92104,
-    "forks": 6279,
+    "stars": 92135,
+    "forks": 6282,
     "license": "Apache-2.0",
     "language": "JavaScript",
     "pushed_at": "2026-10-31T06:53:27Z"
@@ -195368,7 +195058,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 77
+    "days_since": 78
    },
    "archived": false
   },
@@ -197408,7 +197098,7 @@
     "forks": 61,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T14:10:30Z"
+    "pushed_at": "2026-10-31T20:09:49Z"
    },
    "activity": {
     "level": "active",
@@ -197452,7 +197142,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 78
+    "days_since": 79
    },
    "archived": false
   },
@@ -197639,7 +197329,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 78
+    "days_since": 79
    },
    "archived": false
   },
@@ -197851,8 +197541,8 @@
     "command": "dsh plugin --profile web add -w github:PC2005-cloud/dsh-pet"
    },
    "stats": {
-    "stars": 5121,
-    "forks": 409,
+    "stars": 5129,
+    "forks": 410,
     "license": "MIT",
     "language": "TypeScript",
     "pushed_at": "2026-10-31T13:49:21Z"
@@ -202492,7 +202182,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 77
+    "days_since": 78
    },
    "archived": false
   },
@@ -202558,7 +202248,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 77
+    "days_since": 78
    },
    "archived": false
   },
@@ -202598,7 +202288,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 61
+    "days_since": 62
    },
    "archived": false
   },
@@ -203168,42 +202858,6 @@
    "archived": false
   },
   {
-   "name": "dsh-tool-vision",
-   "full_name": "gloryxpnv/dsh-tool-vision",
-   "url": "https://github.com/gloryxpnv/dsh-tool-vision",
-   "category": {
-    "slug": "vision-multimodal",
-    "name_zh": "视觉与多模态",
-    "name_en": "Vision & Multimodal"
-   },
-   "summary_zh": "",
-   "summary_en": "Local-first vision for DeepSeek Harness: structured JSON evidence (OCR/layout/semantics) from local VLMs (LM Studio/Ollama), zero API cost, images never leave your machine.",
-   "tags": [
-    "local-first",
-    "vision"
-   ],
-   "install": {
-    "npm": null,
-    "github": "github:gloryxpnv/dsh-tool-vision",
-    "command": "dsh plugin --profile web add -w github:gloryxpnv/dsh-tool-vision"
-   },
-   "stats": {
-    "stars": 1,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-15T14:21:43Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 77
-   },
-   "archived": false
-  },
-  {
    "name": "dsh-plugin-custom-provider-enhancer",
    "full_name": "cinob/dsh-plugin-custom-provider-enhancer",
    "url": "https://github.com/cinob/dsh-plugin-custom-provider-enhancer",
@@ -203714,7 +203368,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 50
+    "days_since": 51
    },
    "archived": false
   },
@@ -205420,42 +205074,6 @@
    "archived": false
   },
   {
-   "name": "dsh-generate-image",
-   "full_name": "zemul/dsh-generate-image",
-   "url": "https://github.com/zemul/dsh-generate-image",
-   "category": {
-    "slug": "vision-multimodal",
-    "name_zh": "视觉与多模态",
-    "name_en": "Vision & Multimodal"
-   },
-   "summary_zh": "DeepSeek Harness 插件：通过本机 OpenAI Codex CLI 生成与编辑图片。",
-   "summary_en": "",
-   "tags": [
-    "codex",
-    "image-generation"
-   ],
-   "install": {
-    "npm": null,
-    "github": "github:zemul/dsh-generate-image",
-    "command": "dsh plugin --profile web add -w github:zemul/dsh-generate-image"
-   },
-   "stats": {
-    "stars": 1,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-17T08:03:53Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 75
-   },
-   "archived": false
-  },
-  {
    "name": "dsh-image-vision",
    "full_name": "xsoc1/dsh-image-vision",
    "url": "https://github.com/xsoc1/dsh-image-vision",
@@ -206428,39 +206046,6 @@
    "archived": false
   },
   {
-   "name": "dsh-cdp-browser",
-   "full_name": "zaiwenJ/dsh-cdp-browser",
-   "url": "https://github.com/zaiwenJ/dsh-cdp-browser",
-   "category": {
-    "slug": "vision-multimodal",
-    "name_zh": "视觉与多模态",
-    "name_en": "Vision & Multimodal"
-   },
-   "summary_zh": "",
-   "summary_en": "Zero-spawn CDP browser control plugin for DeepSeek Harness: screenshots, pixel assertions, page JS — no vision model, no per-use approval",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:zaiwenJ/dsh-cdp-browser",
-    "command": "dsh plugin --profile web add -w github:zaiwenJ/dsh-cdp-browser"
-   },
-   "stats": {
-    "stars": 1,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-16T06:59:20Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 76
-   },
-   "archived": false
-  },
-  {
    "name": "dsh-ocr-seam-guard",
    "full_name": "DosterBool/dsh-ocr-seam-guard",
    "url": "https://github.com/DosterBool/dsh-ocr-seam-guard",
@@ -206762,7 +206347,7 @@
     "command": "dsh plugin --profile web add -w github:Unclecheng-li/AI_Animation"
    },
    "stats": {
-    "stars": 1680,
+    "stars": 1681,
     "forks": 127,
     "license": "MIT",
     "language": "HTML",
@@ -206847,43 +206432,6 @@
     "label_en": "Watch",
     "max_days": 90,
     "days_since": 46
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-kun-pet",
-   "full_name": "Practice019/dsh-kun-pet",
-   "url": "https://github.com/Practice019/dsh-kun-pet",
-   "category": {
-    "slug": "theme-fun",
-    "name_zh": "皮肤与娱乐",
-    "name_en": "Themes & Fun"
-   },
-   "summary_zh": "Kun Like 桌宠 - DSH 桌面宠物插件",
-   "summary_en": "",
-   "tags": [
-    "desktop-pet",
-    "kun",
-    "plugin"
-   ],
-   "install": {
-    "npm": null,
-    "github": "github:Practice019/dsh-kun-pet",
-    "command": "dsh plugin --profile web add -w github:Practice019/dsh-kun-pet"
-   },
-   "stats": {
-    "stars": 1,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-31T17:12:37Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 61
    },
    "archived": false
   },
@@ -208885,6 +208433,39 @@
    "archived": false
   },
   {
+   "name": "dsh-senior-pet",
+   "full_name": "uckkk/dsh-senior-pet",
+   "url": "https://github.com/uckkk/dsh-senior-pet",
+   "category": {
+    "slug": "theme-fun",
+    "name_zh": "皮肤与娱乐",
+    "name_en": "Themes & Fun"
+   },
+   "summary_zh": "老年宠物",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-senior-pet",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-senior-pet"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T20:23:19Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
    "name": "dsh-pet-teeth",
    "full_name": "uckkk/dsh-pet-teeth",
    "url": "https://github.com/uckkk/dsh-pet-teeth",
@@ -208913,7 +208494,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -209559,44 +209140,6 @@
     "license": "MIT",
     "language": "HTML",
     "pushed_at": "2026-08-21T15:23:49Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 71
-   },
-   "archived": false
-  },
-  {
-   "name": "theme-coach-dsh",
-   "full_name": "hanhan1137/theme-coach-dsh",
-   "url": "https://github.com/hanhan1137/theme-coach-dsh",
-   "category": {
-    "slug": "theme-fun",
-    "name_zh": "皮肤与娱乐",
-    "name_en": "Themes & Fun"
-   },
-   "summary_zh": "",
-   "summary_en": "theme-coach-dsh: DSH (DeepSeek Harness) adapted UI theme coach - Q&A guided theme design, official-asset wayfinding, palette derivation, contrast checks (based on openclaw-ui-theme-coach v1.5.0)",
-   "tags": [
-    "dsh-skill",
-    "theme",
-    "ui",
-    "ui-theme"
-   ],
-   "install": {
-    "npm": null,
-    "github": "github:hanhan1137/theme-coach-dsh",
-    "command": "dsh plugin --profile web add -w github:hanhan1137/theme-coach-dsh"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "",
-    "language": "Python",
-    "pushed_at": "2026-08-21T13:46:22Z"
    },
    "activity": {
     "level": "watch",
@@ -210696,7 +210239,7 @@
     "forks": 1,
     "license": "",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T17:18:49Z"
+    "pushed_at": "2026-10-31T21:47:11Z"
    },
    "activity": {
     "level": "active",
@@ -211255,7 +210798,7 @@
     "command": "dsh plugin --profile web add -w github:luweiyabo/dsh-whale-pet"
    },
    "stats": {
-    "stars": 25,
+    "stars": 26,
     "forks": 1,
     "license": "MIT",
     "language": "JavaScript",
@@ -212697,7 +212240,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 66
+    "days_since": 67
    },
    "archived": false
   },
@@ -214031,7 +213574,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 63
+    "days_since": 64
    },
    "archived": false
   },
@@ -214580,7 +214123,7 @@
     "forks": 9,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T19:42:26Z"
+    "pushed_at": "2026-10-31T21:56:46Z"
    },
    "activity": {
     "level": "active",
@@ -216443,7 +215986,7 @@
     "command": "dsh plugin --profile web add -w github:flizzywine/dsh-tavern"
    },
    "stats": {
-    "stars": 1409,
+    "stars": 1410,
     "forks": 91,
     "license": "AGPL-3.0",
     "language": "JavaScript",
@@ -216847,39 +216390,6 @@
    "archived": false
   },
   {
-   "name": "dsh-custom-theme-import",
-   "full_name": "Juryorca/dsh-custom-theme-import",
-   "url": "https://github.com/Juryorca/dsh-custom-theme-import",
-   "category": {
-    "slug": "theme-fun",
-    "name_zh": "皮肤与娱乐",
-    "name_en": "Themes & Fun"
-   },
-   "summary_zh": "",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:Juryorca/dsh-custom-theme-import",
-    "command": "dsh plugin --profile web add -w github:Juryorca/dsh-custom-theme-import"
-   },
-   "stats": {
-    "stars": 1,
-    "forks": 0,
-    "license": "",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-21T01:49:06Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 71
-   },
-   "archived": false
-  },
-  {
    "name": "dsh-done-whale",
    "full_name": "wally8-8/dsh-done-whale",
    "url": "https://github.com/wally8-8/dsh-done-whale",
@@ -217119,7 +216629,7 @@
     "command": "dsh plugin --profile web add -w github:elysia395/dsh-wallpaper-engine"
    },
    "stats": {
-    "stars": 4287,
+    "stars": 4293,
     "forks": 94,
     "license": "MIT",
     "language": "JavaScript",
@@ -217494,7 +217004,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -217634,7 +217144,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -218826,7 +218336,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-10-31T12:52:16Z"
+    "pushed_at": "2026-10-31T21:53:40Z"
    },
    "activity": {
     "level": "active",
@@ -219333,7 +218843,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-10-31T19:46:00Z"
+    "pushed_at": "2026-10-31T22:24:18Z"
    },
    "activity": {
     "level": "active",
@@ -219443,7 +218953,7 @@
     "command": "dsh plugin --profile web add -w github:MeteorNOX/DeepSeek-Balance-Whale-Widget"
    },
    "stats": {
-    "stars": 6653,
+    "stars": 6655,
     "forks": 207,
     "license": "MIT",
     "language": "JavaScript",
@@ -221962,7 +221472,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 72
+    "days_since": 73
    },
    "archived": false
   },
@@ -222190,7 +221700,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 20
+    "days_since": 21
    },
    "archived": false
   },
@@ -226923,7 +226433,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -227028,7 +226538,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 2
+    "days_since": 3
    },
    "archived": false
   },
@@ -227144,7 +226654,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 77
+    "days_since": 78
    },
    "archived": false
   },
@@ -230253,7 +229763,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -231185,7 +230695,7 @@
     "command": "dsh plugin --profile web add -w github:Small-tailqwq/dsh-deep-whale"
    },
    "stats": {
-    "stars": 2986,
+    "stars": 2984,
     "forks": 91,
     "license": "NOASSERTION",
     "language": "TypeScript",
@@ -231382,7 +230892,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 42
+    "days_since": 43
    },
    "archived": false
   },
@@ -231522,11 +231032,11 @@
     "command": "dsh plugin --profile web add -w github:awesome-deepseekharness/awesome-deepseek-harness"
    },
    "stats": {
-    "stars": 34,
+    "stars": 35,
     "forks": 46,
     "license": "CC0-1.0",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T09:00:27Z"
+    "pushed_at": "2026-10-31T20:39:18Z"
    },
    "activity": {
     "level": "active",
@@ -231834,7 +231344,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 50
+    "days_since": 51
    },
    "archived": false
   },
@@ -232227,7 +231737,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 31
+    "days_since": 32
    },
    "archived": false
   },
@@ -232359,7 +231869,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 31
+    "days_since": 32
    },
    "archived": false
   },
@@ -233995,7 +233505,7 @@
     "forks": 1,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T18:25:08Z"
+    "pushed_at": "2026-10-31T22:23:29Z"
    },
    "activity": {
     "level": "active",
@@ -234194,7 +233704,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 26
+    "days_since": 27
    },
    "archived": false
   },
@@ -237500,11 +237010,11 @@
     "pushed_at": "2026-09-30T21:39:30Z"
    },
    "activity": {
-    "level": "active",
-    "label_zh": "活跃",
-    "label_en": "Active",
-    "max_days": 30,
-    "days_since": 30
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 31
    },
    "archived": false
   },
@@ -239168,7 +238678,7 @@
     "forks": 7,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T15:44:37Z"
+    "pushed_at": "2026-10-31T19:58:28Z"
    },
    "activity": {
     "level": "active",
@@ -240379,7 +239889,7 @@
     "forks": 1,
     "license": "",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T17:29:52Z"
+    "pushed_at": "2026-10-31T20:38:38Z"
    },
    "activity": {
     "level": "active",
@@ -240943,7 +240453,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 24
+    "days_since": 25
    },
    "archived": false
   },
@@ -240976,7 +240486,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -241079,7 +240589,7 @@
     "forks": 0,
     "license": "",
     "language": "Python",
-    "pushed_at": "2026-10-30T23:10:52Z"
+    "pushed_at": "2026-10-31T22:47:15Z"
    },
    "activity": {
     "level": "active",
@@ -241161,7 +240671,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -241487,7 +240997,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-10-31T19:31:32Z"
+    "pushed_at": "2026-10-31T22:49:14Z"
    },
    "activity": {
     "level": "active",
@@ -242128,7 +241638,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 50
+    "days_since": 51
    },
    "archived": false
   },
@@ -245843,7 +245353,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 34
+    "days_since": 35
    },
    "archived": false
   },
@@ -246248,7 +245758,7 @@
     "command": "dsh plugin --profile web add -w github:freestylefly/awesome-gpt-image-2"
    },
    "stats": {
-    "stars": 35311,
+    "stars": 35312,
     "forks": 3348,
     "license": "MIT",
     "language": "JavaScript",
@@ -246528,7 +246038,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 33
+    "days_since": 34
    },
    "archived": false
   },
@@ -246554,7 +246064,7 @@
     "forks": 179,
     "license": "MIT",
     "language": "Python",
-    "pushed_at": "2026-10-31T12:46:07Z"
+    "pushed_at": "2026-10-31T22:52:52Z"
    },
    "activity": {
     "level": "active",
@@ -246916,7 +246426,7 @@
     "command": "dsh plugin --profile web add -w github:zhu1090093659/dsh-web"
    },
    "stats": {
-    "stars": 9885,
+    "stars": 9888,
     "forks": 607,
     "license": "Apache-2.0",
     "language": "TypeScript",
@@ -247178,7 +246688,7 @@
     "forks": 70,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T18:58:36Z"
+    "pushed_at": "2026-10-31T19:59:15Z"
    },
    "activity": {
     "level": "active",
@@ -247289,7 +246799,7 @@
     "forks": 15,
     "license": "MIT",
     "language": "HTML",
-    "pushed_at": "2026-10-31T17:52:19Z"
+    "pushed_at": "2026-10-31T21:37:09Z"
    },
    "activity": {
     "level": "active",
@@ -247401,11 +246911,11 @@
     "command": "dsh plugin --profile web add -w github:awesome-dsh-plugin/awesome-dsh-plugin"
    },
    "stats": {
-    "stars": 21775,
-    "forks": 6111,
+    "stars": 21779,
+    "forks": 6115,
     "license": "CC0-1.0",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T17:32:25Z"
+    "pushed_at": "2026-10-31T20:26:05Z"
    },
    "activity": {
     "level": "active",
@@ -247712,7 +247222,7 @@
     "forks": 10,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T17:42:42Z"
+    "pushed_at": "2026-10-31T21:57:59Z"
    },
    "activity": {
     "level": "active",
@@ -247930,7 +247440,7 @@
     "forks": 10,
     "license": "NOASSERTION",
     "language": "TypeScript",
-    "pushed_at": "2026-10-31T08:04:46Z"
+    "pushed_at": "2026-10-31T22:34:24Z"
    },
    "activity": {
     "level": "active",
@@ -248011,7 +247521,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 63
+    "days_since": 64
    },
    "archived": false
   },
@@ -248122,7 +247632,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 63
+    "days_since": 64
    },
    "archived": false
   },
@@ -248183,7 +247693,7 @@
     "forks": 0,
     "license": "",
     "language": "",
-    "pushed_at": "2026-10-30T21:51:51Z"
+    "pushed_at": "2026-10-31T21:53:37Z"
    },
    "activity": {
     "level": "active",
@@ -248378,7 +247888,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 7
+    "days_since": 8
    },
    "archived": false
   },
@@ -248415,7 +247925,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 63
+    "days_since": 64
    },
    "archived": false
   },
@@ -248485,7 +247995,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T17:26:41Z"
+    "pushed_at": "2026-10-31T21:05:19Z"
    },
    "activity": {
     "level": "active",
@@ -248564,7 +248074,7 @@
     "forks": 78,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T16:25:02Z"
+    "pushed_at": "2026-10-31T20:44:01Z"
    },
    "activity": {
     "level": "active",
@@ -248672,7 +248182,7 @@
     "forks": 6,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-10-31T18:09:54Z"
+    "pushed_at": "2026-10-31T21:47:40Z"
    },
    "activity": {
     "level": "active",
@@ -248783,7 +248293,7 @@
     "forks": 24,
     "license": "MIT",
     "language": "Python",
-    "pushed_at": "2026-10-31T14:33:53Z"
+    "pushed_at": "2026-10-31T20:00:57Z"
    },
    "activity": {
     "level": "active",
@@ -248942,7 +248452,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 63
+    "days_since": 64
    },
    "archived": false
   },
@@ -249660,7 +249170,7 @@
     "command": "dsh plugin --profile web add -w github:dsh-market/dsh-market"
    },
    "stats": {
-    "stars": 9992,
+    "stars": 9998,
     "forks": 389,
     "license": "MIT",
     "language": "TypeScript",
@@ -252273,7 +251783,7 @@
    },
    "stats": {
     "stars": 923,
-    "forks": 87,
+    "forks": 89,
     "license": "MIT",
     "language": "Python",
     "pushed_at": "2026-10-28T12:31:20Z"
@@ -252995,7 +252505,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 77
+    "days_since": 78
    },
    "archived": false
   },
@@ -253136,7 +252646,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -254228,7 +253738,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -254717,7 +254227,7 @@
     "forks": 2,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-10-31T13:44:07Z"
+    "pushed_at": "2026-10-31T22:35:30Z"
    },
    "activity": {
     "level": "active",
@@ -255778,7 +255288,7 @@
    },
    "stats": {
     "stars": 39,
-    "forks": 9,
+    "forks": 10,
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-10-17T01:30:53Z"
@@ -256015,45 +255525,6 @@
     "label_en": "Active",
     "max_days": 30,
     "days_since": 19
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-seatbelt-sandbox",
-   "full_name": "drscrewdriver/dsh-seatbelt-sandbox",
-   "url": "https://github.com/drscrewdriver/dsh-seatbelt-sandbox",
-   "category": {
-    "slug": "distro",
-    "name_zh": "合集与发行版",
-    "name_en": "Collections & Distros"
-   },
-   "summary_zh": "dsh-seatbelt 方面沙箱增强尝试使用非exec工具直接对接系统seatbelt相关api",
-   "summary_en": "",
-   "tags": [
-    "c",
-    "dsh-bundle",
-    "dsh-plugin-market",
-    "dsh-plugins",
-    "tyescript"
-   ],
-   "install": {
-    "npm": null,
-    "github": "github:drscrewdriver/dsh-seatbelt-sandbox",
-    "command": "dsh plugin --profile web add -w github:drscrewdriver/dsh-seatbelt-sandbox"
-   },
-   "stats": {
-    "stars": 1,
-    "forks": 0,
-    "license": "BSD-3-Clause",
-    "language": "TypeScript",
-    "pushed_at": "2026-09-17T06:01:50Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 44
    },
    "archived": false
   },
@@ -256877,7 +256348,7 @@
     "command": "dsh plugin --profile web add -w github:Tencent/WeKnora"
    },
    "stats": {
-    "stars": 36116,
+    "stars": 36121,
     "forks": 4909,
     "license": "NOASSERTION",
     "language": "Go",
@@ -257232,7 +256703,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 64
+    "days_since": 65
    },
    "archived": false
   },
@@ -257590,6 +257061,39 @@
    "archived": false
   },
   {
+   "name": "dsh-backup-retention",
+   "full_name": "uckkk/dsh-backup-retention",
+   "url": "https://github.com/uckkk/dsh-backup-retention",
+   "category": {
+    "slug": "data-storage",
+    "name_zh": "数据与存储",
+    "name_en": "Data & Storage"
+   },
+   "summary_zh": "备份容量规划",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-backup-retention",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-backup-retention"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T15:54:54Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
    "name": "dsh-backup-plan",
    "full_name": "uckkk/dsh-backup-plan",
    "url": "https://github.com/uckkk/dsh-backup-plan",
@@ -257750,7 +257254,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -259553,7 +259057,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 66
+    "days_since": 67
    },
    "archived": false
   },
@@ -259699,7 +259203,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 65
+    "days_since": 66
    },
    "archived": false
   },
@@ -259879,7 +259383,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 58
+    "days_since": 59
    },
    "archived": false
   },
@@ -261757,7 +261261,7 @@
     "command": "dsh plugin --profile web add -w github:nan1010082085/dsh-plugin-ima-sync"
    },
    "stats": {
-    "stars": 1,
+    "stars": 0,
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
@@ -262991,7 +262495,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 50
+    "days_since": 51
    },
    "archived": false
   },
@@ -263071,7 +262575,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 72
+    "days_since": 73
    },
    "archived": false
   },
@@ -263140,7 +262644,7 @@
     "command": "dsh plugin --profile web add -w github:ZSeven-W/openpencil"
    },
    "stats": {
-    "stars": 6995,
+    "stars": 6996,
     "forks": 606,
     "license": "MIT",
     "language": "Rust",
@@ -263184,7 +262688,7 @@
     "forks": 4,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-10-31T18:25:52Z"
+    "pushed_at": "2026-10-31T21:08:30Z"
    },
    "activity": {
     "level": "active",
@@ -263875,7 +263379,7 @@
     "forks": 23,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T09:25:55Z"
+    "pushed_at": "2026-10-31T21:01:30Z"
    },
    "activity": {
     "level": "active",
@@ -264289,7 +263793,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 74
+    "days_since": 75
    },
    "archived": false
   },
@@ -264689,7 +264193,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 70
+    "days_since": 71
    },
    "archived": false
   },
@@ -265187,7 +264691,7 @@
     "command": "dsh plugin --profile web add -w github:FuRongJun-1999/dsh-memory"
    },
    "stats": {
-    "stars": 558,
+    "stars": 559,
     "forks": 56,
     "license": "MIT",
     "language": "Python",
@@ -266232,7 +265736,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -266421,7 +265925,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 12
+    "days_since": 13
    },
    "archived": false
   },
@@ -266821,11 +266325,11 @@
     "command": "dsh plugin --profile web add -w github:ruvnet/ruflo"
    },
    "stats": {
-    "stars": 80405,
-    "forks": 9423,
+    "stars": 80421,
+    "forks": 9427,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-10-31T19:20:56Z"
+    "pushed_at": "2026-10-31T22:06:46Z"
    },
    "activity": {
     "level": "active",
@@ -266912,7 +266416,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 3
+    "days_since": 4
    },
    "archived": false
   },
@@ -267370,7 +266874,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 62
+    "days_since": 63
    },
    "archived": false
   },
@@ -270046,7 +269550,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 66
+    "days_since": 67
    },
    "archived": false
   },
@@ -272560,7 +272064,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 25
+    "days_since": 26
    },
    "archived": false
   },
@@ -272595,7 +272099,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 3
+    "days_since": 4
    },
    "archived": false
   },
@@ -272809,11 +272313,11 @@
     "pushed_at": "2026-09-30T20:14:19Z"
    },
    "activity": {
-    "level": "active",
-    "label_zh": "活跃",
-    "label_en": "Active",
-    "max_days": 30,
-    "days_since": 30
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 31
    },
    "archived": false
   },
@@ -273798,7 +273302,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 63
+    "days_since": 64
    },
    "archived": false
   },
@@ -274428,10 +273932,10 @@
    },
    "stats": {
     "stars": 3392,
-    "forks": 219,
+    "forks": 220,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-10-31T19:27:46Z"
+    "pushed_at": "2026-10-31T23:10:33Z"
    },
    "activity": {
     "level": "active",
@@ -274544,7 +274048,7 @@
     "forks": 2,
     "license": "Apache-2.0",
     "language": "Rust",
-    "pushed_at": "2026-10-31T15:21:55Z"
+    "pushed_at": "2026-10-31T21:20:31Z"
    },
    "activity": {
     "level": "active",
@@ -274799,7 +274303,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 4
+    "days_since": 5
    },
    "archived": false
   },
@@ -275902,41 +275406,6 @@
     "label_en": "Active",
     "max_days": 30,
     "days_since": 2
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-vibe-pack",
-   "full_name": "LeemanCheung/dsh-vibe-pack",
-   "url": "https://github.com/LeemanCheung/dsh-vibe-pack",
-   "category": {
-    "slug": "devops",
-    "name_zh": "运维与部署",
-    "name_en": "DevOps & Deployment"
-   },
-   "summary_zh": "",
-   "summary_en": "Transactional data-only DSH configuration packs with integrity, ownership, and rollback",
-   "tags": [
-    "package-manager"
-   ],
-   "install": {
-    "npm": null,
-    "github": "github:LeemanCheung/dsh-vibe-pack",
-    "command": "dsh plugin --profile web add -w github:LeemanCheung/dsh-vibe-pack"
-   },
-   "stats": {
-    "stars": 1,
-    "forks": 0,
-    "license": "MIT",
-    "language": "TypeScript",
-    "pushed_at": "2026-09-05T05:39:51Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 56
    },
    "archived": false
   },
@@ -277437,7 +276906,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -279051,7 +278520,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 68
+    "days_since": 69
    },
    "archived": false
   },
@@ -279827,7 +279296,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 73
+    "days_since": 74
    },
    "archived": false
   },
@@ -280692,7 +280161,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 59
+    "days_since": 60
    },
    "archived": false
   },
@@ -280831,7 +280300,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-10-31T12:35:09Z"
+    "pushed_at": "2026-10-31T21:43:27Z"
    },
    "activity": {
     "level": "active",
@@ -282290,7 +281759,7 @@
     "command": "dsh plugin --profile web add -w github:openma-ai/deepseek-harness-acp"
    },
    "stats": {
-    "stars": 59,
+    "stars": 60,
     "forks": 4,
     "license": "NOASSERTION",
     "language": "TypeScript",
@@ -282743,7 +282212,7 @@
     "forks": 1,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-10-31T12:43:54Z"
+    "pushed_at": "2026-10-31T21:42:12Z"
    },
    "activity": {
     "level": "active",
@@ -283035,7 +282504,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 78
+    "days_since": 79
    },
    "archived": false
   },
@@ -283993,7 +283462,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 21
+    "days_since": 22
    },
    "archived": false
   },
@@ -286280,7 +285749,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 77
+    "days_since": 78
    },
    "archived": false
   },
@@ -286313,7 +285782,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 77
+    "days_since": 78
    },
    "archived": false
   },
@@ -286531,7 +286000,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 6
+    "days_since": 7
    },
    "archived": false
   },
@@ -287635,7 +287104,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 58
+    "days_since": 59
    },
    "archived": false
   },
@@ -288354,7 +287823,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 73
+    "days_since": 74
    },
    "archived": false
   },
@@ -288387,7 +287856,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 73
+    "days_since": 74
    },
    "archived": false
   },
@@ -288528,7 +287997,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -288726,39 +288195,6 @@
    "archived": false
   },
   {
-   "name": "dsh-path-reveal",
-   "full_name": "futongxu9-maker/dsh-path-reveal",
-   "url": "https://github.com/futongxu9-maker/dsh-path-reveal",
-   "category": {
-    "slug": "devops",
-    "name_zh": "运维与部署",
-    "name_en": "DevOps & Deployment"
-   },
-   "summary_zh": "点击消息里的 Windows 绝对路径在资源管理器中打开所在文件夹（文件定位选中/目录直接打开），纯插件实现",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:futongxu9-maker/dsh-path-reveal",
-    "command": "dsh plugin --profile web add -w github:futongxu9-maker/dsh-path-reveal"
-   },
-   "stats": {
-    "stars": 1,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-15T17:30:59Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 77
-   },
-   "archived": false
-  },
-  {
    "name": "dsh-plugin-app-manager-laoboshi",
    "full_name": "Modole/dsh-plugin-app-manager-laoboshi",
    "url": "https://github.com/Modole/dsh-plugin-app-manager-laoboshi",
@@ -288823,7 +288259,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 73
+    "days_since": 74
    },
    "archived": false
   },
@@ -289007,7 +288443,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -289417,7 +288853,7 @@
     "command": "dsh plugin --profile web add -w github:MichengAI/dsh-archive-manager"
    },
    "stats": {
-    "stars": 272,
+    "stars": 273,
     "forks": 16,
     "license": "Apache-2.0",
     "language": "JavaScript",
@@ -291932,7 +291368,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 7
+    "days_since": 8
    },
    "archived": false
   },
@@ -292300,7 +291736,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 66
+    "days_since": 67
    },
    "archived": false
   },
@@ -293054,7 +292490,7 @@
     "command": "dsh plugin --profile web add -w github:Alisa0808/vox-director"
    },
    "stats": {
-    "stars": 2548,
+    "stars": 2550,
     "forks": 361,
     "license": "MIT",
     "language": "Python",
@@ -293233,7 +292669,7 @@
     "command": "dsh plugin --profile web add -w github:WizisCool/dsh-ears"
    },
    "stats": {
-    "stars": 26,
+    "stars": 27,
     "forks": 4,
     "license": "MIT",
     "language": "TypeScript",
@@ -294214,7 +293650,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -294250,7 +293686,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -294353,7 +293789,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 69
+    "days_since": 70
    },
    "archived": false
   },
@@ -294944,7 +294380,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 74
+    "days_since": 75
    },
    "archived": false
   },
@@ -295268,7 +294704,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 73
+    "days_since": 74
    },
    "archived": false
   },
@@ -295987,7 +295423,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 78
+    "days_since": 79
    },
    "archived": false
   },
@@ -297847,7 +297283,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 21
+    "days_since": 22
    },
    "archived": false
   },
@@ -298507,7 +297943,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -301428,7 +300864,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -301597,7 +301033,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 50
+    "days_since": 51
    },
    "archived": false
   },
@@ -301663,7 +301099,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -303049,6 +302485,41 @@
    "archived": false
   },
   {
+   "name": "Repo_Tutor",
+   "full_name": "Wang-yifan666/Repo_Tutor",
+   "url": "https://github.com/Wang-yifan666/Repo_Tutor",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "",
+   "summary_en": "An interactive repository learning tutor for DeepSeek Harness. Learn unfamiliar codebases through guided exploration, implementation-level explanations and adaptive questioning.",
+   "tags": [
+    "dsh-plugins"
+   ],
+   "install": {
+    "npm": null,
+    "github": "github:Wang-yifan666/Repo_Tutor",
+    "command": "dsh plugin --profile web add -w github:Wang-yifan666/Repo_Tutor"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "CMake",
+    "pushed_at": "2026-08-20T12:50:25Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
    "name": "dsh-hashline-edittool",
    "full_name": "hyperion2144/dsh-hashline-edittool",
    "url": "https://github.com/hyperion2144/dsh-hashline-edittool",
@@ -303698,6 +303169,39 @@
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-20T14:37:21Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
+   "name": "dsh-wire-gauge",
+   "full_name": "uckkk/dsh-wire-gauge",
+   "url": "https://github.com/uckkk/dsh-wire-gauge",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "电线线径选择",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-wire-gauge",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-wire-gauge"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T14:37:24Z"
    },
    "activity": {
     "level": "watch",
@@ -304435,6 +303939,39 @@
    "archived": false
   },
   {
+   "name": "dsh-rest-time",
+   "full_name": "uckkk/dsh-rest-time",
+   "url": "https://github.com/uckkk/dsh-rest-time",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "组间休息时间",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-rest-time",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-rest-time"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T14:43:31Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
    "name": "dsh-diaper-size",
    "full_name": "uckkk/dsh-diaper-size",
    "url": "https://github.com/uckkk/dsh-diaper-size",
@@ -304688,39 +304225,6 @@
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-20T14:47:46Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 72
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-bmi-adjust",
-   "full_name": "uckkk/dsh-bmi-adjust",
-   "url": "https://github.com/uckkk/dsh-bmi-adjust",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "减重计划拆解",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-bmi-adjust",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-bmi-adjust"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T14:47:43Z"
    },
    "activity": {
     "level": "watch",
@@ -305020,39 +304524,6 @@
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-20T14:48:49Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 72
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-led-circuit",
-   "full_name": "uckkk/dsh-led-circuit",
-   "url": "https://github.com/uckkk/dsh-led-circuit",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "照明回路计算",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-led-circuit",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-led-circuit"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T14:49:09Z"
    },
    "activity": {
     "level": "watch",
@@ -305757,6 +305228,39 @@
    "archived": false
   },
   {
+   "name": "dsh-pypi-live",
+   "full_name": "uckkk/dsh-pypi-live",
+   "url": "https://github.com/uckkk/dsh-pypi-live",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "PyPI包最新版本",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-pypi-live",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-pypi-live"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T14:53:47Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
    "name": "dsh-flour-swap",
    "full_name": "uckkk/dsh-flour-swap",
    "url": "https://github.com/uckkk/dsh-flour-swap",
@@ -305812,39 +305316,6 @@
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-20T14:54:32Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 72
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-charge-time",
-   "full_name": "uckkk/dsh-charge-time",
-   "url": "https://github.com/uckkk/dsh-charge-time",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "充电时间估算",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-charge-time",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-charge-time"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T14:55:12Z"
    },
    "activity": {
     "level": "watch",
@@ -306879,6 +306350,39 @@
    "archived": false
   },
   {
+   "name": "dsh-trip-itinerary",
+   "full_name": "uckkk/dsh-trip-itinerary",
+   "url": "https://github.com/uckkk/dsh-trip-itinerary",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "行程规划",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-trip-itinerary",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-trip-itinerary"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T15:00:36Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
    "name": "dsh-okr-split",
    "full_name": "uckkk/dsh-okr-split",
    "url": "https://github.com/uckkk/dsh-okr-split",
@@ -307033,6 +306537,39 @@
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-20T15:01:32Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
+   "name": "dsh-order-threshold",
+   "full_name": "uckkk/dsh-order-threshold",
+   "url": "https://github.com/uckkk/dsh-order-threshold",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "凑单满减",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-order-threshold",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-order-threshold"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T15:01:49Z"
    },
    "activity": {
     "level": "watch",
@@ -309855,6 +309392,39 @@
    "archived": false
   },
   {
+   "name": "dsh-argentina",
+   "full_name": "uckkk/dsh-argentina",
+   "url": "https://github.com/uckkk/dsh-argentina",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "阿根廷国家",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-argentina",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-argentina"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T15:58:38Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
    "name": "dsh-fire-safety",
    "full_name": "uckkk/dsh-fire-safety",
    "url": "https://github.com/uckkk/dsh-fire-safety",
@@ -310420,39 +309990,6 @@
    "archived": false
   },
   {
-   "name": "dsh-azerbaijan",
-   "full_name": "uckkk/dsh-azerbaijan",
-   "url": "https://github.com/uckkk/dsh-azerbaijan",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "阿塞拜疆国家",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-azerbaijan",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-azerbaijan"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T16:31:22Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 72
-   },
-   "archived": false
-  },
-  {
    "name": "dsh-lanmode",
    "full_name": "GooDAnDReaDY/dsh-lanmode",
    "url": "https://github.com/GooDAnDReaDY/dsh-lanmode",
@@ -310640,6 +310177,39 @@
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-20T16:41:46Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
+   "name": "dsh-bangkok-city",
+   "full_name": "uckkk/dsh-bangkok-city",
+   "url": "https://github.com/uckkk/dsh-bangkok-city",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "曼谷市",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-bangkok-city",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-bangkok-city"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T16:41:07Z"
    },
    "activity": {
     "level": "watch",
@@ -311480,39 +311050,6 @@
    "archived": false
   },
   {
-   "name": "dsh-bhutan",
-   "full_name": "uckkk/dsh-bhutan",
-   "url": "https://github.com/uckkk/dsh-bhutan",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "不丹国家",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-bhutan",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-bhutan"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T17:40:49Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 72
-   },
-   "archived": false
-  },
-  {
    "name": "dsh-uric-acid",
    "full_name": "uckkk/dsh-uric-acid",
    "url": "https://github.com/uckkk/dsh-uric-acid",
@@ -311942,6 +311479,39 @@
    "archived": false
   },
   {
+   "name": "dsh-binomial-pmf",
+   "full_name": "uckkk/dsh-binomial-pmf",
+   "url": "https://github.com/uckkk/dsh-binomial-pmf",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "二项分布",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-binomial-pmf",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-binomial-pmf"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T17:46:25Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
    "name": "dsh-emergency-kit",
    "full_name": "uckkk/dsh-emergency-kit",
    "url": "https://github.com/uckkk/dsh-emergency-kit",
@@ -311964,39 +311534,6 @@
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-20T17:45:50Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 72
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-meeting-prep",
-   "full_name": "uckkk/dsh-meeting-prep",
-   "url": "https://github.com/uckkk/dsh-meeting-prep",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "会前准备",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-meeting-prep",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-meeting-prep"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T17:45:36Z"
    },
    "activity": {
     "level": "watch",
@@ -312637,6 +312174,39 @@
    "archived": false
   },
   {
+   "name": "dsh-paint-care",
+   "full_name": "uckkk/dsh-paint-care",
+   "url": "https://github.com/uckkk/dsh-paint-care",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "漆面养护",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-paint-care",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-paint-care"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T17:53:54Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
    "name": "dsh-sleep-hygiene",
    "full_name": "uckkk/dsh-sleep-hygiene",
    "url": "https://github.com/uckkk/dsh-sleep-hygiene",
@@ -313198,39 +312768,6 @@
    "archived": false
   },
   {
-   "name": "dsh-bohrium",
-   "full_name": "uckkk/dsh-bohrium",
-   "url": "https://github.com/uckkk/dsh-bohrium",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "𬭛元素",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-bohrium",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-bohrium"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T17:59:10Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 72
-   },
-   "archived": false
-  },
-  {
    "name": "dsh-decor-palette",
    "full_name": "uckkk/dsh-decor-palette",
    "url": "https://github.com/uckkk/dsh-decor-palette",
@@ -313649,6 +313186,39 @@
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-20T18:19:25Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
+   "name": "dsh-algo-compare",
+   "full_name": "uckkk/dsh-algo-compare",
+   "url": "https://github.com/uckkk/dsh-algo-compare",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "算法耗时对比",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-algo-compare",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-algo-compare"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T18:26:39Z"
    },
    "activity": {
     "level": "watch",
@@ -315046,39 +314616,6 @@
    "archived": false
   },
   {
-   "name": "dsh-camp-site",
-   "full_name": "uckkk/dsh-camp-site",
-   "url": "https://github.com/uckkk/dsh-camp-site",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "营地选址",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-camp-site",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-camp-site"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T18:38:29Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 72
-   },
-   "archived": false
-  },
-  {
    "name": "dsh-vomit-judge",
    "full_name": "uckkk/dsh-vomit-judge",
    "url": "https://github.com/uckkk/dsh-vomit-judge",
@@ -315970,39 +315507,6 @@
    "archived": false
   },
   {
-   "name": "dsh-c2f",
-   "full_name": "uckkk/dsh-c2f",
-   "url": "https://github.com/uckkk/dsh-c2f",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "摄氏转华氏",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-c2f",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-c2f"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T18:43:16Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 72
-   },
-   "archived": false
-  },
-  {
    "name": "dsh-amount-calc",
    "full_name": "uckkk/dsh-amount-calc",
    "url": "https://github.com/uckkk/dsh-amount-calc",
@@ -316150,39 +315654,6 @@
     "npm": null,
     "github": "github:uckkk/dsh-payback",
     "command": "dsh plugin --profile web add -w github:uckkk/dsh-payback"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T18:44:00Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 72
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-hanfu-buy",
-   "full_name": "uckkk/dsh-hanfu-buy",
-   "url": "https://github.com/uckkk/dsh-hanfu-buy",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "汉服选购避坑",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-hanfu-buy",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-hanfu-buy"
    },
    "stats": {
     "stars": 0,
@@ -317356,39 +316827,6 @@
    "archived": false
   },
   {
-   "name": "dsh-stage-presence",
-   "full_name": "uckkk/dsh-stage-presence",
-   "url": "https://github.com/uckkk/dsh-stage-presence",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "舞台表现力",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-stage-presence",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-stage-presence"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T18:55:20Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 72
-   },
-   "archived": false
-  },
-  {
    "name": "dsh-anti-loss",
    "full_name": "uckkk/dsh-anti-loss",
    "url": "https://github.com/uckkk/dsh-anti-loss",
@@ -317521,6 +316959,39 @@
    "archived": false
   },
   {
+   "name": "dsh-jetlag",
+   "full_name": "uckkk/dsh-jetlag",
+   "url": "https://github.com/uckkk/dsh-jetlag",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "时差调整",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-jetlag",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-jetlag"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T18:53:23Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
    "name": "dsh-caesium",
    "full_name": "uckkk/dsh-caesium",
    "url": "https://github.com/uckkk/dsh-caesium",
@@ -317543,6 +317014,39 @@
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-20T18:53:17Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
+   "name": "dsh-bird-pick",
+   "full_name": "uckkk/dsh-bird-pick",
+   "url": "https://github.com/uckkk/dsh-bird-pick",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "鸟种选择",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-bird-pick",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-bird-pick"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T18:54:26Z"
    },
    "activity": {
     "level": "watch",
@@ -318511,39 +318015,6 @@
    "archived": false
   },
   {
-   "name": "dsh-trip-insure",
-   "full_name": "uckkk/dsh-trip-insure",
-   "url": "https://github.com/uckkk/dsh-trip-insure",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "旅行保险",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-trip-insure",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-trip-insure"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T18:59:07Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 72
-   },
-   "archived": false
-  },
-  {
    "name": "dsh-juice-mix",
    "full_name": "uckkk/dsh-juice-mix",
    "url": "https://github.com/uckkk/dsh-juice-mix",
@@ -318566,39 +318037,6 @@
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-20T18:59:32Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 72
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-biscuit-recipe",
-   "full_name": "uckkk/dsh-biscuit-recipe",
-   "url": "https://github.com/uckkk/dsh-biscuit-recipe",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "饼干配方",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-biscuit-recipe",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-biscuit-recipe"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T18:59:36Z"
    },
    "activity": {
     "level": "watch",
@@ -318973,39 +318411,6 @@
    "archived": false
   },
   {
-   "name": "dsh-bird-tame",
-   "full_name": "uckkk/dsh-bird-tame",
-   "url": "https://github.com/uckkk/dsh-bird-tame",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "驯养上手",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-bird-tame",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-bird-tame"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T19:01:17Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 72
-   },
-   "archived": false
-  },
-  {
    "name": "dsh-dest-check",
    "full_name": "uckkk/dsh-dest-check",
    "url": "https://github.com/uckkk/dsh-dest-check",
@@ -319061,39 +318466,6 @@
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-20T19:01:44Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 72
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-oven-temp",
-   "full_name": "uckkk/dsh-oven-temp",
-   "url": "https://github.com/uckkk/dsh-oven-temp",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "烤箱温度",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-oven-temp",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-oven-temp"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T19:01:46Z"
    },
    "activity": {
     "level": "watch",
@@ -319600,6 +318972,39 @@
    "archived": false
   },
   {
+   "name": "dsh-bake-fix",
+   "full_name": "uckkk/dsh-bake-fix",
+   "url": "https://github.com/uckkk/dsh-bake-fix",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "烘焙失败排查",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-bake-fix",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-bake-fix"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T19:34:00Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
    "name": "dsh-dehumid",
    "full_name": "uckkk/dsh-dehumid",
    "url": "https://github.com/uckkk/dsh-dehumid",
@@ -319622,39 +319027,6 @@
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-20T19:34:04Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 72
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-base-makeup",
-   "full_name": "uckkk/dsh-base-makeup",
-   "url": "https://github.com/uckkk/dsh-base-makeup",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "底妆技巧",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-base-makeup",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-base-makeup"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T19:34:05Z"
    },
    "activity": {
     "level": "watch",
@@ -320161,6 +319533,39 @@
    "archived": false
   },
   {
+   "name": "dsh-bookkeeping",
+   "full_name": "uckkk/dsh-bookkeeping",
+   "url": "https://github.com/uckkk/dsh-bookkeeping",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "记账方法",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-bookkeeping",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-bookkeeping"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T19:36:59Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
    "name": "dsh-polish-pick",
    "full_name": "uckkk/dsh-polish-pick",
    "url": "https://github.com/uckkk/dsh-polish-pick",
@@ -320392,39 +319797,6 @@
    "archived": false
   },
   {
-   "name": "dsh-clay-craft",
-   "full_name": "uckkk/dsh-clay-craft",
-   "url": "https://github.com/uckkk/dsh-clay-craft",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "黏土手工",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-clay-craft",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-clay-craft"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T19:38:19Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 72
-   },
-   "archived": false
-  },
-  {
    "name": "dsh-hair-issue",
    "full_name": "uckkk/dsh-hair-issue",
    "url": "https://github.com/uckkk/dsh-hair-issue",
@@ -320447,39 +319819,6 @@
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-20T19:38:23Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 72
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-cloth-mold",
-   "full_name": "uckkk/dsh-cloth-mold",
-   "url": "https://github.com/uckkk/dsh-cloth-mold",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "衣物防霉",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-cloth-mold",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-cloth-mold"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T19:38:45Z"
    },
    "activity": {
     "level": "watch",
@@ -321976,39 +321315,6 @@
    "archived": false
   },
   {
-   "name": "dsh-ride-train",
-   "full_name": "uckkk/dsh-ride-train",
-   "url": "https://github.com/uckkk/dsh-ride-train",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "骑行训练",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-ride-train",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-ride-train"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T19:45:03Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 72
-   },
-   "archived": false
-  },
-  {
    "name": "dsh-washer-buy",
    "full_name": "uckkk/dsh-washer-buy",
    "url": "https://github.com/uckkk/dsh-washer-buy",
@@ -322174,6 +321480,39 @@
    "archived": false
   },
   {
+   "name": "dsh-pressure-cooker",
+   "full_name": "uckkk/dsh-pressure-cooker",
+   "url": "https://github.com/uckkk/dsh-pressure-cooker",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "压力锅",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-pressure-cooker",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-pressure-cooker"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T19:46:43Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
    "name": "dsh-vacuum-buy",
    "full_name": "uckkk/dsh-vacuum-buy",
    "url": "https://github.com/uckkk/dsh-vacuum-buy",
@@ -322196,39 +321535,6 @@
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-20T19:46:13Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 72
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-small-fix",
-   "full_name": "uckkk/dsh-small-fix",
-   "url": "https://github.com/uckkk/dsh-small-fix",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "水电小修",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-small-fix",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-small-fix"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T19:50:44Z"
    },
    "activity": {
     "level": "watch",
@@ -322735,39 +322041,6 @@
    "archived": false
   },
   {
-   "name": "dsh-mover-pick",
-   "full_name": "uckkk/dsh-mover-pick",
-   "url": "https://github.com/uckkk/dsh-mover-pick",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "搬家公司",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-mover-pick",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-mover-pick"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T19:49:14Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 72
-   },
-   "archived": false
-  },
-  {
    "name": "dsh-vertical-org",
    "full_name": "uckkk/dsh-vertical-org",
    "url": "https://github.com/uckkk/dsh-vertical-org",
@@ -323128,7 +322401,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 36
+    "days_since": 37
    },
    "archived": false
   },
@@ -323161,7 +322434,40 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
+   "name": "dsh-hike-safe",
+   "full_name": "uckkk/dsh-hike-safe",
+   "url": "https://github.com/uckkk/dsh-hike-safe",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "徒步安全",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-hike-safe",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-hike-safe"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T20:22:50Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
    },
    "archived": false
   },
@@ -323194,7 +322500,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -323227,7 +322533,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -323260,7 +322566,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -323293,40 +322599,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-wall-art",
-   "full_name": "uckkk/dsh-wall-art",
-   "url": "https://github.com/uckkk/dsh-wall-art",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "挂画摆放",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-wall-art",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-wall-art"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T20:24:06Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -323359,7 +322632,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -323392,7 +322665,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -323425,7 +322698,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -323458,7 +322731,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -323491,7 +322764,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -323524,7 +322797,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -323557,7 +322830,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -323590,7 +322863,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -323623,7 +322896,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -323656,7 +322929,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -323689,7 +322962,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -323722,7 +322995,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -323755,7 +323028,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -323788,7 +323061,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -323821,7 +323094,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -323854,7 +323127,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -323887,7 +323160,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -323920,7 +323193,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -323953,7 +323226,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -323986,7 +323259,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -324019,7 +323292,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -324052,7 +323325,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -324085,7 +323358,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -324118,7 +323391,40 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
+   "name": "dsh-barking-fix",
+   "full_name": "uckkk/dsh-barking-fix",
+   "url": "https://github.com/uckkk/dsh-barking-fix",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "吠叫纠正",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-barking-fix",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-barking-fix"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T21:33:48Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
    },
    "archived": false
   },
@@ -324151,7 +323457,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -324223,7 +323529,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -324256,7 +323562,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -324322,7 +323628,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -324355,7 +323661,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -324388,7 +323694,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -324421,40 +323727,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-bedtime",
-   "full_name": "uckkk/dsh-bedtime",
-   "url": "https://github.com/uckkk/dsh-bedtime",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "睡前仪式",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-bedtime",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-bedtime"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T22:28:11Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -324487,7 +323760,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -324520,7 +323793,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -324553,7 +323826,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -324586,7 +323859,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -324619,7 +323892,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -324652,7 +323925,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -324685,7 +323958,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -324718,7 +323991,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -324751,7 +324024,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -324784,7 +324057,40 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
+   "name": "dsh-culture-movies",
+   "full_name": "uckkk/dsh-culture-movies",
+   "url": "https://github.com/uckkk/dsh-culture-movies",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "电影类型",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-culture-movies",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-culture-movies"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T23:18:02Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
    },
    "archived": false
   },
@@ -324817,7 +324123,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -325646,7 +324952,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 1
+    "days_since": 2
    },
    "archived": false
   },
@@ -325673,39 +324979,6 @@
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-21T00:57:51Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 71
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-dog-food",
-   "full_name": "uckkk/dsh-dog-food",
-   "url": "https://github.com/uckkk/dsh-dog-food",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "狗粮喂食量",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-dog-food",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-dog-food"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-21T01:00:01Z"
    },
    "activity": {
     "level": "watch",
@@ -327652,6 +326925,39 @@
    "archived": false
   },
   {
+   "name": "dsh-geography-terms",
+   "full_name": "uckkk/dsh-geography-terms",
+   "url": "https://github.com/uckkk/dsh-geography-terms",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "地理术语",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-geography-terms",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-geography-terms"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-21T13:27:31Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 71
+   },
+   "archived": false
+  },
+  {
    "name": "dsh-lagos-city",
    "full_name": "uckkk/dsh-lagos-city",
    "url": "https://github.com/uckkk/dsh-lagos-city",
@@ -327832,39 +327138,6 @@
     "npm": null,
     "github": "github:uckkk/dsh-homework-help",
     "command": "dsh plugin --profile web add -w github:uckkk/dsh-homework-help"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-21T10:18:15Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 71
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-grenada",
-   "full_name": "uckkk/dsh-grenada",
-   "url": "https://github.com/uckkk/dsh-grenada",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "格林纳达国",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-grenada",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-grenada"
    },
    "stats": {
     "stars": 0,
@@ -328238,39 +327511,6 @@
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-21T13:29:33Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 71
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-lanthanum",
-   "full_name": "uckkk/dsh-lanthanum",
-   "url": "https://github.com/uckkk/dsh-lanthanum",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "镧元素",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-lanthanum",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-lanthanum"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-21T11:10:01Z"
    },
    "activity": {
     "level": "watch",
@@ -328667,39 +327907,6 @@
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-21T11:12:06Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 71
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-laos",
-   "full_name": "uckkk/dsh-laos",
-   "url": "https://github.com/uckkk/dsh-laos",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "老挝国家",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-laos",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-laos"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-21T11:12:17Z"
    },
    "activity": {
     "level": "watch",
@@ -329573,39 +328780,6 @@
    "archived": false
   },
   {
-   "name": "dsh-iceland",
-   "full_name": "uckkk/dsh-iceland",
-   "url": "https://github.com/uckkk/dsh-iceland",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "冰岛国家",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-iceland",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-iceland"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-21T11:44:20Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 71
-   },
-   "archived": false
-  },
-  {
    "name": "dsh-is-perfect",
    "full_name": "uckkk/dsh-is-perfect",
    "url": "https://github.com/uckkk/dsh-is-perfect",
@@ -329639,6 +328813,39 @@
    "archived": false
   },
   {
+   "name": "dsh-ghana",
+   "full_name": "uckkk/dsh-ghana",
+   "url": "https://github.com/uckkk/dsh-ghana",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "加纳国家",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-ghana",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-ghana"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-21T11:44:36Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 71
+   },
+   "archived": false
+  },
+  {
    "name": "dsh-paris-city",
    "full_name": "uckkk/dsh-paris-city",
    "url": "https://github.com/uckkk/dsh-paris-city",
@@ -329661,6 +328868,39 @@
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-21T11:44:36Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 71
+   },
+   "archived": false
+  },
+  {
+   "name": "dsh-law-terms",
+   "full_name": "uckkk/dsh-law-terms",
+   "url": "https://github.com/uckkk/dsh-law-terms",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "法律术语",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-law-terms",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-law-terms"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-21T11:44:20Z"
    },
    "activity": {
     "level": "watch",
@@ -329998,6 +329238,39 @@
     "license": "",
     "language": "",
     "pushed_at": "2026-08-21T11:48:59Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 71
+   },
+   "archived": false
+  },
+  {
+   "name": "dsh-kenya",
+   "full_name": "uckkk/dsh-kenya",
+   "url": "https://github.com/uckkk/dsh-kenya",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "肯尼亚国家",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-kenya",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-kenya"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "",
+    "language": "",
+    "pushed_at": "2026-08-21T11:49:03Z"
    },
    "activity": {
     "level": "watch",
@@ -330739,6 +330012,72 @@
    "archived": false
   },
   {
+   "name": "dsh-permutation",
+   "full_name": "uckkk/dsh-permutation",
+   "url": "https://github.com/uckkk/dsh-permutation",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "排列数",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-permutation",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-permutation"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-21T12:51:29Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 71
+   },
+   "archived": false
+  },
+  {
+   "name": "dsh-km2mi",
+   "full_name": "uckkk/dsh-km2mi",
+   "url": "https://github.com/uckkk/dsh-km2mi",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "公里转英里",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-km2mi",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-km2mi"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-21T12:51:30Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 71
+   },
+   "archived": false
+  },
+  {
    "name": "dsh-japan",
    "full_name": "uckkk/dsh-japan",
    "url": "https://github.com/uckkk/dsh-japan",
@@ -330893,6 +330232,39 @@
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-21T12:53:51Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 71
+   },
+   "archived": false
+  },
+  {
+   "name": "dsh-future-space-tourism",
+   "full_name": "uckkk/dsh-future-space-tourism",
+   "url": "https://github.com/uckkk/dsh-future-space-tourism",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "太空旅游",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-future-space-tourism",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-future-space-tourism"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-21T12:53:53Z"
    },
    "activity": {
     "level": "watch",
@@ -332162,39 +331534,6 @@
    "archived": false
   },
   {
-   "name": "dsh-id-renew",
-   "full_name": "uckkk/dsh-id-renew",
-   "url": "https://github.com/uckkk/dsh-id-renew",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "身份证换证",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-id-renew",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-id-renew"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-21T13:23:48Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 71
-   },
-   "archived": false
-  },
-  {
    "name": "dsh-israel",
    "full_name": "uckkk/dsh-israel",
    "url": "https://github.com/uckkk/dsh-israel",
@@ -333250,7 +332589,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 61
+    "days_since": 62
    },
    "archived": false
   },
@@ -333283,7 +332622,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 50
+    "days_since": 51
    },
    "archived": false
   },
@@ -333777,7 +333116,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 13
+    "days_since": 14
    },
    "archived": false
   },
@@ -335154,7 +334493,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 65
+    "days_since": 66
    },
    "archived": false
   },
@@ -335366,7 +334705,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 69
+    "days_since": 70
    },
    "archived": false
   },
@@ -337010,7 +336349,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 50
+    "days_since": 51
    },
    "archived": false
   },
@@ -337646,14 +336985,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-23T12:38:12Z"
+    "pushed_at": "2026-10-31T23:13:29Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 8
+    "days_since": 0
    },
    "archived": false
   },
@@ -339950,7 +339289,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 41
+    "days_since": 42
    },
    "archived": false
   },
@@ -342098,7 +341437,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 65
+    "days_since": 66
    },
    "archived": false
   },
@@ -342672,7 +342011,7 @@
     "forks": 0,
     "license": "",
     "language": "TypeScript",
-    "pushed_at": "2026-10-31T13:04:30Z"
+    "pushed_at": "2026-10-31T21:51:44Z"
    },
    "activity": {
     "level": "active",
@@ -342917,7 +342256,7 @@
     "forks": 0,
     "license": "Apache-2.0",
     "language": "TypeScript",
-    "pushed_at": "2026-10-31T11:09:41Z"
+    "pushed_at": "2026-10-31T20:14:05Z"
    },
    "activity": {
     "level": "active",
@@ -343379,7 +342718,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 34
+    "days_since": 35
    },
    "archived": false
   },
@@ -343861,7 +343200,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 25
+    "days_since": 26
    },
    "archived": false
   },
@@ -343894,7 +343233,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 65
+    "days_since": 66
    },
    "archived": false
   },
@@ -344920,7 +344259,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 7
+    "days_since": 8
    },
    "archived": false
   },
@@ -345192,7 +344531,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 64
+    "days_since": 65
    },
    "archived": false
   },
@@ -345258,7 +344597,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 64
+    "days_since": 65
    },
    "archived": false
   },
@@ -345291,7 +344630,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 64
+    "days_since": 65
    },
    "archived": false
   },
@@ -345324,7 +344663,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 64
+    "days_since": 65
    },
    "archived": false
   },
@@ -345357,7 +344696,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 64
+    "days_since": 65
    },
    "archived": false
   },
@@ -354264,7 +353603,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 31
+    "days_since": 32
    },
    "archived": false
   },
@@ -354299,7 +353638,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 31
+    "days_since": 32
    },
    "archived": false
   },
@@ -354505,7 +353844,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 50
+    "days_since": 51
    },
    "archived": false
   },
@@ -354538,7 +353877,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 50
+    "days_since": 51
    },
    "archived": false
   },
@@ -355541,7 +354880,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 5
+    "days_since": 6
    },
    "archived": false
   },
@@ -355922,43 +355261,6 @@
     "license": "NOASSERTION",
     "language": "TypeScript",
     "pushed_at": "2026-08-16T08:58:33Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 76
-   },
-   "archived": false
-  },
-  {
-   "name": "ds-balance",
-   "full_name": "Lateautumns/ds-balance",
-   "url": "https://github.com/Lateautumns/ds-balance",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "",
-   "summary_en": "",
-   "tags": [
-    "balance",
-    "billing",
-    "deepseek"
-   ],
-   "install": {
-    "npm": null,
-    "github": "github:Lateautumns/ds-balance",
-    "command": "dsh plugin --profile web add -w github:Lateautumns/ds-balance"
-   },
-   "stats": {
-    "stars": 1,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-16T08:39:14Z"
    },
    "activity": {
     "level": "watch",
@@ -356688,7 +355990,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -357227,7 +356529,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 31
+    "days_since": 32
    },
    "archived": false
   },
@@ -357329,7 +356631,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 31
+    "days_since": 32
    },
    "archived": false
   },
@@ -358584,39 +357886,6 @@
    "archived": false
   },
   {
-   "name": "dsh-log-analyzer",
-   "full_name": "uckkk/dsh-log-analyzer",
-   "url": "https://github.com/uckkk/dsh-log-analyzer",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "日志分析：解析日志文件，按签名聚合错误/异常/告警并返回结构化清单与上下文",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-log-analyzer",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-log-analyzer"
-   },
-   "stats": {
-    "stars": 1,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-19T15:18:39Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 73
-   },
-   "archived": false
-  },
-  {
    "name": "project-understanding",
    "full_name": "guchengyouzi12138/project-understanding",
    "url": "https://github.com/guchengyouzi12138/project-understanding",
@@ -359362,7 +358631,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 22
+    "days_since": 23
    },
    "archived": false
   },
@@ -360079,7 +359348,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 31
+    "days_since": 32
    },
    "archived": false
   },
@@ -363606,42 +362875,6 @@
    "archived": false
   },
   {
-   "name": "mxl-dsh-plugins",
-   "full_name": "youkeq/mxl-dsh-plugins",
-   "url": "https://github.com/youkeq/mxl-dsh-plugins",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "",
-   "summary_en": "deepseek harness Plugins",
-   "tags": [
-    "deepseek",
-    "harness"
-   ],
-   "install": {
-    "npm": null,
-    "github": "github:youkeq/mxl-dsh-plugins",
-    "command": "dsh plugin --profile web add -w github:youkeq/mxl-dsh-plugins"
-   },
-   "stats": {
-    "stars": 1,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-16T18:51:08Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 76
-   },
-   "archived": false
-  },
-  {
    "name": "dsh-http",
    "full_name": "ZhenMoon/dsh-http",
    "url": "https://github.com/ZhenMoon/dsh-http",
@@ -363778,39 +363011,6 @@
     "label_en": "Watch",
     "max_days": 90,
     "days_since": 76
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-model-router",
-   "full_name": "fonlan/dsh-model-router",
-   "url": "https://github.com/fonlan/dsh-model-router",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:fonlan/dsh-model-router",
-    "command": "dsh plugin --profile web add -w github:fonlan/dsh-model-router"
-   },
-   "stats": {
-    "stars": 1,
-    "forks": 1,
-    "license": "MIT",
-    "language": "TypeScript",
-    "pushed_at": "2026-10-30T16:10:58Z"
-   },
-   "activity": {
-    "level": "active",
-    "label_zh": "活跃",
-    "label_en": "Active",
-    "max_days": 30,
-    "days_since": 1
    },
    "archived": false
   },
@@ -364375,14 +363575,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-18T19:09:54Z"
+    "pushed_at": "2026-10-31T22:12:39Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 13
+    "days_since": 0
    },
    "archived": false
   },
@@ -364415,7 +363615,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -364481,7 +363681,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -364581,14 +363781,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-10-23T22:59:29Z"
+    "pushed_at": "2026-10-31T21:52:11Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 7
+    "days_since": 0
    },
    "archived": false
   },
@@ -364656,7 +363856,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -364693,7 +363893,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 4
+    "days_since": 5
    },
    "archived": false
   },
@@ -372308,7 +371508,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 40
+    "days_since": 41
    },
    "archived": false
   },
@@ -372477,7 +371677,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 74
+    "days_since": 75
    },
    "archived": false
   },
@@ -372617,7 +371817,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 7
+    "days_since": 8
    },
    "archived": false
   },
@@ -372894,7 +372094,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 73
+    "days_since": 74
    },
    "archived": false
   },
@@ -375643,7 +374843,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 72
+    "days_since": 73
    },
    "archived": false
   },
@@ -377103,7 +376303,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 7
+    "days_since": 8
    },
    "archived": false
   },
@@ -377173,7 +376373,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 71
+    "days_since": 72
    },
    "archived": false
   },
@@ -379691,7 +378891,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 31
+    "days_since": 32
    },
    "archived": false
   },
@@ -385962,7 +385162,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 72
+    "days_since": 73
    },
    "archived": false
   },
@@ -386065,7 +385265,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 36
+    "days_since": 37
    },
    "archived": false
   },
@@ -386101,7 +385301,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 72
+    "days_since": 73
    },
    "archived": false
   },
@@ -386245,7 +385445,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 72
+    "days_since": 73
    },
    "archived": false
   },
@@ -386278,7 +385478,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 72
+    "days_since": 73
    },
    "archived": false
   },
@@ -386311,7 +385511,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 72
+    "days_since": 73
    },
    "archived": false
   },
@@ -386509,6 +385709,39 @@
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-20T00:00:21Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
+   "name": "dsh-bahrain",
+   "full_name": "uckkk/dsh-bahrain",
+   "url": "https://github.com/uckkk/dsh-bahrain",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "巴林国",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-bahrain",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-bahrain"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T00:02:33Z"
    },
    "activity": {
     "level": "watch",
@@ -386740,6 +385973,39 @@
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-20T00:16:54Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
+   "name": "dsh-tax-income",
+   "full_name": "uckkk/dsh-tax-income",
+   "url": "https://github.com/uckkk/dsh-tax-income",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "个税计算器",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-tax-income",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-tax-income"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T00:18:07Z"
    },
    "activity": {
     "level": "watch",
@@ -387279,6 +386545,72 @@
    "archived": false
   },
   {
+   "name": "dsh-depth-of-field",
+   "full_name": "uckkk/dsh-depth-of-field",
+   "url": "https://github.com/uckkk/dsh-depth-of-field",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "景深计算器",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-depth-of-field",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-depth-of-field"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T00:24:42Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
+   "name": "dsh-liberia",
+   "full_name": "uckkk/dsh-liberia",
+   "url": "https://github.com/uckkk/dsh-liberia",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "利比里亚国",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-liberia",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-liberia"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T00:25:10Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
    "name": "dsh-tea-brew",
    "full_name": "uckkk/dsh-tea-brew",
    "url": "https://github.com/uckkk/dsh-tea-brew",
@@ -387664,39 +386996,6 @@
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-20T00:28:00Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 72
-   },
-   "archived": false
-  },
-  {
-   "name": "dsh-running-pace",
-   "full_name": "uckkk/dsh-running-pace",
-   "url": "https://github.com/uckkk/dsh-running-pace",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "跑步配速计算",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:uckkk/dsh-running-pace",
-    "command": "dsh plugin --profile web add -w github:uckkk/dsh-running-pace"
-   },
-   "stats": {
-    "stars": 0,
-    "forks": 0,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-20T00:28:07Z"
    },
    "activity": {
     "level": "watch",
@@ -388192,6 +387491,39 @@
     "license": "MIT",
     "language": "JavaScript",
     "pushed_at": "2026-08-20T00:32:31Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 72
+   },
+   "archived": false
+  },
+  {
+   "name": "dsh-mandarin-grade",
+   "full_name": "uckkk/dsh-mandarin-grade",
+   "url": "https://github.com/uckkk/dsh-mandarin-grade",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "普通话等级",
+   "summary_en": "",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:uckkk/dsh-mandarin-grade",
+    "command": "dsh plugin --profile web add -w github:uckkk/dsh-mandarin-grade"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-20T00:32:58Z"
    },
    "activity": {
     "level": "watch",
@@ -389457,11 +388789,11 @@
     "command": "dsh plugin --profile web add -w github:esengine/DeepSeek-Reasonix"
    },
    "stats": {
-    "stars": 36020,
+    "stars": 36022,
     "forks": 2500,
     "license": "MIT",
     "language": "Go",
-    "pushed_at": "2026-10-31T18:27:14Z"
+    "pushed_at": "2026-10-31T21:27:15Z"
    },
    "activity": {
     "level": "active",
@@ -389691,7 +389023,7 @@
    },
    "stats": {
     "stars": 4,
-    "forks": 0,
+    "forks": 1,
     "license": "GPL-3.0",
     "language": "Python",
     "pushed_at": "2026-08-13T14:46:00Z"
@@ -390218,7 +389550,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 51
+    "days_since": 52
    },
    "archived": false
   },
@@ -391320,7 +390652,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 80
+    "days_since": 81
    },
    "archived": false
   },
@@ -391650,7 +390982,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 14
+    "days_since": 15
    },
    "archived": false
   },
@@ -393058,7 +392390,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 78
+    "days_since": 79
    },
    "archived": false
   },
@@ -393085,7 +392417,7 @@
     "command": "dsh plugin --profile web add -w github:yyh-001/dsh-meme"
    },
    "stats": {
-    "stars": 466,
+    "stars": 467,
     "forks": 8,
     "license": "MIT",
     "language": "JavaScript",
@@ -393169,7 +392501,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 78
+    "days_since": 79
    },
    "archived": false
   },
@@ -394653,7 +393985,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 5
+    "days_since": 6
    },
    "archived": false
   },
@@ -394686,7 +394018,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 50
+    "days_since": 51
    },
    "archived": false
   },
@@ -395177,7 +394509,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 77
+    "days_since": 78
    },
    "archived": false
   },
@@ -395358,7 +394690,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 78
+    "days_since": 79
    },
    "archived": false
   },
@@ -395496,7 +394828,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 78
+    "days_since": 79
    },
    "archived": false
   },
@@ -395566,7 +394898,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 78
+    "days_since": 79
    },
    "archived": false
   },
@@ -395605,7 +394937,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 78
+    "days_since": 79
    },
    "archived": false
   },
@@ -395668,7 +395000,7 @@
     "forks": 2,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T17:51:00Z"
+    "pushed_at": "2026-10-31T21:45:45Z"
    },
    "activity": {
     "level": "active",
@@ -395744,7 +395076,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 78
+    "days_since": 79
    },
    "archived": false
   },
@@ -396956,7 +396288,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 65
+    "days_since": 66
    },
    "archived": false
   },
@@ -397097,7 +396429,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -397677,7 +397009,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T18:19:59Z"
+    "pushed_at": "2026-10-31T23:00:31Z"
    },
    "activity": {
     "level": "active",
@@ -397775,7 +397107,7 @@
     "command": "dsh plugin --profile web add -w github:LayneChai/superpowers-dsh"
    },
    "stats": {
-    "stars": 133,
+    "stars": 134,
     "forks": 10,
     "license": "",
     "language": "JavaScript",
@@ -398612,7 +397944,7 @@
     "forks": 0,
     "license": "",
     "language": "Python",
-    "pushed_at": "2026-10-31T19:16:54Z"
+    "pushed_at": "2026-10-31T22:25:21Z"
    },
    "activity": {
     "level": "active",
@@ -398890,7 +398222,7 @@
     "forks": 38,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T12:24:10Z"
+    "pushed_at": "2026-10-31T21:31:38Z"
    },
    "activity": {
     "level": "active",
@@ -399406,7 +398738,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -404654,7 +403986,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 2
+    "days_since": 3
    },
    "archived": false
   },
@@ -404898,7 +404230,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 14
+    "days_since": 15
    },
    "archived": false
   },
@@ -405694,7 +405026,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 75
+    "days_since": 76
    },
    "archived": false
   },
@@ -408181,7 +407513,7 @@
     "forks": 12,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-31T14:49:09Z"
+    "pushed_at": "2026-10-31T21:43:03Z"
    },
    "activity": {
     "level": "active",
@@ -408535,7 +407867,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 55
+    "days_since": 56
    },
    "archived": false
   },
@@ -408568,7 +407900,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -408778,7 +408110,7 @@
     "forks": 0,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-10-31T12:23:44Z"
+    "pushed_at": "2026-10-31T21:31:15Z"
    },
    "activity": {
     "level": "active",
@@ -409394,7 +408726,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 77
+    "days_since": 78
    },
    "archived": false
   },
@@ -409460,7 +408792,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 77
+    "days_since": 78
    },
    "archived": false
   },
@@ -409493,7 +408825,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 77
+    "days_since": 78
    },
    "archived": false
   },
@@ -409910,7 +409242,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 16
+    "days_since": 17
    },
    "archived": false
   },
@@ -410259,7 +409591,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 66
+    "days_since": 67
    },
    "archived": false
   },
@@ -410914,6 +410246,39 @@
    "archived": false
   },
   {
+   "name": "dsh-http",
+   "full_name": "ZhijiangTang/dsh-http",
+   "url": "https://github.com/ZhijiangTang/dsh-http",
+   "category": {
+    "slug": "utility",
+    "name_zh": "工具与效率",
+    "name_en": "Utilities & Productivity"
+   },
+   "summary_zh": "",
+   "summary_en": "DSH plugin: structured HTTP request tool — status/timing/size, auth helpers, JSON parsing",
+   "tags": [],
+   "install": {
+    "npm": null,
+    "github": "github:ZhijiangTang/dsh-http",
+    "command": "dsh plugin --profile web add -w github:ZhijiangTang/dsh-http"
+   },
+   "stats": {
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "language": "JavaScript",
+    "pushed_at": "2026-08-16T13:08:44Z"
+   },
+   "activity": {
+    "level": "watch",
+    "label_zh": "关注",
+    "label_en": "Watch",
+    "max_days": 90,
+    "days_since": 76
+   },
+   "archived": false
+  },
+  {
    "name": "dsh-case",
    "full_name": "ZhijiangTang/dsh-case",
    "url": "https://github.com/ZhijiangTang/dsh-case",
@@ -411168,14 +410533,14 @@
     "forks": 3,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-10-29T03:44:16Z"
+    "pushed_at": "2026-10-31T22:13:19Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 2
+    "days_since": 0
    },
    "archived": false
   },
@@ -411657,7 +411022,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -414120,39 +413485,6 @@
    "archived": false
   },
   {
-   "name": "dsh-api-balance",
-   "full_name": "GPIOX/dsh-api-balance",
-   "url": "https://github.com/GPIOX/dsh-api-balance",
-   "category": {
-    "slug": "utility",
-    "name_zh": "工具与效率",
-    "name_en": "Utilities & Productivity"
-   },
-   "summary_zh": "DeepSeek Harness 动态 Cordis 插件：可拖动、可缩放、亚克力质感的 API 余额悬浮徽章",
-   "summary_en": "",
-   "tags": [],
-   "install": {
-    "npm": null,
-    "github": "github:GPIOX/dsh-api-balance",
-    "command": "dsh plugin --profile web add -w github:GPIOX/dsh-api-balance"
-   },
-   "stats": {
-    "stars": 1,
-    "forks": 1,
-    "license": "MIT",
-    "language": "JavaScript",
-    "pushed_at": "2026-08-17T09:06:22Z"
-   },
-   "activity": {
-    "level": "watch",
-    "label_zh": "关注",
-    "label_en": "Watch",
-    "max_days": 90,
-    "days_since": 75
-   },
-   "archived": false
-  },
-  {
    "name": "dsh-chinese-thinking",
    "full_name": "Max-Null/dsh-chinese-thinking",
    "url": "https://github.com/Max-Null/dsh-chinese-thinking",
@@ -415240,7 +414572,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -416207,7 +415539,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 13
+    "days_since": 14
    },
    "archived": false
   },
@@ -416693,14 +416025,14 @@
     "forks": 0,
     "license": "MIT",
     "language": "JavaScript",
-    "pushed_at": "2026-10-26T20:35:59Z"
+    "pushed_at": "2026-10-31T21:52:47Z"
    },
    "activity": {
     "level": "active",
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 4
+    "days_since": 0
    },
    "archived": false
   },
@@ -416758,7 +416090,7 @@
     "command": "dsh plugin --profile web add -w github:losebird/dsh-plugin-market"
    },
    "stats": {
-    "stars": 23,
+    "stars": 22,
     "forks": 26,
     "license": "",
     "language": "JavaScript",
@@ -418828,7 +418160,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 69
+    "days_since": 70
    },
    "archived": false
   },
@@ -419006,7 +418338,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -419147,7 +418479,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 76
+    "days_since": 77
    },
    "archived": false
   },
@@ -419257,7 +418589,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 24
+    "days_since": 25
    },
    "archived": false
   },
@@ -419334,7 +418666,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 38
+    "days_since": 39
    },
    "archived": false
   },
@@ -419374,7 +418706,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 38
+    "days_since": 39
    },
    "archived": false
   },
@@ -419930,7 +419262,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 69
+    "days_since": 70
    },
    "archived": false
   },
@@ -420672,7 +420004,7 @@
     "label_zh": "关注",
     "label_en": "Watch",
     "max_days": 90,
-    "days_since": 39
+    "days_since": 40
    },
    "archived": false
   },
@@ -421195,7 +420527,7 @@
     "label_zh": "活跃",
     "label_en": "Active",
     "max_days": 30,
-    "days_since": 0
+    "days_since": 1
    },
    "archived": false
   },
@@ -422195,7 +421527,7 @@
     "command": "dsh plugin --profile web add -w github:titanwings/distilly"
    },
    "stats": {
-    "stars": 26239,
+    "stars": 26243,
     "forks": 2242,
     "license": "MIT",
     "language": "Python",
@@ -422228,8 +421560,8 @@
     "command": "dsh plugin --profile web add -w github:volcengine/OpenViking"
    },
    "stats": {
-    "stars": 41244,
-    "forks": 3346,
+    "stars": 41247,
+    "forks": 3347,
     "license": "AGPL-3.0",
     "language": "Python",
     "pushed_at": "2026-10-31T18:51:06Z"
@@ -422261,11 +421593,11 @@
     "command": "dsh plugin --profile web add -w github:reactive-resume/reactive-resume"
    },
    "stats": {
-    "stars": 45123,
-    "forks": 4904,
+    "stars": 45127,
+    "forks": 4903,
     "license": "MIT",
     "language": "TypeScript",
-    "pushed_at": "2026-10-31T17:54:45Z"
+    "pushed_at": "2026-10-31T22:53:31Z"
    },
    "activity": {
     "level": "active",
@@ -422294,8 +421626,8 @@
     "command": "dsh plugin --profile web add -w github:nexu-io/open-design"
    },
    "stats": {
-    "stars": 105175,
-    "forks": 11990,
+    "stars": 105186,
+    "forks": 11992,
     "license": "Apache-2.0",
     "language": "TypeScript",
     "pushed_at": "2026-10-31T18:16:57Z"
@@ -422327,8 +421659,8 @@
     "command": "dsh plugin --profile web add -w github:deepseek-ai/deepseek-harness"
    },
    "stats": {
-    "stars": 267378,
-    "forks": 32418,
+    "stars": 267425,
+    "forks": 32427,
     "license": "MIT",
     "language": "TypeScript",
     "pushed_at": "2026-10-30T06:54:11Z"
